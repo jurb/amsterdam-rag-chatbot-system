@@ -1,3 +1,20 @@
+# This is an ugly fork for subsidie info :)
+
+This version uses an azure openai resource and hides the other llm options. I checked in documents about subsidie, scraped with the tool mentioned below. That needs to be periodically refreshe
+
+create an .env file with the following:
+
+```
+AZURE_RESOURCE_NAME=ai-openai-ont
+AZURE_API_KEY=xxxxxxxx  # <-- get this from the azure portal
+AZURE_API_ENDPOINT=https://ai-openai-ont.openai.azure.com/
+AZURE_API_VERSION=2024-04-01-preview
+AZURE_DEPLOYMENT=gpt-4o
+AZURE_MODEL=gpt-4o
+AZURE_EMB_MODEL=text-embedding-3-large
+AZURE_EMB_DEPLOYMENT=text-embedding-3-large
+AZURE_EMB_API_VERSION=2024-02-01
+```
 
 # Amsterdam RAG Chatbot System
 
