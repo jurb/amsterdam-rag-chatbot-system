@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="static/styles.css">
 </head>
+
 <body>
     <button id="sidebar-toggle">
         <i class="fas fa-bars"></i>
@@ -18,6 +20,7 @@
 
     <div id="top-bar" class="shifted">
         <img src="https://www.kuuk.nl/wp-content/uploads/2019/05/logo-gemeente-amsterdam.png" alt="Placeholder Image">
+<strong>Subsidie vraagbaak</strong>
         <div id="model-switcher-container">
             <button id="model-switcher">
                 ChatGPT 4o mini
@@ -32,6 +35,7 @@
                             <span class="model-description">OpenAI model</span>
                         </span>
                     </button>
+
                 </div>
                 <div class="dropdown-item">
                     <button data-model="Gemini Pro">
@@ -62,30 +66,30 @@
                 </div>
             </div>
         </div>
-    </div>    
+    </div>
     <div id="chat-container">
         <div id="placeholder-message">
             <div>Hallo,</div>
-            <div>waar kan ik je vandaag mee helpen?</div>
+            <div>heb je een subsidievraag?</div>
         </div>
         <div id="svg-container">
-            <img src="static/images/amsterdam-xxx.svg" alt="Amsterdam XXX">
+            <img src="static/images/amsterdam-xxx.svg" style="height: 150px; width: 30px;" alt="Amsterdam XXX">
         </div>
         <div id="messages"></div>
     </div>
     <div id="outer-container">
-            <div id="image-upload-container">
-                <button class="icon-button" id="image-upload-button">
-                    <i class="fa-solid fa-image"></i>
-                    <input type="file" id="image-upload" accept="image/*">
-                </button>
+        <div id="image-upload-container">
+            <button class="icon-button" id="image-upload-button">
+                <i class="fa-solid fa-image"></i>
+                <input type="file" id="image-upload" accept="image/*">
+            </button>
+        </div>
+        <div id="input-wrapper">
+            <div id="image-preview">
+                <div id="image-container"></div>
             </div>
-            <div id="input-wrapper">
-                <div id="image-preview">
-                    <div id="image-container"></div>
-                </div>
-                <textarea id="user-input" placeholder="Vraag iets..." rows="1"></textarea>
-            </div>
+            <textarea id="user-input" placeholder="Bijvoorbeeld 'kan ik geld voor zonnepanelen voor mijn stichting krijgen?'" rows="1"></textarea>
+        </div>
         <div id="button-wrapper">
             <button class="icon-button" id="send-button" disabled>
                 <i class="fa-solid fa-arrow-up"></i>
@@ -99,4 +103,5 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="static/scripts.js"></script>
 </body>
+
 </html>
