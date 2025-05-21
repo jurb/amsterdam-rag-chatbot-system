@@ -2,13 +2,17 @@ import argparse
 import base64
 import json
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 import google.generativeai as GoogleGenAI
 import requests
 from groq import Groq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import Chroma
-from openai import OpenAI
+from openai import AzureOpenAI, OpenAI
 
 import config as cfg
 from helpers.embedding_helpers import OpenAIEmbeddingFunction
@@ -62,7 +66,7 @@ class QueryProcessor:
 
     def process_image(self, base64_image):
         """
-        Generate discription of image.
+        Generate description of image.
 
         Args:
             base64_image (base64): The image as base64.
@@ -72,29 +76,60 @@ class QueryProcessor:
                 - content (str): Description of image.
                 - total_tokens (int): total tokens used to process image.
         """
-        client = OpenAI(api_key=cfg.API_KEYS["openai"])
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages = [
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": "Wat staat er op deze afbeelding?"
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/jpeg;base64,{base64_image}",
-                            "detail": "low"
+        # Check if we should use Azure OpenAI or regular OpenAI
+        if os.getenv("AZURE_API_KEY") and self.model_name == "ChatGPT 4o mini":
+            client = AzureOpenAI(
+                api_key=os.getenv("AZURE_API_KEY"),
+                api_version=os.getenv("AZURE_API_VERSION"),
+                azure_endpoint=os.getenv("AZURE_API_ENDPOINT")
+            )
+            deployment_name = os.getenv("AZURE_DEPLOYMENT")
+            response = client.chat.completions.create(
+                model=deployment_name,
+                messages = [
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Wat staat er op deze afbeelding?"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": f"data:image/jpeg;base64,{base64_image}",
+                                "detail": "low"
+                                }
                             }
-                        }
-                    ]
-                }
-            ],
-            max_tokens = 300
-        )
+                        ]
+                    }
+                ],
+                max_tokens = 300
+            )
+        else:
+            client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages = [
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Wat staat er op deze afbeelding?"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": f"data:image/jpeg;base64,{base64_image}",
+                                "detail": "low"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                max_tokens = 300
+            )
         return response.choices[0].message.content
 
     def summarize_query(self, image_description=None):
@@ -179,7 +214,6 @@ class QueryProcessor:
         
         return prompt
 
-
     def invoke_model(self, prompt, summarize=False):
         """
         Invoke the language model to generate a response based on the provided prompt.
@@ -194,7 +228,7 @@ class QueryProcessor:
         system_content = "Je bent een behulpzame assistent" if summarize else "Je bent een behulpzame ambtenaar."
         
         if self.model_name == "Llama 3 (70b)":
-            client = Groq(api_key=cfg.API_KEYS["llama"])
+            client = Groq(api_key=os.getenv("LLAMA_API_KEY"))
             completion = client.chat.completions.create(
                 model="llama3-70b-8192",
                 messages=[
@@ -204,7 +238,7 @@ class QueryProcessor:
             )
 
         elif self.model_name == "Mixtral (8x7b)":
-            client = Groq(api_key=cfg.API_KEYS["mixtral"])
+            client = Groq(api_key=os.getenv("MIXTRAL_API_KEY"))
             completion = client.chat.completions.create(
                 model="mixtral-8x7b-32768",
                 messages=[
@@ -214,17 +248,33 @@ class QueryProcessor:
             )
 
         elif self.model_name == "ChatGPT 4o mini":
-            client = OpenAI(api_key=cfg.API_KEYS["openai"])
-            completion = client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[
-                    {"role": "system", "content": system_content},
-                    {"role": "user", "content": prompt}
-                ]
-            )
+            # Check if we should use Azure OpenAI
+            if os.getenv("AZURE_API_KEY"):
+                client = AzureOpenAI(
+                    api_key=os.getenv("AZURE_API_KEY"),
+                    api_version=os.getenv("AZURE_API_VERSION"),
+                    azure_endpoint=os.getenv("AZURE_API_ENDPOINT")
+                )
+                deployment_name = os.getenv("AZURE_DEPLOYMENT")
+                completion = client.chat.completions.create(
+                    model=deployment_name,
+                    messages=[
+                        {"role": "system", "content": system_content},
+                        {"role": "user", "content": prompt}
+                    ]
+                )
+            else:
+                client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+                completion = client.chat.completions.create(
+                    model="gpt-4o-mini",
+                    messages=[
+                        {"role": "system", "content": system_content},
+                        {"role": "user", "content": prompt}
+                    ]
+                )
             
         elif self.model_name == "Gemini Pro":
-            GoogleGenAI.configure(api_key=cfg.API_KEYS["google"])
+            GoogleGenAI.configure(api_key=os.getenv("GOOGLE_API_KEY"))
             model = GoogleGenAI.GenerativeModel(model_name="gemini-1.5-pro")
             response_text = model.generate_content(prompt).text
             return response_text
