@@ -17,7 +17,14 @@ AZURE_EMB_DEPLOYMENT=text-embedding-3-large
 AZURE_EMB_API_VERSION=2024-02-01
 ```
 
-3. follow the rest of the instructions below
+3. `cd src`
+4. run the scripts with uv (or follow the instructions below):
+
+`uv run  --with flask --with openai --with google-generativeai --with groq --with sounddevice --with PyAudio --with tqdm --with langchain==0.2.1 --with langchain-cli==0.0.23 --with langchain-community==0.2.1 --with langchain-core==0.2.30 --with langchain-text-splitters==0.2.0 --with chromadb==0.4.24 --with dotenv populate_database.py`
+
+(this will take a while the first time! like 20 mins... subsequent updates will be much faster)
+
+`uv run  --with flask --with openai --with google-generativeai --with groq --with sounddevice --with PyAudio --with tqdm --with langchain==0.2.1 --with langchain-cli==0.0.23 --with langchain-community==0.2.1 --with langchain-core==0.2.30 --with langchain-text-splitters==0.2.0 --with chromadb==0.4.24 --with dotenv app.py`
 
 # Amsterdam RAG Chatbot System
 
