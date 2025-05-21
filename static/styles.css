@@ -131,6 +131,7 @@ body {
 
 /* Model switcher and dropdown styles */
 #model-switcher-container {
+        visibility: hidden;
     position: relative;
 }
 
