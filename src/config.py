@@ -1,12 +1,18 @@
+from dotenv import load_dotenv
+import os
+load_dotenv()
+
 # Constants
 CHROMA_PATH = "../chroma"
 DATA_PATH = '../data'
 SESSION_FILE = "session.json"
 
+print(os.getenv("AZURE_RESOURCE_NAME"))
+
 API_KEYS = {
     "llama": "GROQ API KEY",
     "mixtral": "GROQ API KEY",
-    "openai": "OpenAI API KEY",
+    "openai": os.getenv("OPENAI_API_KEY"),
     "google": "Google AI Studio API KEY"
 }
 
