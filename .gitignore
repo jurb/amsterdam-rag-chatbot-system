@@ -2,7 +2,7 @@
 
 # Text / html
 *.csv
-*.txt
+# *.txt
 *.html
 
 # Geo data
