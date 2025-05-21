@@ -209,3 +209,9 @@ cython_debug/
 
 # Secrets
 my_secrets.py
+src/session.json
+chroma/chroma.sqlite3
+chroma/d5e356c1-4f54-44f4-9022-c3f1a99793f0/data_level0.bin
+chroma/d5e356c1-4f54-44f4-9022-c3f1a99793f0/header.bin
+chroma/d5e356c1-4f54-44f4-9022-c3f1a99793f0/length.bin
+chroma/d5e356c1-4f54-44f4-9022-c3f1a99793f0/link_lists.bin
