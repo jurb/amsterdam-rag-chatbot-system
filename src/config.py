@@ -55,6 +55,7 @@ VRAAG: {question}
 INSTRUCTIES:
 Beantwoord de VRAAG gegeven de DOCUMENTEN, CHATGESCHIEDENIS en AFBEELDINGSBESCHRIJVING.
 Houd je antwoord gegrond in de feiten in de DOCUMENTEN en CHATGESCHIEDENIS.
+Kijk of er meerdere antwoorden mogelijk zijn door meerdere DOCUMENTEN te gebruiken.
 Je mag ook eventuele links meegegeven die leiden naar de webpagina waar het antwoord te vinden is.
 """
 
