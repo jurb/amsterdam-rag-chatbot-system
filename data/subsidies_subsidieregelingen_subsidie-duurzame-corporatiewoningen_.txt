@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie duurzame corporatiewoningen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-corporatiewoningen/)
+[PAGE LINK: Subsidie duurzame Amsterdamse gebouwen – Duurzame nieuwe corporatiewoningen (hoofdstuk 5)](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-corporatiewoningen/)
 
 # Subsidie duurzame Amsterdamse gebouwen – Duurzame nieuwe corporatiewoningen (hoofdstuk 5)
 
@@ -41,7 +41,8 @@ U vindt een precieze definitie van de begrippen Buiksloterham, energieneutraal, 
 
 #### Oude afspraken
 
-Een kavel komt niet in aanmerking voor subsidie als er voor 10 november 2020 al afspraken met de gemeente Amsterdam waren over de realisatie van gebouwen op het kavel. Het college kan subsidie weigeren te verlenen als er voor het moment van de subsidieaanvraag schriftelijke afspraken bestonden tussen de gemeente en derden over de milieuprestatiegebouwwaarde of de energieprestaties van het gebouw waarvoor subsidie wordt aangevraagd.
+Een kavel komt niet in aanmerking voor subsidie als er voor 10 november 2020 al afspraken met de gemeente Amsterdam waren over de realisatie van gebouwen op het kavel.
+Het college kan subsidie weigeren te verlenen als er voor het moment van de subsidieaanvraag schriftelijke afspraken bestonden tussen de gemeente en derden over de milieuprestatiegebouwwaarde of de energieprestaties van het gebouw waarvoor subsidie wordt aangevraagd.
 
 #### Hoogte van de subsidie
 
@@ -190,4 +191,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie warm aardgasvrij](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-warm-aardgasvrij/)
+[PAGE LINK: Subsidie Duurzame Amsterdamse gebouwen – Warm Amsterdam aardgasvrij](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-warm-aardgasvrij/)
 
 # Subsidie Duurzame Amsterdamse gebouwen – Warm Amsterdam aardgasvrij
 
@@ -10,7 +10,8 @@ U kunt deze subsidie aanvragen als u eigenaar van een bestaande woning of een ve
 
 #### U kunt subsidie aanvragen voor:
 
-Het aardgasvrij maken van uw woning door middel van aansluiting aan het stadswarmtenet. LET OP: tot 31 december 2025 kunt u ook aanspraak maken op deze subsidie als u met een andere duurzame techniek, zoals bijvoorbeeld een warmtepomp, uw woning aardgasvrij maakt. In dat geval maakt u gebruik van de tijdelijke opt-out mogelijkheid.
+Het aardgasvrij maken van uw woning door middel van aansluiting aan het stadswarmtenet.
+LET OP: tot 31 december 2025 kunt u ook aanspraak maken op deze subsidie als u met een andere duurzame techniek, zoals bijvoorbeeld een warmtepomp, uw woning aardgasvrij maakt. In dat geval maakt u gebruik van de tijdelijke opt-out mogelijkheid.
 
 #### U kunt geen subsidie aanvragen voor**:**
 
@@ -118,7 +119,9 @@ Voor het aanvragen van deze subsidie hebt u nodig:
   * als u nog andere subsidies hebt aangevraagd of gekregen voor de aanpassingen: een overzicht van de andere subsidies
   * als u van plan bent om 10 of meer woningen in één keer aan te pakken: een bewijs dat u hebt voldaan aan alle goedkeuringsverplichtingen die voor verhuurders gelden
   * als u van plan bent om een inpandige collectieve verwarmingsinstallatie aardgas-vrij te maken: een overzicht met deze informatie:
-\- de aan de collectieve installatie verbonden verblijfsobjecten \- de aanwezigheid van gasaansluitingen in die verblijfsobjecten \- wie van de verschillende eigenaren en huurders de intentie heeft om de individuele gasaansluiting binnen 1 jaar af te sluiten
+\- de aan de collectieve installatie verbonden verblijfsobjecten
+\- de aanwezigheid van gasaansluitingen in die verblijfsobjecten
+\- wie van de verschillende eigenaren en huurders de intentie heeft om de individuele gasaansluiting binnen 1 jaar af te sluiten
 
 #### Vraagt u subsidie aan namens een organisatie? Dan moet u ook meesturen:
 
@@ -129,7 +132,8 @@ Voor het aanvragen van deze subsidie hebt u nodig:
 
 #### Bent u niet de eigenaar van het vastgoed?
 
-Dan moet u ook meesturen: een [toestemmingsverklaring](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-techniekneutraal-aardgasvrij/documenten-techniekneutraal-aardgasvrij/?PagClsIdt=17164045#PagCls_17164045>) van de eigenaar van het vastgoed dat u de maatregelen tot aardgasvrij in dat gebouw mag uitvoeren of een vonnis van de rechter waaruit blijkt dat de eigenaar medewerking dient te verlenen met uw plannen.
+Dan moet u ook meesturen:
+een [toestemmingsverklaring](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-techniekneutraal-aardgasvrij/documenten-techniekneutraal-aardgasvrij/?PagClsIdt=17164045#PagCls_17164045>) van de eigenaar van het vastgoed dat u de maatregelen tot aardgasvrij in dat gebouw mag uitvoeren of een vonnis van de rechter waaruit blijkt dat de eigenaar medewerking dient te verlenen met uw plannen.
 
 #### Zo vraagt u de subsidie aan:
 
@@ -173,7 +177,8 @@ Of u de subsidie moet verantwoorden hangt af van de hoogte van het subsidiebedra
   6. Voeg de gevraagde bijlage(n) toe.
   7. Verzend het formulier.
 
-Als alle documenten binnen zijn, stellen wij de subsidie binnen 12 weken vast. Wij vergoeden alleen de werkelijk gemaakte kosten. U ontvangt maximaal het subsidiebedrag dat u eerder is verleend.
+Als alle documenten binnen zijn, stellen wij de subsidie binnen 12 weken vast.
+Wij vergoeden alleen de werkelijk gemaakte kosten. U ontvangt maximaal het subsidiebedrag dat u eerder is verleend.
 
 ### Meer informatie
 
@@ -198,4 +203,6 @@ Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https:
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

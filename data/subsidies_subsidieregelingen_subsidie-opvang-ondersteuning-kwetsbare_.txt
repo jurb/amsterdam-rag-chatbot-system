@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie opvang ondersteuning kwetsbare](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-opvang-ondersteuning-kwetsbare/)
+[PAGE LINK: Subsidie Opvang en ondersteuning kwetsbare personen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-opvang-ondersteuning-kwetsbare/)
 
 # Subsidie Opvang en ondersteuning kwetsbare personen
 
@@ -156,4 +156,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

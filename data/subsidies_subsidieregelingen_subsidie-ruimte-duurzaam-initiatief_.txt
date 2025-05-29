@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie ruimte duurzaam initiatief](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ruimte-duurzaam-initiatief/)
+[PAGE LINK: Subsidie Ruimte voor duurzaam initiatief - Duurzame projecten en Programma's](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ruimte-duurzaam-initiatief/)
 
 # Subsidie Ruimte voor duurzaam initiatief - Duurzame projecten en Programma's
 
@@ -63,7 +63,8 @@ De gemeente behandelt de aanvragen op volgorde van binnenkomst. Als het budget o
 
 ### Aanvragen
 
-Let op: voor duurzame projecten kunt u geen subsidie meer aanvragen, het subsidieplafond is bereikt. Voor duurzame programma’s kunt u nog wél subsidie aanvragen maar is het subsidieplafond bijna bereikt.
+Let op: voor duurzame projecten kunt u geen subsidie meer aanvragen, het subsidieplafond is bereikt.
+Voor duurzame programma’s kunt u nog wél subsidie aanvragen maar is het subsidieplafond bijna bereikt.
 
 #### Voor het aanvragen van deze subsidie hebt u nodig:
 
@@ -99,7 +100,9 @@ Stap 2:
   1. Ga naar [Aanvragen subsidie Ruimte voor duurzaam initiatief.](<https://mijnsubsidies.amsterdam.nl/regeling/660c207eddf499f1eff3685e>)
   2. Log in met eHerkenning.
   3. Vul alle gegevens in en voeg de gevraagde bijlagen toe.
-Selecteer de activiteit \- Voorbereiding van een duurzaam project binnen Amsterdam of, \- Voorbereiden en opzetten van een duurzaam programma
+Selecteer de activiteit
+\- Voorbereiding van een duurzaam project binnen Amsterdam of,
+\- Voorbereiden en opzetten van een duurzaam programma
   4. Verzend het formulier.
 
 Als alle documenten binnen zijn, hoort u **binnen 8 weken** of u de subsidie krijgt.
@@ -185,4 +188,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

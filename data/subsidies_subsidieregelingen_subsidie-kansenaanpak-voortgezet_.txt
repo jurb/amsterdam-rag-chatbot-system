@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie kansenaanpak voortgezet](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kansenaanpak-voortgezet/)
+[PAGE LINK: Subsidie Kansenaanpak voortgezet onderwijs (VO)](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kansenaanpak-voortgezet/)
 
 # Subsidie Kansenaanpak voortgezet onderwijs (VO)
 
@@ -74,7 +74,8 @@ Het schoolbestuur ontvangt een e-mail als de schoolleider de aanvragen doorzet n
 
 Bekijk de [handleiding Aanvragen en voorwaarden eHerkenning subsidies](<https://www.amsterdam.nl/subsidies/subsidie-stappen/eherkenning/>).
 
-Zorg dat u alle aanvragen voor uw scholen heeft vergrendeld **voor 15 april 2025**. De gemeente gaat nu de aanvragen beoordelen. U ontvangt automatisch een e-mailbericht met de vervolgstappen als alle aanvragen beoordeeld zijn. Ga dan verder met stap 2.
+Zorg dat u alle aanvragen voor uw scholen heeft vergrendeld **voor 15 april 2025**.
+De gemeente gaat nu de aanvragen beoordelen. U ontvangt automatisch een e-mailbericht met de vervolgstappen als alle aanvragen beoordeeld zijn. Ga dan verder met stap 2.
 
 #### Stap 2:
 
@@ -158,4 +159,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

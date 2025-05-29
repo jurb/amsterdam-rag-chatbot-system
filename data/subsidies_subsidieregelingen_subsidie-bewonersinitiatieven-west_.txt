@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-west/)
+[PAGE LINK: Subsidie Bewonersinitiatieven in West](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-west/)
 
 # Subsidie Bewonersinitiatieven in West
 
@@ -42,8 +42,12 @@ Voor het aanvragen van deze subsidie hebt u nodig:
 #### U moet deze documenten meesturen bij uw aanvraag:
 
   * Een activiteitenplan. Hierin beschrijft u deze punten:
-o de activiteiten waarvoor u subsidie aanvraagt o wie u wilt bereiken en om hoeveel mensen het gaat o waar het initiatief plaatsvindt
-o met welke bewoners of organisaties u samenwerkt o wie de andere initiatiefnemers zijn (vermeld hun naam- en adresgegevens) o of u voor dit initiatief ergens anders financiering hebt aangevraagd en voor welk bedrag.
+o de activiteiten waarvoor u subsidie aanvraagt
+o wie u wilt bereiken en om hoeveel mensen het gaat
+o waar het initiatief plaatsvindt
+o met welke bewoners of organisaties u samenwerkt
+o wie de andere initiatiefnemers zijn (vermeld hun naam- en adresgegevens)
+o of u voor dit initiatief ergens anders financiering hebt aangevraagd en voor welk bedrag.
   * Een begroting.
   * Een kopie van de benodigde vergunningen of toestemmingen voor uw initiatief.
   * Een kopie van een document waaruit de tenaamstelling van het bankrekeningnummer van de aanvrager blijkt, zoals een recent bankafschrift.
@@ -173,4 +177,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

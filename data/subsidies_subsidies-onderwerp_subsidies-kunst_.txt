@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies kunst](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-kunst/)
+[PAGE LINK: Subsidies Kunst en cultuur](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-kunst/)
 
 # Subsidies Kunst en cultuur
 
@@ -100,4 +100,6 @@ Culturele instellingen of broedplaatsen kunnen een eenmalige subsidie aanvragen 
 
 U kunt subsidie aanvragen voor nieuwe tijdelijke Street art initiatieven in stadsdeel Zuid.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

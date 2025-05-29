@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies vrije tijd](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-vrije-tijd/)
+[PAGE LINK: Subsidies Vrije tijd](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-vrije-tijd/)
 
 # Subsidies Vrije tijd
 
@@ -36,4 +36,6 @@ Subsidie voor activiteiten en evenementen die bijdragen aan de zichtbaarheid, ac
 
 Subsidie voor organisatiekosten van 'n grootstedelijk, publiekstrekkend en voor Amsterdam maatschappelijk relevant breedtesport- of topsportevenement.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen zonnepanelen corporatiedaken](https://www.amsterdam.nl/subsidies/subsidieregelingen/zonnepanelen-corporatiedaken/)
+[PAGE LINK: Verantwoorden subsidie Zonnepanelen op Amsterdamse corporatiedaken](https://www.amsterdam.nl/subsidies/subsidieregelingen/zonnepanelen-corporatiedaken/)
 
 # Verantwoorden subsidie Zonnepanelen op Amsterdamse corporatiedaken
 
@@ -65,4 +65,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

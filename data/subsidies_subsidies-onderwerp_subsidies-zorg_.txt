@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies zorg](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-zorg/)
+[PAGE LINK: Subsidies Zorg en ondersteuning](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-zorg/)
 
 # Subsidies Zorg en ondersteuning
 
@@ -88,4 +88,6 @@ Uw organisatie kan subsidie aanvragen voor het uitvoeren van subsidiabele activi
 
 De Weesperkei is een buurtinitiatief _voor Weesp door Weesp_. U kunt subsidie aanvragen voor een mooi initiatief in een buurt of wijk in Weesp.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

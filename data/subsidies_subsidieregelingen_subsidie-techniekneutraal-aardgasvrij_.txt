@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie techniekneutraal aardgasvrij](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-techniekneutraal-aardgasvrij/)
+[PAGE LINK: Subsidie Duurzame Amsterdamse gebouwen – Techniekneutraal aardgasvrij](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-techniekneutraal-aardgasvrij/)
 
 # Subsidie Duurzame Amsterdamse gebouwen – Techniekneutraal aardgasvrij
 
@@ -57,8 +57,11 @@ In alle gevallen geldt dat u nooit een hogere subsidie krijgt dan de kosten die 
 Voor het aardgasvrij maken van woningen gelden de volgende maximale subsidiebedragen:
 
   * De subsidie voor het vervangen van een gasgestookte ruimteverwarmingsinstallatie en/​of de gasgestookte tapwaterverwarmingsinstallatie met een aardgasvrije is niet hoger dan 50% van de kosten, maar is ook niet hoger dan het maximum per woning voor het deelgebied waarin de woning ligt:
-\- € 4.500,- in de Bernard Loderbuurt; \- € 4.500,- in de Reimerswaalbuurt; \- € 3.750,- in de Banne Noord;
-\- € 4.500,- in de Molenwijk; of \- € 3.000,- in de Wildemanbuurt.
+\- € 4.500,- in de Bernard Loderbuurt;
+\- € 4.500,- in de Reimerswaalbuurt;
+\- € 3.750,- in de Banne Noord;
+\- € 4.500,- in de Molenwijk; of
+\- € 3.000,- in de Wildemanbuurt.
 
 #### Voorbeeld:
 
@@ -86,13 +89,17 @@ LET OP! Als uw woning aan een inpandige gasgestookte collectieve verwarmingsinst
 
 #### Voor woningen met een inpandige collectieve verwarmingsinstallatie geldt:
 
-Het aandeel van de woningen dat aardgasvrij wordt nadat de werkzaamheden aan de collectieve installatie en in de woningen zijn afgerond bepaalt welk aandeel van de kosten voor het aardgasvrij maken van de collectieve installatie gesubsidieerd kan worden. Bijvoorbeeld: In een pand met 40 woningen en een blokverwarming wordt voor €400.000,- de blokverwarming omgezet naar een bodemenergiesysteem. Alle woningen zijn aangesloten aan dat systeem, maar 10 woningen blijven op aardgas koken. In dat geval zijn 30 van de 40 woningen aardgasvrij. De subsidiabele kosten zijn daarom niet €400.000,- maar €300.000,-.
+Het aandeel van de woningen dat aardgasvrij wordt nadat de werkzaamheden aan de collectieve installatie en in de woningen zijn afgerond bepaalt welk aandeel van de kosten voor het aardgasvrij maken van de collectieve installatie gesubsidieerd kan worden.
+Bijvoorbeeld: In een pand met 40 woningen en een blokverwarming wordt voor €400.000,- de blokverwarming omgezet naar een bodemenergiesysteem. Alle woningen zijn aangesloten aan dat systeem, maar 10 woningen blijven op aardgas koken. In dat geval zijn 30 van de 40 woningen aardgasvrij. De subsidiabele kosten zijn daarom niet €400.000,- maar €300.000,-.
 
 #### Verder gelden de volgende maximale subsidiebedragen per aardgasvrije woning die aangesloten is de collectieve verwarmingsinstallatie:
 
   * De subsidie voor het vervangen van een gasgestookte collectieve ruimteverwarmingsinstallatie met een aardgasvrije is niet hoger dan 50% van de subsidiabele kosten, maar is ook niet hoger dan het maximum per woning voor het deelgebied waarin de woning ligt:
-\- € 4.000,- in de Bernard Loderbuurt; \- € 4.000,- in de Reimerswaalbuurt; \- € 3.250,- in de Banne Noord;
--.€ 4.000,- in de Molenwijk; of \- € 2.500,- in de Wildemanbuurt.
+\- € 4.000,- in de Bernard Loderbuurt;
+\- € 4.000,- in de Reimerswaalbuurt;
+\- € 3.250,- in de Banne Noord;
+-.€ 4.000,- in de Molenwijk; of
+\- € 2.500,- in de Wildemanbuurt.
   * De subsidie voor het vervangen van een gasgestookte collectieve tapwaterverwarmingsinstallatie met een aardgasvrije is niet hoger dan 50% van de subsidiabele kosten, maar is ook niet hoger dan € 500,-.
   * De subsidie voor het vervangen van een gasgestookte kookvoorziening met een aardgasvrije is niet hoger dan 50% van de kosten, maar is ook niet hoger dan € 500,-.
   * De kosten die netbeheerder in rekening brengt voor het laten afsluiten van het aardgasnet, tot een maximum van €1000,-.
@@ -136,7 +143,9 @@ Voor het aanvragen van deze subsidie hebt u nodig:
   * als u nog andere subsidies hebt aangevraagd of gekregen voor de aanpassingen: een overzicht van de andere subsidies
   * als u van plan bent om 10 of meer woningen in één keer aan te pakken: een bewijs dat u hebt voldaan aan alle goedkeuringsverplichtingen die voor verhuurders gelden
   * als u van plan bent om een inpandige collectieve verwarmingsinstallatie aardgas-vrij te maken: een overzicht met deze informatie:
-\- de aan de collectieve installatie verbonden verblijfsobjecten \- de aanwezigheid van gasaansluitingen in die verblijfsobjecten \- wie van de verschillende eigenaren en huurders de intentie heeft om de individuele gasaansluiting binnen 1 jaar af te sluiten
+\- de aan de collectieve installatie verbonden verblijfsobjecten
+\- de aanwezigheid van gasaansluitingen in die verblijfsobjecten
+\- wie van de verschillende eigenaren en huurders de intentie heeft om de individuele gasaansluiting binnen 1 jaar af te sluiten
 
 #### Vraagt u subsidie aan namens een organisatie? Dan moet u ook meesturen:
 
@@ -151,8 +160,12 @@ Voor het aanvragen van deze subsidie hebt u nodig:
 #### Zo vraagt u de subsidie aan:
 
   1. Kies voor welke buurt (hoofdstuk) u subsidie wilt aanvragen
-\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3, Wildemanbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/62289c87b4030105287cd499>) \- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3a, Bernard Loderbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/62289b89b4030105287ccfd7>) \- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3b, Reimerswaalbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/62289f80b4030105287cd918>)
-\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3c, Banne Noord](<https://mijnsubsidies.amsterdam.nl/regeling/62289459b4030105287cbf38>) \- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3d, Molenwijk](<https://mijnsubsidies.amsterdam.nl/regeling/62289933b4030105287ccb21>) \- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3e, Gentiaanbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/6228a057b4030105287cdd65>)
+\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3, Wildemanbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/62289c87b4030105287cd499>)
+\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3a, Bernard Loderbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/62289b89b4030105287ccfd7>)
+\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3b, Reimerswaalbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/62289f80b4030105287cd918>)
+\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3c, Banne Noord](<https://mijnsubsidies.amsterdam.nl/regeling/62289459b4030105287cbf38>)
+\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3d, Molenwijk](<https://mijnsubsidies.amsterdam.nl/regeling/62289933b4030105287ccb21>)
+\- [Aanvragen subsidie Duurzame Amsterdamse Gebouwen – Aardgasvrij / Hoofdstuk 3e, Gentiaanbuurt](<https://mijnsubsidies.amsterdam.nl/regeling/6228a057b4030105287cdd65>)
   2. Log in met DigiD of eHerkenning.
   3. Vul alle gegevens in en voeg de gevraagde bijlagen toe.
   4. Verzend het formulier.
@@ -176,7 +189,8 @@ Hoe snel u de subsidie moet verantwoorden (aanvraag tot vaststelling) hangt af v
   * kopieën van de betaalde facturen inclusief betaalbewijzen (Zorg ervoor dat de kosten die het gevolg zijn van de aanpassing duidelijk uitgesplitst en aangemerkt zijn)
   * een overzicht van eventuele andere aangevraagde of verleende subsidie voor de uitgevoerde aanpassingen
   * indien de subsidie meer dan €125.000,- bedraagt:
-§ - een financieel verslag over de aan de aanpassingen verbonden uitgaven en inkomsten; en § - een controleverklaring van een accountant, conform artikel 4:78 Awb.
+§ - een financieel verslag over de aan de aanpassingen verbonden uitgaven en inkomsten; en
+§ - een controleverklaring van een accountant, conform artikel 4:78 Awb.
 
 #### Zo vraagt u vaststelling van uw subsidie aan:
 
@@ -203,7 +217,8 @@ Of u de subsidie moet verantwoorden (aanvraag tot vaststelling) hangt af van de 
   * kopieën van de betaalde facturen inclusief betaalbewijzen (Zorg ervoor dat de kosten die het gevolg zijn van de aanpassing duidelijk uitgesplitst en aangemerkt zijn)
   * een overzicht van eventuele andere aangevraagde of verleende subsidie voor de uitgevoerde aanpassingen
   * indien de subsidie meer dan €250.000,- bedraagt:
-§ - een financieel verslag over de aan de aanpassingen verbonden uitgaven en inkomsten; en § - een controleverklaring van een accountant, conform artikel 4:78 Awb.
+§ - een financieel verslag over de aan de aanpassingen verbonden uitgaven en inkomsten; en
+§ - een controleverklaring van een accountant, conform artikel 4:78 Awb.
 
 #### Zo vraagt u vaststelling van uw subsidie aan:
 
@@ -241,4 +256,6 @@ Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https:
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

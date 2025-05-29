@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies zuidoost](https://www.amsterdam.nl/subsidies/zuidoost/)
+[PAGE LINK: Subsidies stadsdeel Zuidoost](https://www.amsterdam.nl/subsidies/zuidoost/)
 
 # Subsidies stadsdeel Zuidoost
 
@@ -52,4 +52,6 @@ U kunt een eenmalige of boekjaar subsidie aanvragen voor activiteiten gericht op
 
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor de inzet van straatmanagement en parkmanagement.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

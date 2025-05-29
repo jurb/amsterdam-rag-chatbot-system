@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie evenementenfonds](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-evenementenfonds/)
+[PAGE LINK: Subsidie Evenementenfonds](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-evenementenfonds/)
 
 # Subsidie Evenementenfonds
 
@@ -34,8 +34,11 @@ Voor subsidieaanvragen in categorie IV geldt dat alle kosten subsidiabel zijn.
 
 #### Dit is het subsidieplafond per categorie:
 
-**2025: ** Categorie I (Subsidieaanvragen > €35.000) : € 1.335.823 Categorie II ( Subsidieaanvragen < €35.000) : € 700.000
-Categorie III (Flexibel loket voor aanvragen gedurende het jaar) : € 337.870 Categorie IV (Oud en Nieuw gerelateerde evenementen: € 100.000
+**2025:
+** Categorie I (Subsidieaanvragen > €35.000) : € 1.335.823
+Categorie II ( Subsidieaanvragen < €35.000) : € 700.000
+Categorie III (Flexibel loket voor aanvragen gedurende het jaar) : € 337.870
+Categorie IV (Oud en Nieuw gerelateerde evenementen: € 100.000
 
 #### Belangrijk:
 
@@ -150,4 +153,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

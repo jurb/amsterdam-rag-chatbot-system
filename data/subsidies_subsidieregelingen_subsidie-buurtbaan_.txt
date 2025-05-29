@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie buurtbaan](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbaan/)
+[PAGE LINK: Subsidie Buurtbaan](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbaan/)
 
 # Subsidie Buurtbaan
 
@@ -24,7 +24,8 @@ Het aangaan en in stand houden van een dienstverband (arbeidsovereenkomst) van m
 
 #### Hoogte van het subsidiebedrag
 
-U kunt voor een Buurtbaan maximaal € 72.000 subsidie krijgen (= bedrag geldend in 2024). Dit is het subsidiebedrag voor 1 Buurtbaan voor 2 jaar van 30 uur per week of meer.
+U kunt voor een Buurtbaan maximaal € 72.000 subsidie krijgen (= bedrag geldend in 2024).
+Dit is het subsidiebedrag voor 1 Buurtbaan voor 2 jaar van 30 uur per week of meer.
 
 Lees altijd de volledige [Subsidieregeling Buurtbanen Amsterdam 2021](<https://lokaleregelgeving.overheid.nl/CVDR660370>), de [Algemene Subsidieverordening Amsterdam 2023](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/asa-2023/>) en de gebiedsgerichte uitwerking Sociale Basis voor het betreffende stadsdeel (zie [Gebiedsgerichte Uitwerking 2023/2024 Sociale Basis Amsterdam).](<https://www.amsterdam.nl/socialebasis>)
 
@@ -104,4 +105,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

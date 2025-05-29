@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie groen amsterdam](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-groen-amsterdam/)
+[PAGE LINK: Subsidie Groen in Amsterdam (inclusief groene daken en groene tuinen)](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-groen-amsterdam/)
 
 # Subsidie Groen in Amsterdam (inclusief groene daken en groene tuinen)
 
@@ -164,7 +164,8 @@ wateropslagcapaciteit van het groene dak.
   7. Vul de gegevens in en voeg de gevraagde bijlagen toe.
   8. Verzend het formulier.
 
-Als alle documenten binnen zijn, maken wij de subsidie **binnen 12 weken** definitief. Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
+Als alle documenten binnen zijn, maken wij de subsidie **binnen 12 weken** definitief.
+Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
 
 ### Meer informatie
 
@@ -176,4 +177,6 @@ Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https:
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

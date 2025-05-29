@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie broedplaatsen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-broedplaatsen/)
+[PAGE LINK: Subsidie Broedplaatsen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-broedplaatsen/)
 
 # Subsidie Broedplaatsen
 
@@ -86,7 +86,8 @@ U ontvangt in overleg een voorschot op het subsidiebedrag van maximaal 95 procen
 
 ### Verantwoording van aanvragen voor 1 augustus 2023
 
-Hier vindt u informatie over het verantwoorden (aanvraag tot vaststelling) van subsidieaanvragen die zijn ingediend **vóór 1 augustus 2023**. Binnenkort staat op deze pagina ook informatie over het verantwoorden van subsidieaanvragen die zijn ingediend **vanaf 1 augustus 2023**.
+Hier vindt u informatie over het verantwoorden (aanvraag tot vaststelling) van subsidieaanvragen die zijn ingediend **vóór 1 augustus 2023**.
+Binnenkort staat op deze pagina ook informatie over het verantwoorden van subsidieaanvragen die zijn ingediend **vanaf 1 augustus 2023**.
 
 Of u de subsidie moet verantwoorden (aanvraag tot vaststelling) hangt af van de hoogte van het subsidiebedrag:
 
@@ -246,4 +247,6 @@ Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 1
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

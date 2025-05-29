@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies onderwijs jeugd diversiteit](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-onderwijs-jeugd-diversiteit/)
+[PAGE LINK: Subsidies Onderwijs, jeugd en diversiteit](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-onderwijs-jeugd-diversiteit/)
 
 # Subsidies Onderwijs, jeugd en diversiteit
 
@@ -72,4 +72,6 @@ Schoolbesturen kunnen subsidie aanvragen voor het werven en behouden van leraren
 
 U kunt als houder van een kindercentrum subsidie aanvragen voor het voorbereiden op en uitvoeren van voorschoolse educatie.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

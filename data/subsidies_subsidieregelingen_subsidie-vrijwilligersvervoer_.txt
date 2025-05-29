@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie vrijwilligersvervoer](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vrijwilligersvervoer/)
+[PAGE LINK: Subsidie Vrijwilligersvervoer](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vrijwilligersvervoer/)
 
 # Subsidie Vrijwilligersvervoer
 
@@ -165,4 +165,6 @@ Als alle documenten binnen zijn, maken wij de subsidie **binnen 12 weken** defin
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

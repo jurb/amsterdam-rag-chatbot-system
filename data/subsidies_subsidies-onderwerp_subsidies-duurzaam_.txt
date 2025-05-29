@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies duurzaam](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-duurzaam/)
+[PAGE LINK: Subsidies Duurzaam en groen](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-duurzaam/)
 
 # Subsidies Duurzaam en groen
 
@@ -84,4 +84,6 @@ U kunt subsidie aanvragen voor het uitwerken van plannen om uw buurt klimaatneut
 
 subsidie voor het wegwerken van achterstallig onderhoud en het verduurzamen van de woning om het wooncomfort in de woning en de leefbaarheid in ...
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

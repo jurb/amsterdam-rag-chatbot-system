@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie campagne](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-campagne/)
+[PAGE LINK: Verantwoorden subsidie Campagne Referendum Hoofdgroenstructuur](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-campagne/)
 
 # Verantwoorden subsidie Campagne Referendum Hoofdgroenstructuur
 
@@ -37,4 +37,6 @@ Online subsidie aanvragen heeft grote voordelen voor u, maar u kunt ook subsidie
 
 Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

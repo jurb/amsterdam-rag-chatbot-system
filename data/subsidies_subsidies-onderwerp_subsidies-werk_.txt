@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies werk](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-werk/)
+[PAGE LINK: Subsidies Werk en inkomen](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-werk/)
 
 # Subsidies Werk en inkomen
 
@@ -44,4 +44,6 @@ Organisaties kunnen subsidie aanvragen voor het uitvoeren van activiteiten uit h
 
 U kunt een eenmalige of boekjaar subsidie aanvragen voor activiteiten gericht op het vergroten van gelijke kansen op het gebied van gezondheid en ...
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

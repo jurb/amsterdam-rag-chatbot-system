@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie straatmanagement parkmanagement](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/)
+[PAGE LINK: Subsidie Straatmanagement en parkmanagement](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/)
 
 # Subsidie Straatmanagement en parkmanagement
 
@@ -62,7 +62,8 @@ De subsidie kunt u het hele jaar door aanvragen, zolang er budget is voor deze s
 
 ### Aanvragen
 
-Voor het aanvragen van deze subsidie hebt u eHerkenning nodig. Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies](<https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/eherkenning/>).
+Voor het aanvragen van deze subsidie hebt u eHerkenning nodig.
+Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies](<https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/eherkenning/>).
 
 ### U moet deze documenten meesturen bij uw aanvraag:
 
@@ -73,9 +74,15 @@ Voor het aanvragen van deze subsidie hebt u eHerkenning nodig. Bekijk de handlei
 ### Zo vraagt u subsidie aan:
 
   1. Kies het stads­deel of stads­ge­bied waar­voor u sub­si­die wilt aan­vra­gen:
-[Aan­vra­gen sub­si­die Straat­ma­na­ge­ment en parkmanagement / Cen­trum](<https://mijnsubsidies.amsterdam.nl/regeling/61fbadba51664d58655c64fd>) [Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Nieuw-West](<https://mijnsubsidies.amsterdam.nl/regeling/61fcded108ff801e6f1aebd0>) [Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Noord](<https://mijnsubsidies.amsterdam.nl/regeling/61fa98174f1a4a0a1fa5ba78>)
-[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement /Oost](<https://mijnsubsidies.amsterdam.nl/regeling/61faa6334f1a4a0a1fa5d3f3>) [Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Weesp](<https://mijnsubsidies.amsterdam.nl/regeling/63f5db734bceff069bb74a0d>) [Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / West](<https://mijnsubsidies.amsterdam.nl/regeling/61fbd9c16639477ca5ba82e4>)
-[Aanvragen subsidie Straatmanagement en parkmanagement / Zuid](<https://mijnsubsidies.amsterdam.nl/regeling/61fbbe3e6639477ca5ba5c1a>) [Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Zuid­oost](<https://mijnsubsidies.amsterdam.nl/regeling/61fbc17d51664d58655c6fe4>)   2. Log in met Di­giD of eHer­ken­ning.
+[Aan­vra­gen sub­si­die Straat­ma­na­ge­ment en parkmanagement / Cen­trum](<https://mijnsubsidies.amsterdam.nl/regeling/61fbadba51664d58655c64fd>)
+[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Nieuw-West](<https://mijnsubsidies.amsterdam.nl/regeling/61fcded108ff801e6f1aebd0>)
+[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Noord](<https://mijnsubsidies.amsterdam.nl/regeling/61fa98174f1a4a0a1fa5ba78>)
+[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement /Oost](<https://mijnsubsidies.amsterdam.nl/regeling/61faa6334f1a4a0a1fa5d3f3>)
+[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Weesp](<https://mijnsubsidies.amsterdam.nl/regeling/63f5db734bceff069bb74a0d>)
+[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / West](<https://mijnsubsidies.amsterdam.nl/regeling/61fbd9c16639477ca5ba82e4>)
+[Aanvragen subsidie Straatmanagement en parkmanagement / Zuid](<https://mijnsubsidies.amsterdam.nl/regeling/61fbbe3e6639477ca5ba5c1a>)
+[Aan­vra­gen sub­si­die Straatmanagement en parkmanagement / Zuid­oost](<https://mijnsubsidies.amsterdam.nl/regeling/61fbc17d51664d58655c6fe4>)
+  2. Log in met Di­giD of eHer­ken­ning.
   3. Vul alle ge­ge­vens in en voeg de ge­vraag­de bij­la­ge(n) toe.
   4. Ver­zend het for­mu­lier.
 
@@ -126,4 +133,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

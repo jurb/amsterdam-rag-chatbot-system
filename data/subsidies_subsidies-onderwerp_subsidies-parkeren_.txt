@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies parkeren](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-parkeren/)
+[PAGE LINK: Subsidies Parkeren en verkeer](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-parkeren/)
 
 # Subsidies Parkeren en verkeer
 
@@ -40,4 +40,6 @@ MKB-ondernemers en non-profitinstellingen die in Amsterdam gevestigd zijn en een
 
 U kunt als organisatie subsidie aanvragen voor de kosten van het aanbieden van vrijwilligersvervoer in Amsterdam.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

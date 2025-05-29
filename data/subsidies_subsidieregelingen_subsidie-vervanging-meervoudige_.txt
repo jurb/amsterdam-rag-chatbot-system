@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie vervanging meervoudige](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vervanging-meervoudige/)
+[PAGE LINK: Subsidie voor vervanging van meervoudige stijgleidingen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vervanging-meervoudige/)
 
 # Subsidie voor vervanging van meervoudige stijgleidingen
 
@@ -71,7 +71,8 @@ Stap 2:
   1. Ga naar [Aan­vra­gen sub­si­die Ste­de­lij­ke ver­nieu­wing](<https://mijnsubsidies.amsterdam.nl/regeling/61eeba7758621941ddda1658>).
   2. Log in met eHer­ken­ning.
   3. Vul alle ge­ge­vens in en voeg de ge­vraag­de bij­la­gen toe.
-\- Kies bij ac­ti­vi­tei­ten­over­zicht Ver­van­ging van meer­vou­di­ge stijg­lei­din­gen.   4. Ver­zend het for­mu­lier.
+\- Kies bij ac­ti­vi­tei­ten­over­zicht Ver­van­ging van meer­vou­di­ge stijg­lei­din­gen.
+  4. Ver­zend het for­mu­lier.
 
 Als alle documenten binnen zijn, hoort u binnen 8 weken of u de subsidie krijgt.
 
@@ -193,4 +194,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

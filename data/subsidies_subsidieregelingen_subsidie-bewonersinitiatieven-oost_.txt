@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-oost/)
+[PAGE LINK: Subsidie Bewonersinitiatieven in Oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-oost/)
 
 # Subsidie Bewonersinitiatieven in Oost
 
@@ -44,8 +44,12 @@ Voor het aanvragen van deze subsidie hebt u nodig:
 #### U moet deze documenten meesturen bij uw aanvraag:
 
   * Een activiteitenplan. Hierin beschrijft u:
-o de activiteiten waarvoor u subsidie aanvraagt o wat u wilt bereiken / welke resultaten u wilt boeken o wie u wilt bereiken en om hoeveel mensen het gaat
-o waar het initiatief plaatsvindt o met welke bewoners of organisaties u samenwerkt o wie de andere initiatiefnemers zijn (vermeld hun naam- en adresgegevens)
+o de activiteiten waarvoor u subsidie aanvraagt
+o wat u wilt bereiken / welke resultaten u wilt boeken
+o wie u wilt bereiken en om hoeveel mensen het gaat
+o waar het initiatief plaatsvindt
+o met welke bewoners of organisaties u samenwerkt
+o wie de andere initiatiefnemers zijn (vermeld hun naam- en adresgegevens)
 o of u voor dit initiatief ergens anders financiering hebt aangevraagd en voor welk bedrag
   * Een begroting.
   * Een kopie van de benodigde vergunningen of toestemmingen voor uw initiatief.
@@ -101,4 +105,6 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

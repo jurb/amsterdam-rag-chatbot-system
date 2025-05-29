@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie verenigingsaccommodaties](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verenigingsaccommodaties/)
+[PAGE LINK: Subsidie Verenigingsaccommodaties buitensport](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verenigingsaccommodaties/)
 
 # Subsidie Verenigingsaccommodaties buitensport
 
@@ -135,6 +135,9 @@ Als al uw documenten binnen zijn, nemen wij **binnen 12 weken** een besluit.
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-**Hulp bij ontoegankelijke documenten ** Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
+**Hulp bij ontoegankelijke documenten
+** Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

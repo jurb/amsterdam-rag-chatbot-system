@@ -1,4 +1,4 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie historische winkelpuien](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-historische-winkelpuien/)
+[PAGE LINK: Subsidie Historische Amsterdamse winkelpuien](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-historische-winkelpuien/)
 
 # Subsidie Historische Amsterdamse winkelpuien
 
@@ -12,7 +12,9 @@ Zowel eigenaren en huurders met toestemming van de eigenaar van monumenten, beel
 
 Onderzoek naar en herstel van historische winkelpuien in de gebieden Centrum-West en Centrum-Oost. Dit zijn de twee gebieden die samen het stadsdeel Centrum vormen, zoals bepaald in artikel 1 van de verordening op de stadsdelen en het stadsgebied Amsterdam 2022.
 
-Een historische winkelpui is het onderste gedeelte van een gevel die oorspronkelijk ontworpen is ten behoeve van een winkel- of horecafunctie en vanuit architectuur- of cultuurhistorisch oogpunt van waarde is , dit ter beoordeling door Monumenten en Archeologie . Bij monumenten gaat het om een rijksmonument, een pand dat is opgenomen in het monumentenregister zoals bedoeld in art. 3.3 van de Erfgoedwet of een gemeentelijk monument, een pand dat is opgenomen in de monumentenlijst zoals bedoeld in art. 1 van de Erfgoedverordening 2015; Bij beeldbepalende panden gaat het panden die gewaardeerd zijn als “orde 2” zoals opgenomen bij de welstandsnota De Schoonheid van Amsterdam 2016;
+Een historische winkelpui is het onderste gedeelte van een gevel die oorspronkelijk ontworpen is ten behoeve van een winkel- of horecafunctie en vanuit architectuur- of cultuurhistorisch oogpunt van waarde is , dit ter beoordeling door Monumenten en Archeologie .
+Bij monumenten gaat het om een rijksmonument, een pand dat is opgenomen in het monumentenregister zoals bedoeld in art. 3.3 van de Erfgoedwet of een gemeentelijk monument, een pand dat is opgenomen in de monumentenlijst zoals bedoeld in art. 1 van de Erfgoedverordening 2015;
+Bij beeldbepalende panden gaat het panden die gewaardeerd zijn als “orde 2” zoals opgenomen bij de welstandsnota De Schoonheid van Amsterdam 2016;
 
   * Onder onderzoek wordt in ieder geval verstaan het naar de oorspronkelijke opzet en afwerking van de historische winkelpui. Dit onderzoek kan onder andere bestaan uit archiefonderzoek, kleurhistorisch (stratigrafisch) onderzoek en bouwhistorisch onderzoek. Dit onderzoek vormt de basis voor het plan van aanpak voor herstel van de historische pui.
   * Onder herstel wordt in ieder geval verstaan herstel van (onderdelen van) waardevolle historische winkelpuien. Het gaat om o.a. decoratieve gevelelementen, stoepen, lijstwerk, historische etalages, glas in lood, betimmeringen, gevelstenen en historische gevelreclames. Uitgangspunt is een restauratieve aanpak, waarbij de aanwezige historische elementen behouden en hersteld worden. Het terugbrengen van verloren gegane onderdelen van puien kan ook onderdeel hiervan zijn, voor zover dit gebaseerd is op onderzoek.
@@ -108,4 +110,6 @@ Als alle documenten binnen zijn, stellen wij de subsidie **binnen 12 weken** vas
 
 Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
