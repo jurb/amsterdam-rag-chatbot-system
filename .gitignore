@@ -1,5 +1,7 @@
 # Adapt to your needs. This version includes typical data files we work with, along with the default python template.
 
+chroma/*
+
 # Text / html
 *.csv
 # *.txt
