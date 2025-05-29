@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-west/"
+page_title: "Subsidie Bewonersinitiatieven in West"
+page_modified: "2025-05-29"
+page_available: "2023-02-28"
+---
+
 # Subsidie Bewonersinitiatieven in West
 
 Particulieren en organisaties kunnen subsidie aanvragen voor bewonersinitiatieven die helpen de buurt te verbeteren. Lees hier hoe het werkt.

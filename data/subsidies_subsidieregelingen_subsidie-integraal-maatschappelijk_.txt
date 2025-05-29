@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-integraal-maatschappelijk/"
+page_title: "Subsidie Integraal maatschappelijk initiatief"
+page_modified: "2025-05-29"
+page_available: "2023-03-15"
+---
+
 # Subsidie Integraal maatschappelijk initiatief
 
 U kunt een subsidie aanvragen als u een goed idee hebt voor de buurt. U hebt een maatschappelijk initiatief waarmee u bewoners wilt verbinden en Amsterdam een stukje beter wil maken.

@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-parkeren/"
+page_title: "Subsidies Parkeren en verkeer"
+page_modified: "2025-05-29"
+page_available: "2015-02-05"
+---
+
 # Subsidies Parkeren en verkeer
 
 ## Subsidies Parkeren en verkeer

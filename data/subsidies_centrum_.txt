@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/centrum/"
+page_title: "Subsidies stadsdeel Centrum"
+page_modified: "2025-05-29"
+page_available: "2015-02-16"
+---
+
 # Subsidies stadsdeel Centrum
 
 ## Subsidies stadsdeel Centrum

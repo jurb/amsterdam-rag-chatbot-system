@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-vrije-tijd/"
+page_title: "Subsidies Vrije tijd"
+page_modified: "2025-05-29"
+page_available: "2015-02-06"
+---
+
 # Subsidies Vrije tijd
 
 ## Subsidies Vrije tijd

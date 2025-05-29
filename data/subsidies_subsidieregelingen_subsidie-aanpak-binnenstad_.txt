@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-binnenstad/"
+page_title: "Subsidie Aanpak Binnenstad"
+page_modified: "2025-05-29"
+page_available: "2023-02-28"
+---
+
 # Subsidie Aanpak Binnenstad
 
 Bewoners, organisaties en ondernemers kunnen subsidie aanvragen voor plannen die bijdragen aan de transformatie van de binnenstad. De bedoeling is dat Amsterdammers zich thuis voelen en nieuwe bezoekers naar de binnenstad komen. Lees hier hoe het werkt..

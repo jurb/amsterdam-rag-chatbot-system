@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/"
+page_title: "Subsidies op onderwerp"
+page_modified: "2025-05-29"
+page_available: "2015-02-05"
+---
+
 # Subsidies op onderwerp
 
 ## Subsidies op onderwerp

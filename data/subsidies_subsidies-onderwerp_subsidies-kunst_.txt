@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-kunst/"
+page_title: "Subsidies Kunst en cultuur"
+page_modified: "2025-05-29"
+page_available: "2015-02-05"
+---
+
 # Subsidies Kunst en cultuur
 
 ## Subsidies Kunst en cultuur

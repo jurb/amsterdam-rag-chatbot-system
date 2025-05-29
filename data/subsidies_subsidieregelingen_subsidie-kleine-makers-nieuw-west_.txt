@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kleine-makers-nieuw-west/"
+page_title: "Subsidie Kleine Makers Nieuw-West"
+page_modified: "2025-05-29"
+page_available: "2023-12-01"
+---
+
 # Subsidie Kleine Makers Nieuw-West
 
 Particulieren en kunst- en cultuurinstellingen kunnen subsidie aanvragen voor activiteiten op het gebied van kunst en cultuur in Nieuw-West. Lees hier hoe het werkt.

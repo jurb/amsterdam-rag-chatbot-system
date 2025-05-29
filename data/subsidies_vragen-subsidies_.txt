@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/vragen-subsidies/"
+page_title: "Vragen over subsidies"
+page_modified: "2025-05-29"
+page_available: "2022-02-14"
+---
+
 # Vragen over subsidies
 
 We hebben een aantal vragen en de antwoorden voor u op een rijtje gezet. Staat uw vraag er niet tussen? Neem dan contact op met het Subsidiebureau. Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.

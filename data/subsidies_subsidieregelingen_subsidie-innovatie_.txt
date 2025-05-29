@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-innovatie/"
+page_title: "Subsidie Innovatie"
+page_modified: "2025-05-29"
+page_available: "2023-03-15"
+---
+
 # Subsidie Innovatie
 
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor initiatieven gericht op innovatieve oplossingen voor economische vraagstukken. In gebieden waar geen ondernemersvereniging actief is kan subsidie worden aangevraagd door meerdere ondernemers samen. Lees hier hoe het werkt.

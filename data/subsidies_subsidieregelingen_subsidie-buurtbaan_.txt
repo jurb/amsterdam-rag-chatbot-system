@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbaan/"
+page_title: "Subsidie Buurtbaan"
+page_modified: "2025-05-29"
+page_available: "2023-03-01"
+---
+
 # Subsidie Buurtbaan
 
 Uw organisatie kan subsidie aanvragen voor een Buurtbaan: een tijdelijk dienstverband met een actieve bewoner, om zo de sociale basis van de buurt te versterken en de Buurtbaner te helpen met doorstromen naar regulier werk. Lees hier hoe het werkt.

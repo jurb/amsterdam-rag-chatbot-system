@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vervanging-meervoudige/"
+page_title: "Subsidie voor vervanging van meervoudige stijgleidingen"
+page_modified: "2025-05-29"
+page_available: "2023-04-06"
+---
+
 # Subsidie voor vervanging van meervoudige stijgleidingen
 
 U kunt subsidie aanvragen voor het laten vervangen van meervoudige stijgleidingen door een enkelvoudige stijgleiding. Lees hier hoe het werkt.

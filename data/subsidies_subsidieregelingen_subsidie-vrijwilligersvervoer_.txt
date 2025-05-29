@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vrijwilligersvervoer/"
+page_title: "Subsidie Vrijwilligersvervoer"
+page_modified: "2025-05-29"
+page_available: "2023-03-14"
+---
+
 # Subsidie Vrijwilligersvervoer
 
 U kunt als organisatie subsidie aanvragen voor de kosten van het aanbieden van vrijwilligersvervoer in Amsterdam. Lees hier hoe het werkt.

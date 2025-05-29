@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/subsidie-planvorming-verduurzaming-vve/"
+page_title: "Subsidie Planvorming verduurzaming voor vve’s"
+page_modified: "2025-05-29"
+page_available: "2025-01-09"
+---
+
 # Subsidie Planvorming verduurzaming voor vve’s
 
 Verenigingen van eigenaars (vve’s) [in geselecteerde buurten](<https://www.amsterdam.nl/wonen-leefomgeving/wonen/verduurzaam-uw-vve/>) kunnen subsidie aanvragen voor de kosten van het opstellen van plannen voor verduurzaming van de gebouwen in hun eigendom. Deze regeling is bedoeld om vve’s te ondersteunen in het verduurzamen en het verbeteren van slecht geïsoleerde woningen.

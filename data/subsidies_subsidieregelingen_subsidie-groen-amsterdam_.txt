@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-groen-amsterdam/"
+page_title: "Subsidie Groen in Amsterdam (inclusief groene daken en groene tuinen)"
+page_modified: "2025-05-29"
+page_available: "2024-04-22"
+---
+
 # Subsidie Groen in Amsterdam (inclusief groene daken en groene tuinen)
 
 U of uw organisatie kan subsidie aanvragen voor het aanleggen van een groen dak, het onttegelen van tuinen of het beschermen van monumentale bomen of ander waardevol groen. Lees hier hoe het werkt.

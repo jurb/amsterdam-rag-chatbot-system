@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidies-alfabet/"
+page_title: "Subsidies op alfabet"
+page_modified: "2025-05-29"
+page_available: "2014-10-29"
+---
+
 # Subsidies op alfabet
 
 ## Subsidies op alfabet

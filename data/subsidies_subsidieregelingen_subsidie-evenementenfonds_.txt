@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-evenementenfonds/"
+page_title: "Subsidie Evenementenfonds"
+page_modified: "2025-05-29"
+page_available: "2023-03-06"
+---
+
 # Subsidie Evenementenfonds
 
 Voor het organiseren van een evenement kunt u subsidie aanvragen. Lees hier hoe het werkt.

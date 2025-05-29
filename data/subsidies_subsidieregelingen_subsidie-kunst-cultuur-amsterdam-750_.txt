@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kunst-cultuur-amsterdam-750/"
+page_title: "Subsidie Kunst en Cultuur Amsterdam 750 jaar"
+page_modified: "2025-05-29"
+page_available: "2023-03-15"
+---
+
 # Subsidie Kunst en Cultuur Amsterdam 750 jaar
 
 In het jaar 2025 bestaat Amsterdam 750 jaar. Om dit te vieren kunnen culturele instellingen subsidie aanvragen voor de **organisatie van het jaarlijks terugkerende Vrijdenkersfestival**.

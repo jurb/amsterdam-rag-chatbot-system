@@ -1,3 +1,10 @@
+---
+page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-mantelzorg/"
+page_title: "Subsidie Ondersteuning mantelzorg en vrijwillige inzet"
+page_modified: "2025-05-29"
+page_available: "2023-03-27"
+---
+
 # Subsidie Ondersteuning mantelzorg en vrijwillige inzet
 
 U kunt als organisatie subsidie aanvragen voor de ondersteuning van mantelzorgers en vrijwilligers. Bekijk hier hoe u een aanvraag doet.
