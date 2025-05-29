@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-onderwijsvoorzieningen-primair/"
-page_title: "Subsidie Onderwijsvoorzieningen primair onderwijs"
-page_modified: "2025-05-29"
-page_available: "2023-03-27"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie onderwijsvoorzieningen primair](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-onderwijsvoorzieningen-primair/)
 
 # Subsidie Onderwijsvoorzieningen primair onderwijs
 
@@ -98,8 +93,7 @@ Niveau C (€ 960,- per leerling in groep 1 en 2 bij een percentage vanaf 31 pro
 
 #### Pilot Programma overstijgend werken
 
-Scholen die in schooljaar 2024/20245deelnemen aan de pilot Programma overstijgend werken, doen dit in schooljaar 2025-2026 automatisch ook. De aanvullende verplichting dat scholen gebruik moeten maken van een NJI-erkend programma voor vroegschoolse educatie komt te vervallen. De overige subsidiabele activiteiten en aanvullende verplichtingen blijven onverkort van kracht. Ook gelden dezelfde tarieven.
-De pilot heeft een looptijd van twee schooljaren. Om de kwaliteit van het onderwijs te borgen zal scholen gevraagd worden in hun activiteitenplan aan te geven op welke manier zal worden gezorgd dat de SLO-doelen worden gerealiseerd en de optimale ontwikkeling van de kleuters zal worden geborgd.
+Scholen die in schooljaar 2024/20245deelnemen aan de pilot Programma overstijgend werken, doen dit in schooljaar 2025-2026 automatisch ook. De aanvullende verplichting dat scholen gebruik moeten maken van een NJI-erkend programma voor vroegschoolse educatie komt te vervallen. De overige subsidiabele activiteiten en aanvullende verplichtingen blijven onverkort van kracht. Ook gelden dezelfde tarieven. De pilot heeft een looptijd van twee schooljaren. Om de kwaliteit van het onderwijs te borgen zal scholen gevraagd worden in hun activiteitenplan aan te geven op welke manier zal worden gezorgd dat de SLO-doelen worden gerealiseerd en de optimale ontwikkeling van de kleuters zal worden geborgd.
 
 #### Voorwaarden kansenaanpak primair onderwijs
 
@@ -109,9 +103,7 @@ De pilot heeft een looptijd van twee schooljaren. Om de kwaliteit van het onderw
     * Kop­klas
   * De sub­si­die voor de uit­voe­ring van de ac­ti­vi­tei­ten in het maat­werk­plan be­draagt € 800,- per doel­groep­leer­ling in school­jaar 2025-2026.
   * In het maat­werk­plan moet dui­de­lijk wor­den om­schre­ven hoe de mid­de­len ten goe­de ko­men aan de doel­groep­leer­lin­gen. De school­lei­der geeft in het maat­werk­plan aan:
-\- voor wel­ke op­ga­ve de school staat.
-\- voor wel­ke leer­lin­gen en ac­ti­vi­tei­ten de mid­de­len wor­den in­ge­zet.
-\- hoe deze ac­ti­vi­tei­ten aan­slui­ten bij het hui­di­ge be­leid van de school.
+\- voor wel­ke op­ga­ve de school staat. \- voor wel­ke leer­lin­gen en ac­ti­vi­tei­ten de mid­de­len wor­den in­ge­zet. \- hoe deze ac­ti­vi­tei­ten aan­slui­ten bij het hui­di­ge be­leid van de school.
 \- op wel­ke ma­nier de school de vor­de­rin­gen van de leer­lin­gen gaat eva­lu­e­ren en mo­ni­to­ren.
   * De sub­si­die voor de Zo­mer­school is af­han­ke­lijk van het to­taal aan­tal uren dat ex­tra on­der­wijs ge­bo­den wordt met een maxi­mum van € 20.000,- per klas voor ten­min­ste 84 uur les.
   * De sub­si­die voor de Kop­klas be­draagt maxi­maal € 60.000,- per klas.
@@ -191,14 +183,11 @@ Het schoolbestuur ontvangt een e-mail als de schoolleider de aanvragen doorzet n
 #### Stap**1:**
 
   1. Log in op de [we­bap­pli­ca­tie on­der­wijs­sub­si­dies (WOS)](<https://onderwijssubsidies.amsterdam.nl/inloggen>). Dit kan op twee ma­nie­ren:
-\- Via de link die u ont­vangt als een school­lei­der een aan­vraag door­zet.
-\- Ga naar de[ we­bap­pli­ca­tie on­der­wijs­sub­si­dies (WOS)](<https://onderwijssubsidies.amsterdam.nl/inloggen> "webapplicatie onderwijssubsidies \(WOS\)"). Vul uw e-mail­adres in en wacht­woord in.
-  2. Klik op On­der­wijs­voor­zie­nin­gen pri­mair on­der­wijs.
+\- Via de link die u ont­vangt als een school­lei­der een aan­vraag door­zet. \- Ga naar de[ we­bap­pli­ca­tie on­der­wijs­sub­si­dies (WOS)](<https://onderwijssubsidies.amsterdam.nl/inloggen> "webapplicatie onderwijssubsidies \(WOS\)"). Vul uw e-mail­adres in en wacht­woord in.   2. Klik op On­der­wijs­voor­zie­nin­gen pri­mair on­der­wijs.
   3. Klik op Be­oor­de­len en con­tro­leer de aan­vraag.
   4. Als het aan­vraag­for­mu­lier van uw school­lei­der com­pleet is, ver­gren­delt u de aan­vraag door op de knop Ver­gren­de­len te klik­ken. Het aan­vraag­for­mu­lier wordt hier­mee door­ge­zet naar de ge­meen­te.
 
-Zorg dat u alle aanvragen voor uw scholen hebt vergrendeld voor **15 april 2025.**
-De gemeente gaat nu de aanvragen beoordelen. U ontvangt automatisch een e-mailbericht met de vervolgstappen als alle aanvragen beoordeeld zijn. Ga dan verder met stap 2.
+Zorg dat u alle aanvragen voor uw scholen hebt vergrendeld voor **15 april 2025.** De gemeente gaat nu de aanvragen beoordelen. U ontvangt automatisch een e-mailbericht met de vervolgstappen als alle aanvragen beoordeeld zijn. Ga dan verder met stap 2.
 
 Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies](<https://www.amsterdam.nl/subsidies/subsidie-stappen/eherkenning/>).
 
@@ -283,6 +272,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

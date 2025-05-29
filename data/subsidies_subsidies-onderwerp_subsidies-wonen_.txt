@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/"
-page_title: "Subsidies Wonen en leefomgeving"
-page_modified: "2025-05-29"
-page_available: "2015-02-06"
----
+[PAGE LINK: subsidies subsidies onderwerp subsidies wonen](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/)
 
 # Subsidies Wonen en leefomgeving
 
@@ -131,6 +126,4 @@ subsidie voor het wegwerken van achterstallig onderhoud en het verduurzamen van 
 
 pagina 1[pagina 2](<https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/?pager_page=1>)[volgende pagina](<https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/?pager_page=1>)
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

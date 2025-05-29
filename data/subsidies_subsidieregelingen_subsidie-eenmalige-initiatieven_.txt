@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-eenmalige-initiatieven/"
-page_title: "Subsidie voor Incidentele (eenmalige) initiatieven"
-page_modified: "2025-05-29"
-page_available: "2023-03-02"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie eenmalige initiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-eenmalige-initiatieven/)
 
 # Subsidie voor Incidentele (eenmalige) initiatieven
 
@@ -79,6 +74,4 @@ Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https:
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

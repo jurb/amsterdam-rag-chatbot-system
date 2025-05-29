@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-periodieke-kunst-oost/"
-page_title: "Subsidie Periodieke gebiedsgebonden kunst- en cultuuractiviteiten Oost"
-page_modified: "2025-05-29"
-page_available: "2023-03-09"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie periodieke kunst oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-periodieke-kunst-oost/)
 
 # Subsidie Periodieke gebiedsgebonden kunst- en cultuuractiviteiten Oost
 
@@ -129,6 +124,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

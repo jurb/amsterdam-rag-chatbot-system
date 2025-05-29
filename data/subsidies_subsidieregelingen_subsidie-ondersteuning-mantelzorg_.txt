@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-mantelzorg/"
-page_title: "Subsidie Ondersteuning mantelzorg en vrijwillige inzet"
-page_modified: "2025-05-29"
-page_available: "2023-03-27"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie ondersteuning mantelzorg](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-mantelzorg/)
 
 # Subsidie Ondersteuning mantelzorg en vrijwillige inzet
 
@@ -70,8 +65,7 @@ Stap 2:
   2. Log in met eHerkenning.
   3. Vul alle gegevens in en voeg de gevraagde bijlagen toe.
 
-Als alle documenten binnen zijn, hoort u **binnen 8 weken** of u de subsidie krijgt.
-We beoordelen alle aanvragen op inhoudelijke en financiële aspecten. U kunt vervolgens uitgenodigd worden voor een gesprek over uw aanvraag. Het gesprek kan ertoe leiden dat u gevraagd wordt om een aangepaste aanvraag in te dienen.
+Als alle documenten binnen zijn, hoort u **binnen 8 weken** of u de subsidie krijgt. We beoordelen alle aanvragen op inhoudelijke en financiële aspecten. U kunt vervolgens uitgenodigd worden voor een gesprek over uw aanvraag. Het gesprek kan ertoe leiden dat u gevraagd wordt om een aangepaste aanvraag in te dienen.
 
 ### Subsidiebedrag op uw rekening
 
@@ -156,6 +150,4 @@ Hebt u nog vragen? Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amst
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

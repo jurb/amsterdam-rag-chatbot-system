@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noodsteun-energiekosten/"
-page_title: "Subsidie Noodsteun energiekosten Amsterdamse kunst- en cultuurinstellingen 2023"
-page_modified: "2025-05-29"
-page_available: "2024-01-08"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie noodsteun energiekosten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noodsteun-energiekosten/)
 
 # Subsidie Noodsteun energiekosten Amsterdamse kunst- en cultuurinstellingen 2023
 
@@ -116,6 +111,4 @@ Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<ht
 
 Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

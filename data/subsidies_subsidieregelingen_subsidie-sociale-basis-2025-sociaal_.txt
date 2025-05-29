@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/"
-page_title: "Subsidie Sociale basis 2025: Sociaal weefsel"
-page_modified: "2025-05-29"
-page_available: "2024-02-28"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie sociale basis 2025 sociaal](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/)
 
 # Subsidie Sociale basis 2025: Sociaal weefsel
 
@@ -36,8 +31,7 @@ Voor de eenmalige subsidie gelden aanvullende voorwaarden:
   * Voor de uitvoering van de activiteiten wordt geen hoger bedrag of meer uren inzet gerekend dan redelijk wordt geacht.
   * Bij de voorbereiding en uitvoering van de activiteiten worden voldoende overige bewoners of ervaringsdeskundigen betrokken.
 
-**Subsidiebedrag**
-U kunt maximaal € 50.000,- subsidie per aanvraag per boekjaar krijgen.
+**Subsidiebedrag** U kunt maximaal € 50.000,- subsidie per aanvraag per boekjaar krijgen.
 
 Lees voor meer informatie:
 
@@ -47,12 +41,9 @@ Lees voor meer informatie:
 
 ### Wanneer aanvragen
 
-**Eenmalig
-** U kunt een aanvraag indienen tussen 1 december voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd tot en met 1 december van het boekjaar waarop ze betrekking hebben.
+**Eenmalig ** U kunt een aanvraag indienen tussen 1 december voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd tot en met 1 december van het boekjaar waarop ze betrekking hebben.
 
-Niet alle stadsdelen hebben middelen (of geld) beschikbaar voor eenmalige activiteiten.
-U kunt dat controleren op de pagina [Financiële middelen sociale basis - Sociaal Domein](<https://www.amsterdam.nl/sociaaldomein/zorgprofessionals/sociale-basis/financiele-middelen-sociale-basis-2025/>).
-Als het stadsdeel geen middelen (meer) heeft, wordt uw aanvraag geweigerd.
+Niet alle stadsdelen hebben middelen (of geld) beschikbaar voor eenmalige activiteiten. U kunt dat controleren op de pagina [Financiële middelen sociale basis - Sociaal Domein](<https://www.amsterdam.nl/sociaaldomein/zorgprofessionals/sociale-basis/financiele-middelen-sociale-basis-2025/>). Als het stadsdeel geen middelen (meer) heeft, wordt uw aanvraag geweigerd.
 
 ### Aanvragen
 
@@ -64,11 +55,8 @@ Voor het aanvragen van deze subsidie hebt u nodig:
 #### U moet deze documenten meesturen bij uw aanvraag voor een subsidie:
 
   * een activiteitenplan waarin u per activiteit de volgende punten uitwerkt:
-o Beschrijving activiteit.
-o Doelgroep(en) op wie de activiteit is gericht.
-o Doel van de activiteit. Hoe draagt de activiteit bij aan de doelstellingen van de sociale basis?
-o Beoogd resultaat dat wordt nagestreefd.
-o Locatie(s) waar de activiteit plaatsvindt, of geef aan dat het een activiteit betreft die niet aan locatie(s) verbonden is.
+o Beschrijving activiteit. o Doelgroep(en) op wie de activiteit is gericht. o Doel van de activiteit. Hoe draagt de activiteit bij aan de doelstellingen van de sociale basis?
+o Beoogd resultaat dat wordt nagestreefd. o Locatie(s) waar de activiteit plaatsvindt, of geef aan dat het een activiteit betreft die niet aan locatie(s) verbonden is.
   * [een begrotingsformat (XLSX, 35 kB)](<https://assets.amsterdam.nl/publish/pages/1049771/begrotingsformat_sociaal_weefsel_2025_v3.xlsx>).
 
 #### Zo vraagt u de subsidie aan:
@@ -78,19 +66,15 @@ o Locatie(s) waar de activiteit plaatsvindt, of geef aan dat het een activiteit 
   3. Vul alle gegevens in en voeg de bijlagen toe.
   4. Verzend het formulier.
 
-**Eenmalig
-** Als alle documenten binnen zijn, hoort u binnen **8 weken** of u de subsidie krijgt.
+**Eenmalig ** Als alle documenten binnen zijn, hoort u binnen **8 weken** of u de subsidie krijgt.
 
-**Boekjaar
-** Voor 2025 kunt u geen boekjaar subsidie meer aanvragen.
+**Boekjaar ** Voor 2025 kunt u geen boekjaar subsidie meer aanvragen.
 
 ### Subsidiebedrag op uw rekening
 
-**Boekjaar 2025**
-Vanaf januari 2025 ontvangt u een voorschot op uw rekening.
+**Boekjaar 2025** Vanaf januari 2025 ontvangt u een voorschot op uw rekening.
 
-**Eenmalig
-** U ontvangt het geld binnen 4 weken nadat u van ons hebt gehoord dat u de subsidie krijgt.
+**Eenmalig ** U ontvangt het geld binnen 4 weken nadat u van ons hebt gehoord dat u de subsidie krijgt.
 
 #### Verantwoorden
 
@@ -127,9 +111,6 @@ Lees voor meer informatie:
 
 Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https://www.amsterdam.nl/subsidies/>)
 
-**Hebt u nog vragen?**
-Mail naar subsidies@amsterdam.nl of bel 14 020.
+**Hebt u nog vragen?** Mail naar subsidies@amsterdam.nl of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

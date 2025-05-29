@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-integraal-maatschappelijk/"
-page_title: "Subsidie Integraal maatschappelijk initiatief"
-page_modified: "2025-05-29"
-page_available: "2023-03-15"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie integraal maatschappelijk](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-integraal-maatschappelijk/)
 
 # Subsidie Integraal maatschappelijk initiatief
 
@@ -47,9 +42,7 @@ be­trok­ke­nen.
   * Ac­com­mo­da­ties waar ac­ti­vi­tei­ten plaats­vin­den zijn toe­gan­ke­lijk voor men­sen met een li­cha­me­lij­ke be­per­king.
   * U of uw organisatie heeft over de afgelopen 3 jaar minder dan € 1,5 miljoen subsidie (vanuit deze dan wel andere subsidieregelingen) ontvangen van de gemeente Amsterdam.
 
-**Subsidiebedrag**
-Per aanvraag kunt u minimaal € 5.000,- en maximaal € 100.000,- subsidie krijgen.
-Voor particulieren ligt het maximum op €50.000,-.
+**Subsidiebedrag** Per aanvraag kunt u minimaal € 5.000,- en maximaal € 100.000,- subsidie krijgen. Voor particulieren ligt het maximum op €50.000,-.
 
 Lees altijd de volledige [subsidieregeling Integraal maatschappelijk initiatief](<https://lokaleregelgeving.overheid.nl/CVDR722254/> "subsidieregeling Integraal maatschappelijk initiatief") en de [Algemene Subsidieverordening Amsterdam 2023.](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/asa-2023/>)
 
@@ -135,8 +128,7 @@ U moet de bijlagen meesturen zoals afgesproken in de subsidiebeschikking.
   6. Voeg de ge­vraag­de bij­la­ge(n) toe.
   7. Ver­zend het for­mu­lier.
 
-Als alle documenten binnen zijn, maken wij de subsidie **binnen 12 weken** definitief.
-Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben verleend.
+Als alle documenten binnen zijn, maken wij de subsidie **binnen 12 weken** definitief. Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben verleend.
 
 #### Lees voor meer informatie:
 
@@ -150,6 +142,4 @@ Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag 
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

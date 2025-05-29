@@ -1,19 +1,12 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kunst-cultuur-amsterdam-750/"
-page_title: "Subsidie Kunst en Cultuur Amsterdam 750 jaar"
-page_modified: "2025-05-29"
-page_available: "2023-03-15"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie kunst cultuur amsterdam 750](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kunst-cultuur-amsterdam-750/)
 
 # Subsidie Kunst en Cultuur Amsterdam 750 jaar
 
-In het jaar 2025 bestaat Amsterdam 750 jaar. Om dit te vieren kunnen culturele instellingen subsidie aanvragen voor de **organisatie van het jaarlijks terugkerende Vrijdenkersfestival**.
-Lees hier hoe het werkt.
+In het jaar 2025 bestaat Amsterdam 750 jaar. Om dit te vieren kunnen culturele instellingen subsidie aanvragen voor de **organisatie van het jaarlijks terugkerende Vrijdenkersfestival**. Lees hier hoe het werkt.
 
 ### Doel
 
-Het doel van deze subsidie is om bij te dragen aan de viering van Amsterdam 750 jaar.
-U kunt via deze subsidieregeling een aanvraag doen voor de organisatie van het jaarlijkse Vrijdenkersfestival. Bij het Vrijdenkersfestival staan vrijheid en het belang van onze grondrechten centraal.
+Het doel van deze subsidie is om bij te dragen aan de viering van Amsterdam 750 jaar. U kunt via deze subsidieregeling een aanvraag doen voor de organisatie van het jaarlijkse Vrijdenkersfestival. Bij het Vrijdenkersfestival staan vrijheid en het belang van onze grondrechten centraal.
 
 ### Voorwaarden
 
@@ -36,8 +29,7 @@ U kunt de subsidie alleen aanvragen als statutair gevestigde culturele instellin
   * Bij een samenwerkingsverband van rechtspersonen moet een van de betrokkenen als penvoerder de aanvraag indienen namens het samenwerkingsverband. De penvoerder draagt de verantwoordelijkheid voor het uitvoeren van de subsidiebeschikking.
   * Uw aanvraag wordt beoordeeld door een ambtelijke commissie. Lees voor de criteria artikel 7.3 van de subsidieregeling Kunst en Cultuur Amsterdam 750.
 
-**Hoogte van het subsidiebedrag**
-Voor het Vrijdenkersfestival kunt u €50.000,- aanvragen.
+**Hoogte van het subsidiebedrag** Voor het Vrijdenkersfestival kunt u €50.000,- aanvragen.
 
 Lees altijd de volledige [Subsidieregeling Kunst en Cultuur Amsterdam 750](<https://lokaleregelgeving.overheid.nl/CVDR691011/>) en de [Algemene Subsidieverordening Amsterdam 2023](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/asa-2023/>).
 
@@ -54,8 +46,7 @@ Voor het aanvragen van deze subsidie hebt u eHerkenning (voor organisaties) nodi
 #### U moet deze documenten meesturen bij uw aanvraag:
 
   * een activiteitenplan met de volgende onderdelen overgelegd:
-\- de doelgroep(en) op wie de activiteiten zijn gericht en het verwachte bereik in aantallen;
-\- de beoogde doelen en verwachte impact/resultaten.
+\- de doelgroep(en) op wie de activiteiten zijn gericht en het verwachte bereik in aantallen; \- de beoogde doelen en verwachte impact/resultaten.
   * een sluitende projectbegroting voor de beschreven activiteit(en), inclusief een opgave van de eventuele aanvragen die bij derden zijn ingediend voor een subsidie, sponsoring en/of vergoeding voor diezelfde activiteiten.
   * bij samenwerking met een andere partij, een omschrijving van hoe wordt samengewerkt met de andere organisatie(s), instantie(s) en/of bedrijven, en een intentieverklaring of een samenwerkingsovereenkomst waarin het doel van de samenwerking en de taken van de deelnemende partijen zijn vastgelegd; cofinancieringsverklaringen van de co-financiers in geval van cofinanciering.
   * een afschrift van het jaarverslag, de jaarrekening en de balans van de aanvrager van het voorgaande jaar.
@@ -63,9 +54,7 @@ Voor het aanvragen van deze subsidie hebt u eHerkenning (voor organisaties) nodi
 #### Zo vraagt u de subsidie aan:
 
   1. Ga naar Aanvragen [subsidie Kunst en Cultuur Amsterdam 750 jaar](<https://mijnsubsidies.amsterdam.nl/regeling/63ad48ccf938e4b8b103d6d4>).
-2\. Log in met DigiD of eHerkenning.
-3\. Vul alle gegevens in en voeg de bijlagen toe.
-4\. Verzend het formulier.
+2\. Log in met DigiD of eHerkenning. 3\. Vul alle gegevens in en voeg de bijlagen toe. 4\. Verzend het formulier.
 
 Als alle documenten binnen zijn, hoort u vóór 1 juli van het jaar van de aanvraag of u de subsidie krijgt.
 
@@ -105,9 +94,6 @@ Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitie
   * bekijk [Het plan - Amsterdam 750](<https://amsterdam750.nl/plan-amsterdam-750/>)
   * bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<https://www.amsterdam.nl/subsidies/onderwerp/>).
 
-**Hebt u nog vragen?
-** Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020 (bereikbaar van maandag tot en met vrijdag van 08.00 tot 18.00 uur).
+**Hebt u nog vragen? ** Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020 (bereikbaar van maandag tot en met vrijdag van 08.00 tot 18.00 uur).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

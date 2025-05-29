@@ -1,16 +1,10 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/"
-page_title: "Subsidies op onderwerp"
-page_modified: "2025-05-29"
-page_available: "2015-02-05"
----
+[PAGE LINK: subsidies subsidies onderwerp](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/)
 
 # Subsidies op onderwerp
 
 ## Subsidies op onderwerp
 
-Overzicht op onderwerp van subsidies die door de gemeente Amsterdam worden verstrekt.
-Er is ook een [alfabetisch overzicht](<https://www.amsterdam.nl/subsidies/subsidies-alfabet/>) met alle subsidies.
+Overzicht op onderwerp van subsidies die door de gemeente Amsterdam worden verstrekt. Er is ook een [alfabetisch overzicht](<https://www.amsterdam.nl/subsidies/subsidies-alfabet/>) met alle subsidies.
 
 **Mist u een subsidieregeling of valt uw aanvraag niet onder een bestaande subsidieregeling?** Neem dan contact op met uw contactpersoon bij de gemeente. Heeft u geen contactpersoon stuur dan een mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel naar 14 020.
 
@@ -99,6 +93,4 @@ Deze subsidies worden niet meer verstrekt. Subsidie nog verantwoorden?
 
   * [Kijk hier voor de voorwaarden per subsidieregeling](<https://www.amsterdam.nl/subsidies/niet-meer/>)
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

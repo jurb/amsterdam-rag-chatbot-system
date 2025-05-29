@@ -1,14 +1,8 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-overstap-emissievrij-vervoer/"
-page_title: "Subsidie voor de overstap naar emissievrij vervoer voor MKB en instellingen"
-page_modified: "2025-05-29"
-page_available: "2024-11-28"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie overstap emissievrij vervoer](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-overstap-emissievrij-vervoer/)
 
 # Subsidie voor de overstap naar emissievrij vervoer voor MKB en instellingen
 
-MKB-ondernemers en non-profitinstellingen, die in Amsterdam gevestigd zijn en op het moment van aanvraag een fossiel aangedreven voertuig gebruiken, kunnen een subsidie van €3.000,- aanvragen. Deze subsidie is bedoeld om het vervoer van hun bedrijf uitstootvrij te maken. Onder de knop Voorwaarden staat de uitzondering voor deelnemers aan de
-Park + Switch beschreven.
+MKB-ondernemers en non-profitinstellingen, die in Amsterdam gevestigd zijn en op het moment van aanvraag een fossiel aangedreven voertuig gebruiken, kunnen een subsidie van €3.000,- aanvragen. Deze subsidie is bedoeld om het vervoer van hun bedrijf uitstootvrij te maken. Onder de knop Voorwaarden staat de uitzondering voor deelnemers aan de Park + Switch beschreven.
 
 ### Voorwaarden
 
@@ -22,8 +16,7 @@ Alleen MKB-ondernemers en instellingen zonder winstoogmerk met rechtspersoonlijk
 -het inzetten van uitstootvrije voertuigen (Light Electric Vehicles, elektrische vrachtfietsen, bestelauto’s)
 
   * De inkoop van uitstootvrije logistieke dienstverlening, zoals:
--inhuur van dienstverlener die gebruik maken van uitstootvrije voertuigen (Light Electric Vehicles, elektrische vrachtfietsen, bestelauto’s)
-\- gebruik maken van [Hubs](<https://logistiek020.nl/hubs-2/>) in combinatie met last-mile delivery.
+-inhuur van dienstverlener die gebruik maken van uitstootvrije voertuigen (Light Electric Vehicles, elektrische vrachtfietsen, bestelauto’s) \- gebruik maken van [Hubs](<https://logistiek020.nl/hubs-2/>) in combinatie met last-mile delivery.
 
   * De aanschaf of lease van een nieuw of gebruikt uitstootvrij voertuig.
 
@@ -41,25 +34,19 @@ Alleen MKB-ondernemers en instellingen zonder winstoogmerk met rechtspersoonlijk
   10. Als ondernemer moet uit de de-minimisverklaring blijken dat u de geldende de-minimisdrempel niet heeft overschreden. In een de-minimisverklaring geeft u aan of u de afgelopen jaren subsidie ontving en hoeveel.
   11. In geval van een controle op de doeltreffendheid, doelmatigheid en rechtmatigheid van de besteding van de ontvangen subsidies moet u hieraan meewerken conform de door de gemeente aangegeven wijze en instructies.
 
-**Uitzondering deelnemers Park + Switch (voorheen klushub)**
-Deze subsidieregeling is voor bedrijven gevestigd in Amsterdam, maar er is een speciale uitzondering. Bedrijven buiten Amsterdam die meedoen met Park + Switch kunnen deze subsidie ook aanvragen.
+**Uitzondering deelnemers Park + Switch (voorheen klushub)** Deze subsidieregeling is voor bedrijven gevestigd in Amsterdam, maar er is een speciale uitzondering. Bedrijven buiten Amsterdam die meedoen met Park + Switch kunnen deze subsidie ook aanvragen.
 
 De subsidie is bedoeld voor de kosten die u maakt bij deelname en vooral voor de kosten voor het gebruik van het licht elektrisch voertuig. Parkeerkosten voor het eigen voertuig vallen buiten deze subsidieregeling en dus kunt u de subsidie voor deze kosten niet gebruiken.
 
 Als uw bedrijf buiten Amsterdam ligt, kunt u dit subsidiebedrag alleen gebruiken voor deelname aan de P+S. U mag het niet gebruiken voor het kopen van een elektrische bus of ander elektrisch voertuig. De bovenstaande voorwaarden gelden ook voor de uitzonderingsregel, behalve voorwaarde 1 en 2.
 
-**Hoe werkt het?
-**
+**Hoe werkt het? **
 
-**Stap 1**
-U moet in de [P+S-app van Mobian](<https://www.parkswitch.nl/amsterdam/>) laten weten dat u de uitzonderingsregel op deze subsidie wilt gebruiken.
+**Stap 1** U moet in de [P+S-app van Mobian](<https://www.parkswitch.nl/amsterdam/>) laten weten dat u de uitzonderingsregel op deze subsidie wilt gebruiken.
 
-**Stap 2**
-U ontvangt daarop een bevestiging van ons als het subsidieplafond nog niet is bereikt.
+**Stap 2** U ontvangt daarop een bevestiging van ons als het subsidieplafond nog niet is bereikt.
 
-**Stap 3**
-Krijgt u deze bevestiging, dan kunt u deze reactie toevoegen in het aanvraagproces.
-U kunt ook de reactie van de milieudienst afwachten.
+**Stap 3** Krijgt u deze bevestiging, dan kunt u deze reactie toevoegen in het aanvraagproces. U kunt ook de reactie van de milieudienst afwachten.
 
 #### Subsidiebedrag
 
@@ -110,6 +97,4 @@ Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<ht
 
 Hebt u nog vragen? Mail dan naar subsidies@amsterdam.nl of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-brede-brugklas-bonus/"
-page_title: "Subsidie Brede Brugklas Bonus"
-page_modified: "2025-05-29"
-page_available: "2023-06-14"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie brede brugklas bonus](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-brede-brugklas-bonus/)
 
 # Subsidie Brede Brugklas Bonus
 
@@ -57,6 +52,4 @@ Hebt u nog vragen? Mail dan naar subsidies@amsterdam.nl of bel 14 020.
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

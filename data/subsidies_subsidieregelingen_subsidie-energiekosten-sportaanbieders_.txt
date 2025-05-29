@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-energiekosten-sportaanbieders/"
-page_title: "Subsidie Noodsteun energiekosten Amsterdamse sportaanbieders 2023-2024"
-page_modified: "2025-05-29"
-page_available: "2023-03-30"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie energiekosten sportaanbieders](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-energiekosten-sportaanbieders/)
 
 # Subsidie Noodsteun energiekosten Amsterdamse sportaanbieders 2023-2024
 
@@ -94,6 +89,4 @@ Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<ht
 
 Hebt u nog vragen? Mail dan naar subsidies@amsterdam.nl of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

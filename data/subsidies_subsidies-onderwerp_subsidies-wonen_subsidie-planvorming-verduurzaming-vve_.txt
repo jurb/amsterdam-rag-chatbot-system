@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/subsidie-planvorming-verduurzaming-vve/"
-page_title: "Subsidie Planvorming verduurzaming voor vve’s"
-page_modified: "2025-05-29"
-page_available: "2025-01-09"
----
+[PAGE LINK: subsidies subsidies onderwerp subsidies wonen subsidie planvorming verduurzaming vve](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/subsidie-planvorming-verduurzaming-vve/)
 
 # Subsidie Planvorming verduurzaming voor vve’s
 
@@ -76,8 +71,7 @@ Zolang er budget is, kunt u tot uiterlijk 31 december 2026 subsidie aanvragen. U
 
 #### Aanvragen
 
-Voor het aanvragen van deze subsidie hebt u**eHerkenning** nodig.
-Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies.](<https://www.amsterdam.nl/subsidies/subsidie-stappen/eherkenning>)
+Voor het aanvragen van deze subsidie hebt u**eHerkenning** nodig. Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies.](<https://www.amsterdam.nl/subsidies/subsidie-stappen/eherkenning>)
 
 #### U moet deze documenten meesturen bij uw aanvraag:
 
@@ -115,8 +109,7 @@ Als alle documenten binnen zijn, hoort u binnen **12** **weken** of u de subsidi
 
 ### Subsidiebedrag op uw rekening
 
-U krijgt 50% van de subsidie als voorschot op uw rekening. De rest krijgt u na afloop, als u de subsidie hebt verantwoord en wij het subsidiebedrag precies hebben bepaald.
-Indien een voorschot van 50% te weinig is en de vve in liquiditeitsproblemen komt, kunt u een schriftelijk en onderbouwt verzoek indienen voor een hoger voorschot. Het college kan dan besluiten een hoger voorschot uit te keren.
+U krijgt 50% van de subsidie als voorschot op uw rekening. De rest krijgt u na afloop, als u de subsidie hebt verantwoord en wij het subsidiebedrag precies hebben bepaald. Indien een voorschot van 50% te weinig is en de vve in liquiditeitsproblemen komt, kunt u een schriftelijk en onderbouwt verzoek indienen voor een hoger voorschot. Het college kan dan besluiten een hoger voorschot uit te keren.
 
 #### Verantwoorden
 
@@ -140,8 +133,7 @@ U moet de subsidie binnen 12 weken nadat u uw activiteiten hebt afgerond verantw
   6. Voeg de ge­vraag­de bij­la­ge(n) toe.
   7. Verzend het formulier.
 
-Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitief.
-Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
+Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitief. Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
 
 ### Meer informatie
 
@@ -153,6 +145,4 @@ Bekijk ook de algemene informatie over subsidies op[ amsterdam.nl/subsidies](<ht
 
 Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

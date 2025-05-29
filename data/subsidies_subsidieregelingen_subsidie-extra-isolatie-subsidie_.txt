@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-extra-isolatie-subsidie/"
-page_title: "Subsidie Extra isolatie subsidie Amsterdam"
-page_modified: "2025-05-29"
-page_available: "2024-05-08"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie extra isolatie subsidie](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-extra-isolatie-subsidie/)
 
 # Subsidie Extra isolatie subsidie Amsterdam
 
@@ -125,6 +120,4 @@ Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<ht
 
 Hebt u nog vragen? Mail dan naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

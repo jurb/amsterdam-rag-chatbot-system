@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noodsteun-amsterdamse/"
-page_title: "Subsidie Noodsteun Amsterdamse dierenwelzijnsorganisaties 2024"
-page_modified: "2025-05-29"
-page_available: "2024-04-24"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie noodsteun amsterdamse](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noodsteun-amsterdamse/)
 
 # Subsidie Noodsteun Amsterdamse dierenwelzijnsorganisaties 2024
 
@@ -20,12 +15,8 @@ Alleen organisaties met de volgende kenmerken kunnen deze subsidie aanvragen:
   1. volledige rechtspersoonlijkheid;
   2. geen winstoogmerk;
   3. de statutaire activiteiten en de daadwerkelijke activiteiten zijn gericht op dierenwelzijn, zodat dieren vrij blijven van:
-a. dorst, honger en onjuiste voeding;
-b. fysiek en fysiologisch ongerief;
-c. pijn, verwonding en ziektes;
-d. angst en chronische stress; of
-e. beperking van hun natuurlijk gedrag.
-  4. de activiteiten zijn niet in grote mate gericht op belangenbehartiging, beleidsbeïnvloeding of onderzoek.
+a. dorst, honger en onjuiste voeding; b. fysiek en fysiologisch ongerief; c. pijn, verwonding en ziektes;
+d. angst en chronische stress; of e. beperking van hun natuurlijk gedrag.   4. de activiteiten zijn niet in grote mate gericht op belangenbehartiging, beleidsbeïnvloeding of onderzoek.
 
 ### U kunt subsidie aanvragen voor:
 
@@ -41,8 +32,7 @@ e. beperking van hun natuurlijk gedrag.
 
 De maximale subsidie is €100.000 of 20% van de totale kosten in 2023 voor dierenwelzijnsactiviteiten van uw organisatie in Amsterdam.
 
-Voor subsidies groter dan €20.000,- wordt de hoogte van het subsidiebedrag bepaald
-op basis van daadwerkelijk gemaakte kosten.
+Voor subsidies groter dan €20.000,- wordt de hoogte van het subsidiebedrag bepaald op basis van daadwerkelijk gemaakte kosten.
 
 ### Subsidieplafond
 
@@ -56,8 +46,7 @@ U kunt vanaf 25 april 2024 subsidie aanvragen. Uw aanvraag moet **vóór 1 oktob
 
 ### Aanvragen
 
-Voor het aanvragen van deze subsidie hebt u eHerkenning (voor organisaties) nodig.
-Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies.](<https://www.amsterdam.nl/subsidies/subsidie-stappen/eherkenning/>)
+Voor het aanvragen van deze subsidie hebt u eHerkenning (voor organisaties) nodig. Bekijk de handleiding [Aanvragen en voorwaarden eHerkenning subsidies.](<https://www.amsterdam.nl/subsidies/subsidie-stappen/eherkenning/>)
 
 U moet deze documenten meesturen bij uw aanvraag:
 
@@ -137,6 +126,4 @@ Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<ht
 
 Hebt u nog vragen? Mail dan naar subsidies@amsterdam.nl of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

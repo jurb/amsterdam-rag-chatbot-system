@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidies-alfabet/"
-page_title: "Subsidies op alfabet"
-page_modified: "2025-05-29"
-page_available: "2014-10-29"
----
+[PAGE LINK: subsidies subsidies alfabet](https://www.amsterdam.nl/subsidies/subsidies-alfabet/)
 
 # Subsidies op alfabet
 
@@ -131,6 +126,4 @@ U kunt deze subsidie eenmalig aanvragen voor het aardgasvrij maken van een vastg
 
 pagina 1[pagina 2](<https://www.amsterdam.nl/subsidies/subsidies-alfabet/?pager_page=1>)...[pagina 5](<https://www.amsterdam.nl/subsidies/subsidies-alfabet/?pager_page=4>)[volgende pagina](<https://www.amsterdam.nl/subsidies/subsidies-alfabet/?pager_page=1>)
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

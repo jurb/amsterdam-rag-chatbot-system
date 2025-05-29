@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-ingrijpende/"
-page_title: "Verantwoorden subsidie Ingrijpende aanpak sociale huurwoningen"
-page_modified: "2025-05-29"
-page_available: "2023-03-15"
----
+[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie ingrijpende](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-ingrijpende/)
 
 # Verantwoorden subsidie Ingrijpende aanpak sociale huurwoningen
 
@@ -78,6 +73,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

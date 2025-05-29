@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijk-initiatief-west/"
-page_title: "Subsidie Maatschappelijk initiatief in West"
-page_modified: "2025-05-29"
-page_available: "2023-03-15"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie maatschappelijk initiatief west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijk-initiatief-west/)
 
 # Subsidie Maatschappelijk initiatief in West
 
@@ -96,8 +91,7 @@ Subsidies tot € 5.000,-: hoeft u niet te verantwoorden (aanvraag tot vaststell
   6. Voeg de gevraagde bijlage(n) toe.
   7. Verzend het formulier.
 
-Subsidies van € 5.000,- tot € 50.000,-: uw verantwoording moet uiterlijk 8 weken na afronding van de activiteiten waarvoor u subsidie hebt aangevraagd bij ons binnen zijn.
-Subsidies boven de € 50.000,-: uw verantwoording moet uiterlijk 12 weken na afronding van de activiteiten waarvoor u subsidie hebt aangevraagd bij ons binnen zijn.
+Subsidies van € 5.000,- tot € 50.000,-: uw verantwoording moet uiterlijk 8 weken na afronding van de activiteiten waarvoor u subsidie hebt aangevraagd bij ons binnen zijn. Subsidies boven de € 50.000,-: uw verantwoording moet uiterlijk 12 weken na afronding van de activiteiten waarvoor u subsidie hebt aangevraagd bij ons binnen zijn.
 
 #### Hiervoor moet u deze bijlagen meesturen:
 
@@ -175,6 +169,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

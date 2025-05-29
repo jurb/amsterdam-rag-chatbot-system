@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-innovatie/"
-page_title: "Subsidie Innovatie"
-page_modified: "2025-05-29"
-page_available: "2023-03-15"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie innovatie](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-innovatie/)
 
 # Subsidie Innovatie
 
@@ -129,6 +124,4 @@ Als alle documenten binnen zijn, stellen wij de subsidie **binnen 12 weken** vas
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

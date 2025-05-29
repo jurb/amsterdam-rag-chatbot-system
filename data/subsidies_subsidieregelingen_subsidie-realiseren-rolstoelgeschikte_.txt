@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-realiseren-rolstoelgeschikte/"
-page_title: "Subsidie Realiseren van rolstoelgeschikte woningen"
-page_modified: "2025-05-29"
-page_available: "2023-03-27"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie realiseren rolstoelgeschikte](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-realiseren-rolstoelgeschikte/)
 
 # Subsidie Realiseren van rolstoelgeschikte woningen
 
@@ -84,9 +79,7 @@ Stap 2:
   2. Log in met eHerkenning.
   3. Vul bij de activiteitenperiode de periode in waarin u verwacht de werkzaamheden uit te voeren.
   4. Kies bij de subsidiabele activiteiten de activiteit:
-\- realiseren van rolstoelgeschikte woningen
-  5. Vul alle gegevens in en voeg de gevraagde bijlagen toe.
-  6. Verzend het formulier.
+\- realiseren van rolstoelgeschikte woningen   5. Vul alle gegevens in en voeg de gevraagde bijlagen toe.   6. Verzend het formulier.
 
 Als alle documenten binnen zijn, hoort u **binnen 8 weken** of u de subsidie krijgt.
 
@@ -208,6 +201,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

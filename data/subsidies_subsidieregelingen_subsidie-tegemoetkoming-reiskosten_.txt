@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-tegemoetkoming-reiskosten/"
-page_title: "Subsidie Tegemoetkoming reiskosten leraren, onderwijsondersteunend personeel en directie po, vo, vso"
-page_modified: "2025-05-29"
-page_available: "2023-04-06"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie tegemoetkoming reiskosten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-tegemoetkoming-reiskosten/)
 
 # Subsidie Tegemoetkoming reiskosten leraren, onderwijsondersteunend personeel en directie po, vo, vso
 
@@ -25,9 +20,7 @@ U moet aan deze voorwaarden voldoen:
 
 De gemeente subsidieert de helft van de geraamde meerkosten, tenzij het subsidieplafond wordt overschreden. In dat geval worden alle aanvragen met een gelijk percentage gekort.
 
-Meerkosten Afstand woon-werk enkele reis |  Maximale vergoeding gemeente per fte personeelslid per schooljaar Personeelsleden in het po en vso |  Maximale vergoeding gemeente per fte personeelslid per schooljaar Personeelsleden in het vo
----|---|---
-25 - 30 km | € 440,- | € 100,-
+Meerkosten Afstand woon-werk enkele reis |  Maximale vergoeding gemeente per fte personeelslid per schooljaar Personeelsleden in het po en vso |  Maximale vergoeding gemeente per fte personeelslid per schooljaar Personeelsleden in het vo ---|---|--- 25 - 30 km | € 440,- | € 100,-
 30 - 40 km | € 598,- | € 200,-
 Meer dan 40 km | € 880,- | € 300,-
 
@@ -75,15 +68,11 @@ Het schoolbestuur ontvangt de subsidie. Het schoolbestuur is er vervolgens veran
 
 In het najaar van 2026 stelt de gemeente alle onderwijssubsidies voor het schooljaar 2025-2026 vast. Om de subsidies vast te kunnen stellen hebben wij uw verantwoordingen nodig. Deze bestaan uit een inhoudelijk en een financieel gedeelte. Lever beide gedeeltes volledig aan, anders kunnen wij een subsidie (gedeeltelijk) terugvorderen.
 
-**Inhoudelijke verantwoording**
-Vanaf 1 juni 2026 staan de inhoudelijke formulieren klaar in de webapplicatie onderwijssubsidies (WOS). De schoolleiders moeten deze formulieren invullen. Door alle ingediende verantwoordingen te vergrendelen accordeert het bestuur ze en kan de gemeente ze beoordelen.
+**Inhoudelijke verantwoording** Vanaf 1 juni 2026 staan de inhoudelijke formulieren klaar in de webapplicatie onderwijssubsidies (WOS). De schoolleiders moeten deze formulieren invullen. Door alle ingediende verantwoordingen te vergrendelen accordeert het bestuur ze en kan de gemeente ze beoordelen.
 
-**Financiële verantwoording**
-Deze formulieren staan ook in de webapplicatie onderwijssubsidies (WOS). Schoolbestuurders moeten deze formulieren invullen. Hebt u binnen één schooljaar voor verschillende regelingen subsidie ontvangen? En zijn die afzonderlijke subsidiebedragen opgeteld samen meer dan € 125.000,-? Dan moet u een controleverklaring van de accountant overleggen, waarbij het totale subsidiebedrag wordt uitgesplitst naar regeling en naar school. Bekijk de handreiking controle financiële verantwoording.
+**Financiële verantwoording** Deze formulieren staan ook in de webapplicatie onderwijssubsidies (WOS). Schoolbestuurders moeten deze formulieren invullen. Hebt u binnen één schooljaar voor verschillende regelingen subsidie ontvangen? En zijn die afzonderlijke subsidiebedragen opgeteld samen meer dan € 125.000,-? Dan moet u een controleverklaring van de accountant overleggen, waarbij het totale subsidiebedrag wordt uitgesplitst naar regeling en naar school. Bekijk de handreiking controle financiële verantwoording.
 
-U moet de reiskosten uitsplitsen in:
-• rijksvergoeding (conform cao)
-• gemeentelijke vergoeding (subsidie)
+U moet de reiskosten uitsplitsen in: • rijksvergoeding (conform cao) • gemeentelijke vergoeding (subsidie)
 • vergoeding door het bestuur (boven cao betaalde reiskostenvergoeding)
 
 De persoonlijke link naar deze online formulieren ontvangt u per e-mail. De schoolbestuurder kan met deze link inloggen in de webapplicatie onderwijssubsidies (WOS).
@@ -122,9 +111,6 @@ Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https:
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-**Hulp bij ontoegankelijke documenten
-** Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
+**Hulp bij ontoegankelijke documenten ** Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

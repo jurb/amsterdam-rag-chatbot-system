@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/zuid/"
-page_title: "Subsidies stadsdeel Zuid"
-page_modified: "2025-05-29"
-page_available: "2015-02-16"
----
+[PAGE LINK: subsidies zuid](https://www.amsterdam.nl/subsidies/zuid/)
 
 # Subsidies stadsdeel Zuid
 
@@ -65,6 +60,4 @@ Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen v
 
 U kunt subsidie aanvragen voor nieuwe tijdelijke Street art initiatieven in stadsdeel Zuid.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

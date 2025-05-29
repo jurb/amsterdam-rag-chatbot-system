@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-zuidoost/"
-page_title: "Subsidie Bewonersinitiatieven in Zuidoost"
-page_modified: "2025-05-29"
-page_available: "2023-03-01"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven zuidoost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-zuidoost/)
 
 # Subsidie Bewonersinitiatieven in Zuidoost
 
@@ -29,8 +24,7 @@ Zowel bewoners als ondernemers kunnen deze subsidie aanvragen.
 
 #### Hoogte van het subsidiebedrag
 
-De gemeente stelt elk jaar een subsidieplafond vast. Het subsidieplafond voor 2025 is € 368.505,-
-Het maximumbedrag dat u kunt aanvragen is € 5.000,- per jaar.
+De gemeente stelt elk jaar een subsidieplafond vast. Het subsidieplafond voor 2025 is € 368.505,- Het maximumbedrag dat u kunt aanvragen is € 5.000,- per jaar.
 
 Lees altijd de volledige [subsidieregeling Bewonersinitiatieven stadsdeel Zuidoost](<http://decentrale.regelgeving.overheid.nl/cvdr/xhtmloutput/Historie/Amsterdam/CVDR469422/CVDR469422_1.html>) en de [Algemene Subsidieverordening Amsterdam 2023](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/asa-2023/>).
 
@@ -110,6 +104,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

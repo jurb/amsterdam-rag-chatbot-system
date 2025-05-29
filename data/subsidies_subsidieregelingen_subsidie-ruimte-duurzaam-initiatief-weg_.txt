@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ruimte-duurzaam-initiatief-weg/"
-page_title: "Subsidie Ruimte voor duurzaam initiatief - op weg naar klimaatneutrale buurten Amsterdam"
-page_modified: "2025-05-29"
-page_available: "2023-03-29"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie ruimte duurzaam initiatief weg](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ruimte-duurzaam-initiatief-weg/)
 
 # Subsidie Ruimte voor duurzaam initiatief - op weg naar klimaatneutrale buurten Amsterdam
 
@@ -21,8 +16,7 @@ De regeling moet een ontwerp en een investeringsvoorstel voor een duurzame energ
 
 #### Organisaties kunnen eenmalig subsidie aanvragen voor:
 
-2\. Het uitvoeren van een haalbaarheidsstudie naar een klimaatneutrale of een aardgasvrije buurt.
-3\. Het uitwerken van een **ontwerp** voor een klimaatneutrale of aardgasvrije energievoorziening in uw buurt.
+2\. Het uitvoeren van een haalbaarheidsstudie naar een klimaatneutrale of een aardgasvrije buurt. 3\. Het uitwerken van een **ontwerp** voor een klimaatneutrale of aardgasvrije energievoorziening in uw buurt.
 
 #### U kunt subsidie aanvragen voor:
 
@@ -168,8 +162,7 @@ Of u de subsidie moet verantwoorden hangt af van de hoogte van de subsidie:
   6. Voeg de ge­vraag­de bij­la­ge(n) toe.
   7. Ver­zend het for­mu­lier.
 
-Als alle documenten binnen zijn, maken wij de subsidie binnen 8 weken definitief.
-Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
+Als alle documenten binnen zijn, maken wij de subsidie binnen 8 weken definitief. Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
 
 ### Verantwoorden van aanvragen vanaf 1 augustus 2023 tot en met 31 december 2023
 
@@ -231,8 +224,7 @@ Zo verantwoordt u de subsidie:
   6. Voeg de ge­vraag­de bij­la­ge(n) toe.
   7. Ver­zend het for­mu­lier.
 
-Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitief.
-Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
+Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitief. Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
 
 ### Meer informatie
 
@@ -247,6 +239,4 @@ Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag 
 
 Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

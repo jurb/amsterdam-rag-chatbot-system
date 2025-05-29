@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sportevenementen-amsterdam/"
-page_title: "Subsidie Sportevenementen Amsterdam"
-page_modified: "2025-05-29"
-page_available: "2023-03-30"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie sportevenementen amsterdam](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sportevenementen-amsterdam/)
 
 # Subsidie Sportevenementen Amsterdam
 
@@ -134,8 +129,7 @@ Zo verantwoordt u de subsidie:
   6. Voeg de ge­vraag­de bij­la­ge(n) toe.
   7. Ver­zend het for­mu­lier.
 
-Als alle documenten binnen zijn, maken wij de subsidie **binnen 8 weken** definitief.
-Wij vergoeden alleen de werkelijk gemaakte kosten van evenementen die daadwerkelijk hebben plaatsgevonden. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
+Als alle documenten binnen zijn, maken wij de subsidie **binnen 8 weken** definitief. Wij vergoeden alleen de werkelijk gemaakte kosten van evenementen die daadwerkelijk hebben plaatsgevonden. U krijgt maximaal het bedrag dat wij u eerder hebben toegekend.
 
 ### Meer informatie
 
@@ -153,6 +147,4 @@ Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 02
 
 Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

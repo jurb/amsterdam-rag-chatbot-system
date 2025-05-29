@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-amsterdamse-energie/"
-page_title: "Subsidie Duurzame Amsterdamse energie bijzondere zonnepanelen"
-page_modified: "2025-05-29"
-page_available: "2024-08-20"
----
+[PAGE LINK: subsidies subsidieregelingen subsidie duurzame amsterdamse energie](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-amsterdamse-energie/)
 
 # Subsidie Duurzame Amsterdamse energie bijzondere zonnepanelen
 
@@ -28,12 +23,8 @@ Eigenaren, erfpachters, opstalhouders en huurders kunnen deze subsidie aanvragen
   2. Categorie B € 50,-- per kilowattpiek
   3. Categorie C € 10,-- per kilowattpiek
 
-|  Categorie |  Klimaateffect |  Gezondheid/milieu |  Arbeidsomstandigheden |  Efficiëntie |  Meerprijs |  Subsidie
----|---|---|---|---|---|---
-|  Carbon Footprint |  CO2 terugverdientijd |  Vermijdbare schadelijke stoffen |  Dwangarbeid risicobeoordeling |  Module-efficiëntie |  t.o.v. mainstream €ct/Wp |  €ct/Wp
-A |  < 500 kg |  3 – 5 jaar |  PFAS-vrij ; loodvrij |  Laag |  >20% |  20 - 40 |  10
-B |  < 500 kg |  3 – 5 jaar |  PFAS-vrij ; loodvrij |  Laag |  varieert |  4 - 15 |  5
-C |  < 550 kg |  5 – 7 jaar |  Vaak backsheet met PFAS; loodsoldeer, Antimoon in het glas |  Substantieel risico |  typisch 20 - 22 % |  1 - 2 |  1
+|  Categorie |  Klimaateffect |  Gezondheid/milieu |  Arbeidsomstandigheden |  Efficiëntie |  Meerprijs |  Subsidie ---|---|---|---|---|---|--- |  Carbon Footprint |  CO2 terugverdientijd |  Vermijdbare schadelijke stoffen |  Dwangarbeid risicobeoordeling |  Module-efficiëntie |  t.o.v. mainstream €ct/Wp |  €ct/Wp
+A |  < 500 kg |  3 – 5 jaar |  PFAS-vrij ; loodvrij |  Laag |  >20% |  20 - 40 |  10 B |  < 500 kg |  3 – 5 jaar |  PFAS-vrij ; loodvrij |  Laag |  varieert |  4 - 15 |  5 C |  < 550 kg |  5 – 7 jaar |  Vaak backsheet met PFAS; loodsoldeer, Antimoon in het glas |  Substantieel risico |  typisch 20 - 22 % |  1 - 2 |  1
 D | Typisch 800 – 1000 kg | Typisch: > 10 jaar | Vaak backsheet met PFAS; loodsoldeer, Antimoon in het glas | Substantieel risico | typisch 20 - 22 % | 0 | 0
 
 Bekijk het overzicht [Categorieën duurzame zonnepanelen.](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-amsterdamse-energie/documenten-duurzame-amsterdamse-energie/?PagClsIdt=17687617#PagCls_17687617>)
@@ -122,8 +113,7 @@ U ontvangt het volledige bedrag na afloop, als u de subsidie hebt verantwoord (b
 
 ### Verantwoorden
 
-**Bij aanvragen vooraf aan installatie**
-Indien u vooraf heeft aangevraagd, moet u de subsidie verantwoorden binnen 12 weken nadat u uw activiteiten hebt afgerond.
+**Bij aanvragen vooraf aan installatie** Indien u vooraf heeft aangevraagd, moet u de subsidie verantwoorden binnen 12 weken nadat u uw activiteiten hebt afgerond.
 
 #### **U moet deze bijlagen meesturen:
 **
@@ -135,8 +125,7 @@ Indien u vooraf heeft aangevraagd, moet u de subsidie verantwoorden binnen 12 we
     * het subsidiabele deel van de in de facturen genoemde kosten;
     * kopieën van de facturen, inclusief betaalbewijzen, voor de aanleg van de zonnepaneleninstallaties.
 
-**Bij aanvragen achteraf de installatie
-** Uw aanvraag is tevens al uw verantwoording. U hoeft dan niet nogmaals te verantwoorden.
+**Bij aanvragen achteraf de installatie ** Uw aanvraag is tevens al uw verantwoording. U hoeft dan niet nogmaals te verantwoorden.
 
 #### **Zo verantwoordt u de subsidie:**
 
@@ -148,8 +137,7 @@ Indien u vooraf heeft aangevraagd, moet u de subsidie verantwoorden binnen 12 we
   6. Voeg de ge­vraag­de bij­la­ge(n) toe.
   7. Verzend het formulier.
 
-Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitief.
-Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u toekennen.
+Als alle documenten binnen zijn, maken wij de subsidie binnen 12 weken definitief. Wij vergoeden alleen de werkelijk gemaakte kosten. U krijgt maximaal het bedrag dat wij u toekennen.
 
 #### Meer informatie
 
@@ -163,6 +151,4 @@ Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<ht
 
 Hebt u nog vragen? Mail dan naar subsidies@amsterdam.nl of bel 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

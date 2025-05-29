@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/west/"
-page_title: "Subsidies stadsdeel West"
-page_modified: "2025-05-29"
-page_available: "2015-02-16"
----
+[PAGE LINK: subsidies west](https://www.amsterdam.nl/subsidies/west/)
 
 # Subsidies stadsdeel West
 
@@ -57,6 +52,4 @@ U kunt een eenmalige of boekjaar subsidie aanvragen voor activiteiten gericht op
 
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor de inzet van straatmanagement en parkmanagement.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

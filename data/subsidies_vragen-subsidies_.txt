@@ -1,9 +1,4 @@
----
-page_source: "https://www.amsterdam.nl/subsidies/vragen-subsidies/"
-page_title: "Vragen over subsidies"
-page_modified: "2025-05-29"
-page_available: "2022-02-14"
----
+[PAGE LINK: subsidies vragen subsidies](https://www.amsterdam.nl/subsidies/vragen-subsidies/)
 
 # Vragen over subsidies
 
@@ -15,20 +10,17 @@ Op de website staat per [specifieke subsidieregeling](<https://www.amsterdam.nl/
 
 ### Ik heb nog geen DigiD of eHerkenning (EH3). Wat nu?
 
-Met uw DigiD kunt u inloggen op websites van de overheid en in de zorg. eHerkenning is een soort DigiD voor bedrijven. Hebt u nog geen DigiD dan kunt u deze eenvoudig aanvragen via[ DigiD.nl](<https://www.digid.nl/>).
-Heeft uw bedrijf, of heeft u als ondernemer of beroepsbeoefenaar nog geen eHerkenning dan kunt u deze aanvragen via[ eherkenning.nl](<https://www.eherkenning.nl/>). Lees óók [Aanvragen en voorwaarden eHerkenning](<https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/eherkenning/>).
+Met uw DigiD kunt u inloggen op websites van de overheid en in de zorg. eHerkenning is een soort DigiD voor bedrijven. Hebt u nog geen DigiD dan kunt u deze eenvoudig aanvragen via[ DigiD.nl](<https://www.digid.nl/>). Heeft uw bedrijf, of heeft u als ondernemer of beroepsbeoefenaar nog geen eHerkenning dan kunt u deze aanvragen via[ eherkenning.nl](<https://www.eherkenning.nl/>). Lees óók [Aanvragen en voorwaarden eHerkenning](<https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/eherkenning/>).
 
 **Let op!** voor het aanvragen van subsidie heeft u een eHerkenning met minimaal betrouwbaarheidsniveau 3 (EH3) nodig. Het duurt enkele dagen voor u uw DigiD of eHerkenning in huis hebt.
 
 #### Subsidie aanvragen per e-mail of per post
 
-Online subsidie aanvragen heeft grote voordelen voor u, maar u kunt ook subsidie aanvragen via e-mail of per post.
-Download het aanvraagformulier hieronder en stuur het mee met uw aanvraag. Wat u verder mee moet sturen, leest u op de subsidiepagina op grond waarvan u subsidie aanvraagt.
+Online subsidie aanvragen heeft grote voordelen voor u, maar u kunt ook subsidie aanvragen via e-mail of per post. Download het aanvraagformulier hieronder en stuur het mee met uw aanvraag. Wat u verder mee moet sturen, leest u op de subsidiepagina op grond waarvan u subsidie aanvraagt.
 
 [Download het aanvraagformulier (PDF, 827 kB)](<https://assets.amsterdam.nl/publish/pages/1004862/aanvraagformulier_subsidie_t.pdf>)
 
-**Subsidie aanvragen via e-mail:** stuur uw aanvraag naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>).
-**Subsidie aanvragen per post:** stuur uw aanvraag naar Gemeente Amsterdam, Subsidiebureau, Postbus 58010, 1040 HA Amsterdam.
+**Subsidie aanvragen via e-mail:** stuur uw aanvraag naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>). **Subsidie aanvragen per post:** stuur uw aanvraag naar Gemeente Amsterdam, Subsidiebureau, Postbus 58010, 1040 HA Amsterdam.
 
 ### Ik mis een regeling
 
@@ -87,6 +79,4 @@ Fraude met subsidies kunt u melden bij het [Subsidiebureau](<https://www.amsterd
 
 Als u vermoedt dat iemand ten onrechte subsidie ontvangt, stuur dan een e-mail naar: [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>). Of bel: 14 020.
 
-  *[N (Noorderbreedte)]: Noorderbreedte
-  *[E (Oosterlengte)]: Oosterlengte
-  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
+*[N (Noorderbreedte)]: Noorderbreedte   *[E (Oosterlengte)]: Oosterlengte   *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
