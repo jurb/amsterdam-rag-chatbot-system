@@ -2,7 +2,8 @@ import argparse
 import os
 import re
 import shutil
-from typing import List
+import yaml
+from typing import List, Dict, Tuple
 
 from tqdm import tqdm
 from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownTextSplitter
@@ -38,11 +39,50 @@ class TXTDirectoryLoader:
                     file_path = os.path.join(root, file)
                     with open(file_path, "r", encoding="utf-8") as f:
                         text = f.read()
-                        # Light preprocessing - preserve markdown structure
-                        text = self._preprocess_text(text)
-                        metadata = {"source": file_path}
-                        documents.append(Document(page_content=text, metadata=metadata))
+                        
+                    # Extract YAML frontmatter and content
+                    metadata, content = self._extract_frontmatter(text)
+                    
+                    # Light preprocessing - preserve markdown structure
+                    content = self._preprocess_text(content)
+                    
+                    # Add source to metadata
+                    metadata["source"] = file_path
+                    
+                    documents.append(Document(page_content=content, metadata=metadata))
         return documents
+
+    def _extract_frontmatter(self, text: str) -> Tuple[Dict, str]:
+        """
+        Extract YAML frontmatter from text.
+        
+        Args:
+            text (str): Text potentially containing YAML frontmatter.
+        
+        Returns:
+            Tuple[Dict, str]: A tuple of (metadata dict, remaining content).
+        """
+        # Check if text starts with YAML frontmatter
+        if text.startswith('---\n'):
+            try:
+                # Find the end of frontmatter
+                end_match = re.search(r'\n---\n', text[4:])
+                if end_match:
+                    yaml_text = text[4:end_match.start() + 4]
+                    content = text[end_match.end() + 4:].strip()
+                    
+                    # Parse YAML
+                    metadata = yaml.safe_load(yaml_text)
+                    if metadata is None:
+                        metadata = {}
+                    
+                    return metadata, content
+            except yaml.YAMLError as e:
+                print(f"Error parsing YAML frontmatter: {e}")
+                # Fall through to return original text
+        
+        # No frontmatter or parsing error - return empty metadata and original text
+        return {}, text
 
     def _preprocess_text(self, text: str) -> str:
         """
@@ -89,13 +129,6 @@ def load_documents() -> List[Document]:
     
     print(f"Loaded {len(documents)} documents")
     
-    # Debug: Show sample of first document
-    if documents:
-        print("\n--- Sample of first document ---")
-        print(f"Source: {documents[0].metadata['source']}")
-        print(f"First 500 chars:\n{documents[0].page_content[:500]}")
-        print("--- End sample ---\n")
-
     return documents
 
 def split_documents(documents: List[Document]) -> List[Document]:
@@ -142,6 +175,7 @@ def split_documents(documents: List[Document]) -> List[Document]:
     for document in documents:
         text_chunks = text_splitter.split_text(document.page_content)
         for idx, chunk in enumerate(text_chunks):
+            # Create new document with chunk content and copy all metadata
             chunk_doc = Document(page_content=chunk, metadata=document.metadata.copy())
             chunk_doc.metadata["chunk_index"] = idx
             chunk_doc.metadata["total_chunks"] = len(text_chunks)
@@ -149,14 +183,6 @@ def split_documents(documents: List[Document]) -> List[Document]:
 
     print(f"Split into {len(chunks)} chunks")
     
-    # Debug: Show some chunk examples
-    if chunks:
-        print("\n--- Sample chunks ---")
-        for i in range(min(3, len(chunks))):
-            print(f"\nChunk {i} (length: {len(chunks[i].page_content)}):")
-            print(f"First 200 chars: {chunks[i].page_content[:200]}...")
-        print("--- End samples ---\n")
-
     return chunks
 
 def add_to_chroma(chunks: List[Document]):
@@ -193,19 +219,6 @@ def add_to_chroma(chunks: List[Document]):
         print(f"Successfully added {len(new_chunks)} new chunks to the database")
     else:
         print("No new documents to add")
-    
-    # Verify by searching for "zonnepanelen"
-    print("\n--- Verification search for 'zonnepanelen' ---")
-    results = db.similarity_search("zonnepanelen", k=3)
-    if results:
-        print(f"Found {len(results)} results:")
-        for i, result in enumerate(results):
-            print(f"\nResult {i+1}:")
-            print(f"Source: {result.metadata.get('source', 'Unknown')}")
-            print(f"Content preview: {result.page_content[:150]}...")
-    else:
-        print("No results found for 'zonnepanelen' - check your data!")
-    print("--- End verification ---\n")
 
 def calculate_chunk_ids(chunks: List[Document]) -> List[Document]:
     """
@@ -236,7 +249,6 @@ def main():
     """Main function to parse arguments, load documents, process them, and manage the database."""
     parser = argparse.ArgumentParser(description="Manage the document database.")
     parser.add_argument("--reset", action="store_true", help="Reset the database.")
-    parser.add_argument("--debug", action="store_true", help="Enable debug output.")
     args = parser.parse_args()
     
     if args.reset:
