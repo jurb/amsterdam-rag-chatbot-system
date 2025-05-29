@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen eenmalige gebiedsgebonden kunst oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-oost/)
+---
+title: "Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Oost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-oost/
+filename: subsidies_subsidieregelingen_eenmalige-gebiedsgebonden-kunst-oost.html
+---
 
 # Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Oost
 

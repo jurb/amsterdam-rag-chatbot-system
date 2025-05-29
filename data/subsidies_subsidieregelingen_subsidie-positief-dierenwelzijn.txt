@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie positief dierenwelzijn](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-positief-dierenwelzijn/)
+---
+title: "Subsidie Positief dierenwelzijn Amsterdamse kinderboerderijen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-positief-dierenwelzijn/
+filename: subsidies_subsidieregelingen_subsidie-positief-dierenwelzijn.html
+---
 
 # Subsidie Positief dierenwelzijn Amsterdamse kinderboerderijen
 

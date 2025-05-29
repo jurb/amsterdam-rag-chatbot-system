@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies ondernemen](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-ondernemen/)
+---
+title: "Subsidies Ondernemen"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-ondernemen/
+filename: subsidies_subsidies-onderwerp_subsidies-ondernemen.html
+---
 
 # Subsidies Ondernemen
 

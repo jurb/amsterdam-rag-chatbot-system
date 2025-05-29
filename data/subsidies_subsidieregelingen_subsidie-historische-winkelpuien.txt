@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie historische winkelpuien](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-historische-winkelpuien/)
+---
+title: "Subsidie Historische Amsterdamse winkelpuien"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-historische-winkelpuien/
+filename: subsidies_subsidieregelingen_subsidie-historische-winkelpuien.html
+---
 
 # Subsidie Historische Amsterdamse winkelpuien
 

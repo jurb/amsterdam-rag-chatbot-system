@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie brede brugklas bonus](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-brede-brugklas-bonus/)
+---
+title: "Subsidie Brede Brugklas Bonus"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-brede-brugklas-bonus/
+filename: subsidies_subsidieregelingen_subsidie-brede-brugklas-bonus.html
+---
 
 # Subsidie Brede Brugklas Bonus
 

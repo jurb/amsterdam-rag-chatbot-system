@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies wonen](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/)
+---
+title: "Subsidies Wonen en leefomgeving"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/
+filename: subsidies_subsidies-onderwerp_subsidies-wonen.html
+---
 
 # Subsidies Wonen en leefomgeving
 

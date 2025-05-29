@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie kleine makers nieuw west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kleine-makers-nieuw-west/)
+---
+title: "Subsidie Kleine Makers Nieuw-West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kleine-makers-nieuw-west/
+filename: subsidies_subsidieregelingen_subsidie-kleine-makers-nieuw-west.html
+---
 
 # Subsidie Kleine Makers Nieuw-West
 

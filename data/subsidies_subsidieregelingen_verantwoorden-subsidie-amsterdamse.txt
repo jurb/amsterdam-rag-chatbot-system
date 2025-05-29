@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie amsterdamse](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-amsterdamse/)
+---
+title: "Verantwoorden subsidie Amsterdamse teambeurs mbo"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-amsterdamse/
+filename: subsidies_subsidieregelingen_verantwoorden-subsidie-amsterdamse.html
+---
 
 # Verantwoorden subsidie Amsterdamse teambeurs mbo
 

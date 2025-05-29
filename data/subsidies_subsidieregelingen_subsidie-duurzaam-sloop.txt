@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie duurzaam sloop](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzaam-sloop/)
+---
+title: "Subsidie Duurzame Amsterdamse Vervoersmiddelen Sloop"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzaam-sloop/
+filename: subsidies_subsidieregelingen_subsidie-duurzaam-sloop.html
+---
 
 # Subsidie Duurzame Amsterdamse Vervoersmiddelen Sloop
 

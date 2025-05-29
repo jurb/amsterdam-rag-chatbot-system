@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven centrum](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-centrum/)
+---
+title: "Subsidie Bewonersinitiatieven in Centrum"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-centrum/
+filename: subsidies_subsidieregelingen_subsidie-bewonersinitiatieven-centrum.html
+---
 
 # Subsidie Bewonersinitiatieven in Centrum
 

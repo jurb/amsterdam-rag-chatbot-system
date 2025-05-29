@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie eenmalige initiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-eenmalige-initiatieven/)
+---
+title: "Subsidie voor Incidentele (eenmalige) initiatieven"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-eenmalige-initiatieven/
+filename: subsidies_subsidieregelingen_subsidie-eenmalige-initiatieven.html
+---
 
 # Subsidie voor Incidentele (eenmalige) initiatieven
 

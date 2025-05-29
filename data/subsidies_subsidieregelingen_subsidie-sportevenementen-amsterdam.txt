@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie sportevenementen amsterdam](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sportevenementen-amsterdam/)
+---
+title: "Subsidie Sportevenementen Amsterdam"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sportevenementen-amsterdam/
+filename: subsidies_subsidieregelingen_subsidie-sportevenementen-amsterdam.html
+---
 
 # Subsidie Sportevenementen Amsterdam
 

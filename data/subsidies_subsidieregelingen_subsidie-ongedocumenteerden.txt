@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie ongedocumenteerden](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ongedocumenteerden/)
+---
+title: "Subsidie Ongedocumenteerden"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ongedocumenteerden/
+filename: subsidies_subsidieregelingen_subsidie-ongedocumenteerden.html
+---
 
 # Subsidie Ongedocumenteerden
 

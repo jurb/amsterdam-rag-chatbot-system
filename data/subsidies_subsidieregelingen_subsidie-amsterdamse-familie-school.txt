@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie amsterdamse familie school](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-amsterdamse-familie-school/)
+---
+title: "Subsidie Amsterdamse Familie School"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-amsterdamse-familie-school/
+filename: subsidies_subsidieregelingen_subsidie-amsterdamse-familie-school.html
+---
 
 # Subsidie Amsterdamse Familie School
 

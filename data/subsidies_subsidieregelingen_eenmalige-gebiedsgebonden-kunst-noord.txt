@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen eenmalige gebiedsgebonden kunst noord](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-noord/)
+---
+title: "Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Noord"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-noord/
+filename: subsidies_subsidieregelingen_eenmalige-gebiedsgebonden-kunst-noord.html
+---
 
 # Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Noord
 

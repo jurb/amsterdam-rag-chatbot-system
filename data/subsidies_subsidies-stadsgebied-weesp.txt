@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies stadsgebied weesp](https://www.amsterdam.nl/subsidies/subsidies-stadsgebied-weesp/)
+---
+title: "Subsidies stadsgebied Weesp"
+url: https://www.amsterdam.nl/subsidies/subsidies-stadsgebied-weesp/
+filename: subsidies_subsidies-stadsgebied-weesp.html
+---
 
 # Subsidies stadsgebied Weesp
 

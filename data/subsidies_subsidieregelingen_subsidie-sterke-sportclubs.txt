@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie sterke sportclubs](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sterke-sportclubs/)
+---
+title: "Subsidie Sterke sportclubs"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sterke-sportclubs/
+filename: subsidies_subsidieregelingen_subsidie-sterke-sportclubs.html
+---
 
 # Subsidie Sterke sportclubs
 

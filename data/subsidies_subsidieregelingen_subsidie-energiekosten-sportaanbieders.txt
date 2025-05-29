@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie energiekosten sportaanbieders](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-energiekosten-sportaanbieders/)
+---
+title: "Subsidie Noodsteun energiekosten Amsterdamse sportaanbieders 2023-2024"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-energiekosten-sportaanbieders/
+filename: subsidies_subsidieregelingen_subsidie-energiekosten-sportaanbieders.html
+---
 
 # Subsidie Noodsteun energiekosten Amsterdamse sportaanbieders 2023-2024
 

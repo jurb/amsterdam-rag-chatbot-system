@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen eenmalige gebiedsgebonden kunst centrum](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-centrum/)
+---
+title: "Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Centrum"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-centrum/
+filename: subsidies_subsidieregelingen_eenmalige-gebiedsgebonden-kunst-centrum.html
+---
 
 # Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Centrum
 

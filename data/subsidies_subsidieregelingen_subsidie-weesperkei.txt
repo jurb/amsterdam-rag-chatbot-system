@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie weesperkei](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-weesperkei/)
+---
+title: "Subsidie Weesperkei"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-weesperkei/
+filename: subsidies_subsidieregelingen_subsidie-weesperkei.html
+---
 
 # Subsidie Weesperkei
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie wonen boven winkels bedrijven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-wonen-boven-winkels-bedrijven/)
+---
+title: "Subsidie Wonen boven winkels en bedrijven Amsterdam"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-wonen-boven-winkels-bedrijven/
+filename: subsidies_subsidieregelingen_subsidie-wonen-boven-winkels-bedrijven.html
+---
 
 # Subsidie Wonen boven winkels en bedrijven Amsterdam
 

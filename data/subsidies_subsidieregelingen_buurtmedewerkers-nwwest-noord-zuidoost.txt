@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen buurtmedewerkers nwwest noord zuidoost](https://www.amsterdam.nl/subsidies/subsidieregelingen/buurtmedewerkers-nwwest-noord-zuidoost/)
+---
+title: "Subsidie Buurtmedewerkers (Nieuw-West, Noord en Zuidoost)"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/buurtmedewerkers-nwwest-noord-zuidoost/
+filename: subsidies_subsidieregelingen_buurtmedewerkers-nwwest-noord-zuidoost.html
+---
 
 # Subsidie Buurtmedewerkers (Nieuw-West, Noord en Zuidoost)
 

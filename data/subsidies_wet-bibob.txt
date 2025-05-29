@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies wet bibob](https://www.amsterdam.nl/subsidies/wet-bibob/)
+---
+title: "Wet Bibob"
+url: https://www.amsterdam.nl/subsidies/wet-bibob/
+filename: subsidies_wet-bibob.html
+---
 
 # Wet Bibob
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie maatschappelijk initiatief west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijk-initiatief-west/)
+---
+title: "Subsidie Maatschappelijk initiatief in West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijk-initiatief-west/
+filename: subsidies_subsidieregelingen_subsidie-maatschappelijk-initiatief-west.html
+---
 
 # Subsidie Maatschappelijk initiatief in West
 

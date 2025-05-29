@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie kansenaanpak voortgezet](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kansenaanpak-voortgezet/)
+---
+title: "Subsidie Kansenaanpak voortgezet onderwijs (VO)"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kansenaanpak-voortgezet/
+filename: subsidies_subsidieregelingen_subsidie-kansenaanpak-voortgezet.html
+---
 
 # Subsidie Kansenaanpak voortgezet onderwijs (VO)
 

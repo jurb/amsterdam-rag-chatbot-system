@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie overstap emissievrij vervoer](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-overstap-emissievrij-vervoer/)
+---
+title: "Subsidie voor de overstap naar emissievrij vervoer voor MKB en instellingen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-overstap-emissievrij-vervoer/
+filename: subsidies_subsidieregelingen_subsidie-overstap-emissievrij-vervoer.html
+---
 
 # Subsidie voor de overstap naar emissievrij vervoer voor MKB en instellingen
 

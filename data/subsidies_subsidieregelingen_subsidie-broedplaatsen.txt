@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie broedplaatsen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-broedplaatsen/)
+---
+title: "Subsidie Broedplaatsen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-broedplaatsen/
+filename: subsidies_subsidieregelingen_subsidie-broedplaatsen.html
+---
 
 # Subsidie Broedplaatsen
 

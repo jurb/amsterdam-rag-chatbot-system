@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen duurzame woningverbetering zuidoost](https://www.amsterdam.nl/subsidies/subsidieregelingen/duurzame-woningverbetering-zuidoost/)
+---
+title: "Subsidie Duurzame Amsterdamse gebouwen – Verduurzamende woningverbetering Zuidoost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/duurzame-woningverbetering-zuidoost/
+filename: subsidies_subsidieregelingen_duurzame-woningverbetering-zuidoost.html
+---
 
 # Subsidie Duurzame Amsterdamse gebouwen – Verduurzamende woningverbetering Zuidoost
 

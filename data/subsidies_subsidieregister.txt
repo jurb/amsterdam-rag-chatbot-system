@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregister](https://www.amsterdam.nl/subsidies/subsidieregister/)
+---
+title: "Power BI Report"
+url: https://www.amsterdam.nl/subsidies/subsidieregister/
+filename: subsidies_subsidieregister.html
+---
 
 ![Power BI loading](https://content.powerapps.com/resource/powerbiwfe/images/spinner-PBI-logo.6434e0fca135a582c323.svg)
   *[N (Noorderbreedte)]: Noorderbreedte

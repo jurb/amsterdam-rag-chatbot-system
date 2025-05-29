@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie begeleiding instromers](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-begeleiding-instromers/)
+---
+title: "Subsidie Begeleiding zij-instromers"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-begeleiding-instromers/
+filename: subsidies_subsidieregelingen_subsidie-begeleiding-instromers.html
+---
 
 # Subsidie Begeleiding zij-instromers
 

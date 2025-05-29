@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie verhuisregeling verhuizen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verhuisregeling-verhuizen/)
+---
+title: "Subsidie Verhuisregeling verhuizen uit rolstoelwoningen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verhuisregeling-verhuizen/
+filename: subsidies_subsidieregelingen_subsidie-verhuisregeling-verhuizen.html
+---
 
 # Subsidie Verhuisregeling verhuizen uit rolstoelwoningen
 

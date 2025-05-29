@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie vervanging meervoudige](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vervanging-meervoudige/)
+---
+title: "Subsidie voor vervanging van meervoudige stijgleidingen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-vervanging-meervoudige/
+filename: subsidies_subsidieregelingen_subsidie-vervanging-meervoudige.html
+---
 
 # Subsidie voor vervanging van meervoudige stijgleidingen
 

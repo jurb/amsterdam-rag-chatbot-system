@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidie aanvragen bij amsterdam](https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/)
+---
+title: "Subsidie aanvragen bij gemeente Amsterdam"
+url: https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/
+filename: subsidies_subsidie-aanvragen-bij-amsterdam.html
+---
 
 # Subsidie aanvragen bij gemeente Amsterdam
 

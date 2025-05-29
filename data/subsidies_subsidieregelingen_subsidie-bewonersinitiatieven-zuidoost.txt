@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven zuidoost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-zuidoost/)
+---
+title: "Subsidie Bewonersinitiatieven in Zuidoost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-zuidoost/
+filename: subsidies_subsidieregelingen_subsidie-bewonersinitiatieven-zuidoost.html
+---
 
 # Subsidie Bewonersinitiatieven in Zuidoost
 

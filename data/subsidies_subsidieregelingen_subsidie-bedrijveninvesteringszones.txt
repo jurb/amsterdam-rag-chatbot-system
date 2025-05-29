@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bedrijveninvesteringszones](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bedrijveninvesteringszones/)
+---
+title: "Subsidie Bedrijveninvesteringszones (BIZ)"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bedrijveninvesteringszones/
+filename: subsidies_subsidieregelingen_subsidie-bedrijveninvesteringszones.html
+---
 
 # Subsidie Bedrijveninvesteringszones (BIZ)
 

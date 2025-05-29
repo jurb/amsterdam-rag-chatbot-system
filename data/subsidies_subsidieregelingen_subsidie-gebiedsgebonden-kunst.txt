@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie gebiedsgebonden kunst](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gebiedsgebonden-kunst/)
+---
+title: "Subsidie Gebiedsgebonden kunst- en cultuuractiviteiten stadsgebied Weesp"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gebiedsgebonden-kunst/
+filename: subsidies_subsidieregelingen_subsidie-gebiedsgebonden-kunst.html
+---
 
 # Subsidie Gebiedsgebonden kunst- en cultuuractiviteiten stadsgebied Weesp
 

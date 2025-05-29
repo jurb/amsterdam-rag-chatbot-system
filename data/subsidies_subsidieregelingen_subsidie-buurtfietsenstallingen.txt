@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie buurtfietsenstallingen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtfietsenstallingen/)
+---
+title: "Subsidie Buurtfietsenstallingen Amsterdam"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtfietsenstallingen/
+filename: subsidies_subsidieregelingen_subsidie-buurtfietsenstallingen.html
+---
 
 # Subsidie Buurtfietsenstallingen Amsterdam
 

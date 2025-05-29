@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen zonnepanelen corporatiedaken](https://www.amsterdam.nl/subsidies/subsidieregelingen/zonnepanelen-corporatiedaken/)
+---
+title: "Verantwoorden subsidie Zonnepanelen op Amsterdamse corporatiedaken"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/zonnepanelen-corporatiedaken/
+filename: subsidies_subsidieregelingen_zonnepanelen-corporatiedaken.html
+---
 
 # Verantwoorden subsidie Zonnepanelen op Amsterdamse corporatiedaken
 

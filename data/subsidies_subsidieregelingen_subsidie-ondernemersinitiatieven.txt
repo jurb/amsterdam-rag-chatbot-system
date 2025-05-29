@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie ondernemersinitiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondernemersinitiatieven/)
+---
+title: "Subsidie Gebiedsgebonden ondernemersinitiatieven"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondernemersinitiatieven/
+filename: subsidies_subsidieregelingen_subsidie-ondernemersinitiatieven.html
+---
 
 # Subsidie Gebiedsgebonden ondernemersinitiatieven
 

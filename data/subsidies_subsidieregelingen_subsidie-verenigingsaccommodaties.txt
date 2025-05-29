@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie verenigingsaccommodaties](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verenigingsaccommodaties/)
+---
+title: "Subsidie Verenigingsaccommodaties buitensport"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verenigingsaccommodaties/
+filename: subsidies_subsidieregelingen_subsidie-verenigingsaccommodaties.html
+---
 
 # Subsidie Verenigingsaccommodaties buitensport
 

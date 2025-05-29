@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies noord](https://www.amsterdam.nl/subsidies/noord/)
+---
+title: "Subsidies stadsdeel Noord"
+url: https://www.amsterdam.nl/subsidies/noord/
+filename: subsidies_noord.html
+---
 
 # Subsidies stadsdeel Noord
 

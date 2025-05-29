@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie aanpak wachtenden aanvullende](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-wachtenden-aanvullende/)
+---
+title: "Subsidie Aanpak wachtenden aanvullende jeugdhulp"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-wachtenden-aanvullende/
+filename: subsidies_subsidieregelingen_subsidie-aanpak-wachtenden-aanvullende.html
+---
 
 # Subsidie Aanpak wachtenden aanvullende jeugdhulp
 

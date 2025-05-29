@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen organisatiespecifieke subsidie](https://www.amsterdam.nl/subsidies/subsidieregelingen/organisatiespecifieke-subsidie/)
+---
+title: "Organisatiespecifieke subsidie"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/organisatiespecifieke-subsidie/
+filename: subsidies_subsidieregelingen_organisatiespecifieke-subsidie.html
+---
 
 # Organisatiespecifieke subsidie
 

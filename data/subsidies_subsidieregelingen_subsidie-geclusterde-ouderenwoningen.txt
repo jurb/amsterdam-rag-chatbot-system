@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie geclusterde ouderenwoningen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-geclusterde-ouderenwoningen/)
+---
+title: "Verantwoorden subsidie voor geclusterde ouderenwoningen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-geclusterde-ouderenwoningen/
+filename: subsidies_subsidieregelingen_subsidie-geclusterde-ouderenwoningen.html
+---
 
 # Verantwoorden subsidie voor geclusterde ouderenwoningen
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie buurtmedia stadsgebied weesp](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtmedia-stadsgebied-weesp/)
+---
+title: "Subsidie Buurtmedia Stadsgebied Weesp"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtmedia-stadsgebied-weesp/
+filename: subsidies_subsidieregelingen_subsidie-buurtmedia-stadsgebied-weesp.html
+---
 
 # Subsidie Buurtmedia Stadsgebied Weesp
 

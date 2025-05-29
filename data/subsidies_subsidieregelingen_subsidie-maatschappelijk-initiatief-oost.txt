@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie maatschappelijk initiatief oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijk-initiatief-oost/)
+---
+title: "Subsidie Maatschappelijk initiatief in Oost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijk-initiatief-oost/
+filename: subsidies_subsidieregelingen_subsidie-maatschappelijk-initiatief-oost.html
+---
 
 # Subsidie Maatschappelijk initiatief in Oost
 

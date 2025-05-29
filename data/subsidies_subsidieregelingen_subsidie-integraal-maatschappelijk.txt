@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie integraal maatschappelijk](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-integraal-maatschappelijk/)
+---
+title: "Subsidie Integraal maatschappelijk initiatief"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-integraal-maatschappelijk/
+filename: subsidies_subsidieregelingen_subsidie-integraal-maatschappelijk.html
+---
 
 # Subsidie Integraal maatschappelijk initiatief
 

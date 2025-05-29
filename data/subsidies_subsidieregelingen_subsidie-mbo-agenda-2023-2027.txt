@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie mbo agenda 2023 2027](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-mbo-agenda-2023-2027/)
+---
+title: "Subsidie MBO-Agenda 2023-2027"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-mbo-agenda-2023-2027/
+filename: subsidies_subsidieregelingen_subsidie-mbo-agenda-2023-2027.html
+---
 
 # Subsidie MBO-Agenda 2023-2027
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies onderwijs jeugd diversiteit](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-onderwijs-jeugd-diversiteit/)
+---
+title: "Subsidies Onderwijs, jeugd en diversiteit"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-onderwijs-jeugd-diversiteit/
+filename: subsidies_subsidies-onderwerp_subsidies-onderwijs-jeugd-diversiteit.html
+---
 
 # Subsidies Onderwijs, jeugd en diversiteit
 

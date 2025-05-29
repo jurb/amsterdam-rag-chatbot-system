@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie ondersteuning directeuren](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-directeuren/)
+---
+title: "Subsidie Ondersteuning directeuren primair onderwijs"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-directeuren/
+filename: subsidies_subsidieregelingen_subsidie-ondersteuning-directeuren.html
+---
 
 # Subsidie Ondersteuning directeuren primair onderwijs
 

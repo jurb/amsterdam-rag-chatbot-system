@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie gebiedsgebonden kunst west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gebiedsgebonden-kunst-west/)
+---
+title: "Subsidie Gebiedsgebonden kunst- en cultuuractiviteiten West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gebiedsgebonden-kunst-west/
+filename: subsidies_subsidieregelingen_subsidie-gebiedsgebonden-kunst-west.html
+---
 
 # Subsidie Gebiedsgebonden kunst- en cultuuractiviteiten West
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies alfabet](https://www.amsterdam.nl/subsidies/subsidies-alfabet/)
+---
+title: "Subsidies op alfabet"
+url: https://www.amsterdam.nl/subsidies/subsidies-alfabet/
+filename: subsidies_subsidies-alfabet.html
+---
 
 # Subsidies op alfabet
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie groen amsterdam](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-groen-amsterdam/)
+---
+title: "Subsidie Groen in Amsterdam (inclusief groene daken en groene tuinen)"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-groen-amsterdam/
+filename: subsidies_subsidieregelingen_subsidie-groen-amsterdam.html
+---
 
 # Subsidie Groen in Amsterdam (inclusief groene daken en groene tuinen)
 

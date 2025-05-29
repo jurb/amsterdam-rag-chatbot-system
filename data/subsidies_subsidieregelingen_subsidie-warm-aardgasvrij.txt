@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie warm aardgasvrij](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-warm-aardgasvrij/)
+---
+title: "Subsidie Duurzame Amsterdamse gebouwen – Warm Amsterdam aardgasvrij"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-warm-aardgasvrij/
+filename: subsidies_subsidieregelingen_subsidie-warm-aardgasvrij.html
+---
 
 # Subsidie Duurzame Amsterdamse gebouwen – Warm Amsterdam aardgasvrij
 

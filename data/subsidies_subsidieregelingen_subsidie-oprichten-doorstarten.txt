@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie oprichten doorstarten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-oprichten-doorstarten/)
+---
+title: "Subsidie Oprichten en doorstarten bedrijveninvesteringszone (BIZ)"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-oprichten-doorstarten/
+filename: subsidies_subsidieregelingen_subsidie-oprichten-doorstarten.html
+---
 
 # Subsidie Oprichten en doorstarten bedrijveninvesteringszone (BIZ)
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie buurtmedia stadsdeel oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtmedia-stadsdeel-oost/)
+---
+title: "Subsidie Buurtmedia stadsdeel Oost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtmedia-stadsdeel-oost/
+filename: subsidies_subsidieregelingen_subsidie-buurtmedia-stadsdeel-oost.html
+---
 
 # Subsidie Buurtmedia stadsdeel Oost
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie kunst cultuur amsterdam 750](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kunst-cultuur-amsterdam-750/)
+---
+title: "Subsidie Kunst en Cultuur Amsterdam 750 jaar"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-kunst-cultuur-amsterdam-750/
+filename: subsidies_subsidieregelingen_subsidie-kunst-cultuur-amsterdam-750.html
+---
 
 # Subsidie Kunst en Cultuur Amsterdam 750 jaar
 

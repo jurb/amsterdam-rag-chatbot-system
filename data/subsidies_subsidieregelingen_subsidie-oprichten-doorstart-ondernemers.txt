@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie oprichten doorstart ondernemers](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-oprichten-doorstart-ondernemers/)
+---
+title: "Subsidie Oprichten of doorstarten ondernemersvereniging"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-oprichten-doorstart-ondernemers/
+filename: subsidies_subsidieregelingen_subsidie-oprichten-doorstart-ondernemers.html
+---
 
 # Subsidie Oprichten of doorstarten ondernemersvereniging
 

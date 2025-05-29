@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies vragen subsidies](https://www.amsterdam.nl/subsidies/vragen-subsidies/)
+---
+title: "Vragen over subsidies"
+url: https://www.amsterdam.nl/subsidies/vragen-subsidies/
+filename: subsidies_vragen-subsidies.html
+---
 
 # Vragen over subsidies
 

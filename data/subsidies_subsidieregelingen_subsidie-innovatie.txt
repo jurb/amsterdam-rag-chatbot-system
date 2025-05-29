@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie innovatie](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-innovatie/)
+---
+title: "Subsidie Innovatie"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-innovatie/
+filename: subsidies_subsidieregelingen_subsidie-innovatie.html
+---
 
 # Subsidie Innovatie
 

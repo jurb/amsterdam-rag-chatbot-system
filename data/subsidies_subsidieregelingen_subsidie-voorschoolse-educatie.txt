@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie voorschoolse educatie](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-voorschoolse-educatie/)
+---
+title: "Subsidie Voorschoolse educatie en ontwikkelaanbod Amsterdam"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-voorschoolse-educatie/
+filename: subsidies_subsidieregelingen_subsidie-voorschoolse-educatie.html
+---
 
 # Subsidie Voorschoolse educatie en ontwikkelaanbod Amsterdam
 

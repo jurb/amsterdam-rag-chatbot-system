@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen duurzame woningverbetering nieuw west](https://www.amsterdam.nl/subsidies/subsidieregelingen/duurzame-woningverbetering-nieuw-west/)
+---
+title: "Subsidie Verduurzamende Woningverbetering Nieuw-West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/duurzame-woningverbetering-nieuw-west/
+filename: subsidies_subsidieregelingen_duurzame-woningverbetering-nieuw-west.html
+---
 
 # Subsidie Verduurzamende Woningverbetering Nieuw-West
 

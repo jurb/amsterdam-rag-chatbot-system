@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies zuid](https://www.amsterdam.nl/subsidies/zuid/)
+---
+title: "Subsidies stadsdeel Zuid"
+url: https://www.amsterdam.nl/subsidies/zuid/
+filename: subsidies_zuid.html
+---
 
 # Subsidies stadsdeel Zuid
 

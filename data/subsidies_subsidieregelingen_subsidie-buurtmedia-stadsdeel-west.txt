@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie buurtmedia stadsdeel west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtmedia-stadsdeel-west/)
+---
+title: "Subsidie Buurtmedia stadsdeel West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtmedia-stadsdeel-west/
+filename: subsidies_subsidieregelingen_subsidie-buurtmedia-stadsdeel-west.html
+---
 
 # Subsidie Buurtmedia stadsdeel West
 

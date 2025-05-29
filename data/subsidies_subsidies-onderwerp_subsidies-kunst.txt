@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies kunst](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-kunst/)
+---
+title: "Subsidies Kunst en cultuur"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-kunst/
+filename: subsidies_subsidies-onderwerp_subsidies-kunst.html
+---
 
 # Subsidies Kunst en cultuur
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie noordmakers maatschappelijke](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noordmakers-maatschappelijke/)
+---
+title: "Subsidie Noordmakers voor maatschappelijke initiatieven"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noordmakers-maatschappelijke/
+filename: subsidies_subsidieregelingen_subsidie-noordmakers-maatschappelijke.html
+---
 
 # Subsidie Noordmakers voor maatschappelijke initiatieven
 

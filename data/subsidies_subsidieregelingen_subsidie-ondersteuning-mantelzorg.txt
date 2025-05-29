@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie ondersteuning mantelzorg](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-mantelzorg/)
+---
+title: "Subsidie Ondersteuning mantelzorg en vrijwillige inzet"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondersteuning-mantelzorg/
+filename: subsidies_subsidieregelingen_subsidie-ondersteuning-mantelzorg.html
+---
 
 # Subsidie Ondersteuning mantelzorg en vrijwillige inzet
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie sociale basis 2025 sociaal](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/)
+---
+title: "Subsidie Sociale basis 2025: Sociaal weefsel"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/
+filename: subsidies_subsidieregelingen_subsidie-sociale-basis-2025-sociaal.html
+---
 
 # Subsidie Sociale basis 2025: Sociaal weefsel
 

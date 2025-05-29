@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie buurtbudgetten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbudgetten/)
+---
+title: "Subsidie Buurtbudgetten"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbudgetten/
+filename: subsidies_subsidieregelingen_subsidie-buurtbudgetten.html
+---
 
 # Subsidie Buurtbudgetten
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie gevelsanering verkeerslawaai](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gevelsanering-verkeerslawaai/)
+---
+title: "Subsidie Gevelsanering verkeerslawaai"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gevelsanering-verkeerslawaai/
+filename: subsidies_subsidieregelingen_subsidie-gevelsanering-verkeerslawaai.html
+---
 
 # Subsidie Gevelsanering verkeerslawaai
 

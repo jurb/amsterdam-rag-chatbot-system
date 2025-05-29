@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie jaarprogramma culturele](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-jaarprogramma-culturele/)
+---
+title: "Subsidie Jaarprogramma’s culturele instellingen Zuid"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-jaarprogramma-culturele/
+filename: subsidies_subsidieregelingen_subsidie-jaarprogramma-culturele.html
+---
 
 # Subsidie Jaarprogramma’s culturele instellingen Zuid
 

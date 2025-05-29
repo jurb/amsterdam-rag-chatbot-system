@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie woningverbetering](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-woningverbetering/)
+---
+title: "Verantwoorden subsidie voor Woningverbetering"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-woningverbetering/
+filename: subsidies_subsidieregelingen_verantwoorden-subsidie-woningverbetering.html
+---
 
 # Verantwoorden subsidie voor Woningverbetering
 

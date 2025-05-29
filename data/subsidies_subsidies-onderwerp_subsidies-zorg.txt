@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies zorg](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-zorg/)
+---
+title: "Subsidies Zorg en ondersteuning"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-zorg/
+filename: subsidies_subsidies-onderwerp_subsidies-zorg.html
+---
 
 # Subsidies Zorg en ondersteuning
 

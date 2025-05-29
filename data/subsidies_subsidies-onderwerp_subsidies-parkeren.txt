@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies parkeren](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-parkeren/)
+---
+title: "Subsidies Parkeren en verkeer"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-parkeren/
+filename: subsidies_subsidies-onderwerp_subsidies-parkeren.html
+---
 
 # Subsidies Parkeren en verkeer
 

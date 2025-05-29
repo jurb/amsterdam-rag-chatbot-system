@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie aangepast sporten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aangepast-sporten/)
+---
+title: "Subsidie Aangepast sporten"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aangepast-sporten/
+filename: subsidies_subsidieregelingen_subsidie-aangepast-sporten.html
+---
 
 # Subsidie Aangepast sporten
 

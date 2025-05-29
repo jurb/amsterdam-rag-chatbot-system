@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie projectstimulering herstel](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-projectstimulering-herstel/)
+---
+title: "Subsidie Projectstimulering Herstel- en Investeringsplan"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-projectstimulering-herstel/
+filename: subsidies_subsidieregelingen_subsidie-projectstimulering-herstel.html
+---
 
 # Subsidie Projectstimulering Herstel- en Investeringsplan
 

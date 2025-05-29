@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie aanpak binnenstad](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-binnenstad/)
+---
+title: "Subsidie Aanpak Binnenstad"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-binnenstad/
+filename: subsidies_subsidieregelingen_subsidie-aanpak-binnenstad.html
+---
 
 # Subsidie Aanpak Binnenstad
 

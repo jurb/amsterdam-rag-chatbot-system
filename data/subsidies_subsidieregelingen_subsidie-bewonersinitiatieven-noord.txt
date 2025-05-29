@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven noord](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-noord/)
+---
+title: "Subsidie Bewonersinitiatieven in Noord"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-noord/
+filename: subsidies_subsidieregelingen_subsidie-bewonersinitiatieven-noord.html
+---
 
 # Subsidie Bewonersinitiatieven in Noord
 

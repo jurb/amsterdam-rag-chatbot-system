@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies sport](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-sport/)
+---
+title: "Subsidies Sport"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-sport/
+filename: subsidies_subsidies-onderwerp_subsidies-sport.html
+---
 
 # Subsidies Sport
 

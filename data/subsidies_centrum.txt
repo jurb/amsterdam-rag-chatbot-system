@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies centrum](https://www.amsterdam.nl/subsidies/centrum/)
+---
+title: "Subsidies stadsdeel Centrum"
+url: https://www.amsterdam.nl/subsidies/centrum/
+filename: subsidies_centrum.html
+---
 
 # Subsidies stadsdeel Centrum
 

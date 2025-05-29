@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies](https://www.amsterdam.nl/subsidies/)
+---
+title: "Subsidies"
+url: https://www.amsterdam.nl/subsidies/
+filename: subsidies.html
+---
 
 # Subsidies
 

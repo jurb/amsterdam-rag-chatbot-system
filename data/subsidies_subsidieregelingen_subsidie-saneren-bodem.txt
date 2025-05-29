@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie saneren bodem](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-saneren-bodem/)
+---
+title: "Subsidie Saneren van de bodem"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-saneren-bodem/
+filename: subsidies_subsidieregelingen_subsidie-saneren-bodem.html
+---
 
 # Subsidie Saneren van de bodem
 

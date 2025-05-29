@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie evenementenfonds](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-evenementenfonds/)
+---
+title: "Subsidie Evenementenfonds"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-evenementenfonds/
+filename: subsidies_subsidieregelingen_subsidie-evenementenfonds.html
+---
 
 # Subsidie Evenementenfonds
 

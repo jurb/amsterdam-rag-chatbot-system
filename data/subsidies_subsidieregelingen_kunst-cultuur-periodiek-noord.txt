@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen kunst cultuur periodiek noord](https://www.amsterdam.nl/subsidies/subsidieregelingen/kunst-cultuur-periodiek-noord/)
+---
+title: "Subsidie Periodieke (boekjaar) gebiedsgebonden kunst- en cultuuractiviteiten Noord"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/kunst-cultuur-periodiek-noord/
+filename: subsidies_subsidieregelingen_kunst-cultuur-periodiek-noord.html
+---
 
 # Subsidie Periodieke (boekjaar) gebiedsgebonden kunst- en cultuuractiviteiten Noord
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie onderwijsvoorzieningen primair](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-onderwijsvoorzieningen-primair/)
+---
+title: "Subsidie Onderwijsvoorzieningen primair onderwijs"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-onderwijsvoorzieningen-primair/
+filename: subsidies_subsidieregelingen_subsidie-onderwijsvoorzieningen-primair.html
+---
 
 # Subsidie Onderwijsvoorzieningen primair onderwijs
 

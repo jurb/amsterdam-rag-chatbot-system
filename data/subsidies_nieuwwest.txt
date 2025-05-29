@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies nieuwwest](https://www.amsterdam.nl/subsidies/nieuwwest/)
+---
+title: "Subsidies stadsdeel Nieuw-West"
+url: https://www.amsterdam.nl/subsidies/nieuwwest/
+filename: subsidies_nieuwwest.html
+---
 
 # Subsidies stadsdeel Nieuw-West
 

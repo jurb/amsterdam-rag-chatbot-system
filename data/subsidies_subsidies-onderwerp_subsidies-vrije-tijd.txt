@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies vrije tijd](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-vrije-tijd/)
+---
+title: "Subsidies Vrije tijd"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-vrije-tijd/
+filename: subsidies_subsidies-onderwerp_subsidies-vrije-tijd.html
+---
 
 # Subsidies Vrije tijd
 

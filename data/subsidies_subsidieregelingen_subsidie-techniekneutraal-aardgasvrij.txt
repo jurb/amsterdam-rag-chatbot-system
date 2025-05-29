@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie techniekneutraal aardgasvrij](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-techniekneutraal-aardgasvrij/)
+---
+title: "Subsidie Duurzame Amsterdamse gebouwen – Techniekneutraal aardgasvrij"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-techniekneutraal-aardgasvrij/
+filename: subsidies_subsidieregelingen_subsidie-techniekneutraal-aardgasvrij.html
+---
 
 # Subsidie Duurzame Amsterdamse gebouwen – Techniekneutraal aardgasvrij
 

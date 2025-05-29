@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie periodieke kunst oost](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-periodieke-kunst-oost/)
+---
+title: "Subsidie Periodieke gebiedsgebonden kunst- en cultuuractiviteiten Oost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-periodieke-kunst-oost/
+filename: subsidies_subsidieregelingen_subsidie-periodieke-kunst-oost.html
+---
 
 # Subsidie Periodieke gebiedsgebonden kunst- en cultuuractiviteiten Oost
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie culturele festivals nieuw west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-culturele-festivals-nieuw-west/)
+---
+title: "Subsidie Culturele festivals Nieuw-West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-culturele-festivals-nieuw-west/
+filename: subsidies_subsidieregelingen_subsidie-culturele-festivals-nieuw-west.html
+---
 
 # Subsidie Culturele festivals Nieuw-West
 

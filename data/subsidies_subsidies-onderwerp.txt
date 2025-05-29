@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/)
+---
+title: "Subsidies op onderwerp"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/
+filename: subsidies_subsidies-onderwerp.html
+---
 
 # Subsidies op onderwerp
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie verhuisregeling groot beter](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verhuisregeling-groot-beter/)
+---
+title: "Subsidie Verhuisregeling Van Groot naar Beter"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-verhuisregeling-groot-beter/
+filename: subsidies_subsidieregelingen_subsidie-verhuisregeling-groot-beter.html
+---
 
 # Subsidie Verhuisregeling Van Groot naar Beter
 

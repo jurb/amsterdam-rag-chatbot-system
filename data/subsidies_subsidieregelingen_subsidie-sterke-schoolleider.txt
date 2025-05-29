@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie sterke schoolleider](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sterke-schoolleider/)
+---
+title: "Subsidie Sterke schoolleider"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sterke-schoolleider/
+filename: subsidies_subsidieregelingen_subsidie-sterke-schoolleider.html
+---
 
 # Subsidie Sterke schoolleider
 

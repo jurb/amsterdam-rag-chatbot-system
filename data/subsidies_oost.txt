@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies oost](https://www.amsterdam.nl/subsidies/oost/)
+---
+title: "Subsidies stadsdeel Oost"
+url: https://www.amsterdam.nl/subsidies/oost/
+filename: subsidies_oost.html
+---
 
 # Subsidies stadsdeel Oost
 

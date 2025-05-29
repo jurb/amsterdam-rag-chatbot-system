@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie monumenten weesp](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-monumenten-weesp/)
+---
+title: "Verantwoorden subsidie Monumenten Weesp"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-monumenten-weesp/
+filename: subsidies_subsidieregelingen_verantwoorden-subsidie-monumenten-weesp.html
+---
 
 # Verantwoorden subsidie Monumenten Weesp
 

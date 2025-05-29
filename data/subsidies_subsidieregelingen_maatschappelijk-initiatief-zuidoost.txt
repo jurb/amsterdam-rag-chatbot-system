@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen maatschappelijk initiatief zuidoost](https://www.amsterdam.nl/subsidies/subsidieregelingen/maatschappelijk-initiatief-zuidoost/)
+---
+title: "Verantwoorden subsidie Maatschappelijk initiatief in Zuidoost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/maatschappelijk-initiatief-zuidoost/
+filename: subsidies_subsidieregelingen_maatschappelijk-initiatief-zuidoost.html
+---
 
 # Verantwoorden subsidie Maatschappelijk initiatief in Zuidoost
 

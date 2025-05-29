@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie ingrijpende](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-ingrijpende/)
+---
+title: "Verantwoorden subsidie Ingrijpende aanpak sociale huurwoningen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-ingrijpende/
+filename: subsidies_subsidieregelingen_verantwoorden-subsidie-ingrijpende.html
+---
 
 # Verantwoorden subsidie Ingrijpende aanpak sociale huurwoningen
 

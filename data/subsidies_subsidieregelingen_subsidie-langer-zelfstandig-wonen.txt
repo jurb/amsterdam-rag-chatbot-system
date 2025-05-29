@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie langer zelfstandig wonen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-langer-zelfstandig-wonen/)
+---
+title: "Subsidie Activiteiten gericht op het langer zelfstandig wonen van ouderen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-langer-zelfstandig-wonen/
+filename: subsidies_subsidieregelingen_subsidie-langer-zelfstandig-wonen.html
+---
 
 # Subsidie Activiteiten gericht op het langer zelfstandig wonen van ouderen
 

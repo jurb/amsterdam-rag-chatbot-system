@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie gebiedsbranding](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gebiedsbranding/)
+---
+title: "Subsidie Gebiedsbranding"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-gebiedsbranding/
+filename: subsidies_subsidieregelingen_subsidie-gebiedsbranding.html
+---
 
 # Subsidie Gebiedsbranding
 

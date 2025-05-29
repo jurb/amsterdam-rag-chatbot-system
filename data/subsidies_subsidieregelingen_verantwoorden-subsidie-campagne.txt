@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie campagne](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-campagne/)
+---
+title: "Verantwoorden subsidie Campagne Referendum Hoofdgroenstructuur"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-campagne/
+filename: subsidies_subsidieregelingen_verantwoorden-subsidie-campagne.html
+---
 
 # Verantwoorden subsidie Campagne Referendum Hoofdgroenstructuur
 

@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies west](https://www.amsterdam.nl/subsidies/west/)
+---
+title: "Subsidies stadsdeel West"
+url: https://www.amsterdam.nl/subsidies/west/
+filename: subsidies_west.html
+---
 
 # Subsidies stadsdeel West
 

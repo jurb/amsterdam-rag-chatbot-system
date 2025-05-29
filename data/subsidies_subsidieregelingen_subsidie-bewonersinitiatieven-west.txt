@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie bewonersinitiatieven west](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-west/)
+---
+title: "Subsidie Bewonersinitiatieven in West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-west/
+filename: subsidies_subsidieregelingen_subsidie-bewonersinitiatieven-west.html
+---
 
 # Subsidie Bewonersinitiatieven in West
 

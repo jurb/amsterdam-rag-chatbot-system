@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie duurzame corporatiewoningen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-corporatiewoningen/)
+---
+title: "Subsidie duurzame Amsterdamse gebouwen – Duurzame nieuwe corporatiewoningen (hoofdstuk 5)"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-duurzame-corporatiewoningen/
+filename: subsidies_subsidieregelingen_subsidie-duurzame-corporatiewoningen.html
+---
 
 # Subsidie duurzame Amsterdamse gebouwen – Duurzame nieuwe corporatiewoningen (hoofdstuk 5)
 

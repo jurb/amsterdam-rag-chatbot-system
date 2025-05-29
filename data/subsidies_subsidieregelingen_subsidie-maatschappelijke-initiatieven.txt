@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie maatschappelijke initiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijke-initiatieven/)
+---
+title: "Subsidie Maatschappelijke Initiatieven Werk, Participatie en Inkomen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijke-initiatieven/
+filename: subsidies_subsidieregelingen_subsidie-maatschappelijke-initiatieven.html
+---
 
 # Subsidie Maatschappelijke Initiatieven Werk, Participatie en Inkomen
 

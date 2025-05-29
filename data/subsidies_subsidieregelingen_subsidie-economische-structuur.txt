@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie economische structuur](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-economische-structuur/)
+---
+title: "Subsidie Economische Structuur en Arbeidsmarktversterking"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-economische-structuur/
+filename: subsidies_subsidieregelingen_subsidie-economische-structuur.html
+---
 
 # Subsidie Economische Structuur en Arbeidsmarktversterking
 

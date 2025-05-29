@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie street art initiatieven zuid](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-street-art-initiatieven-zuid/)
+---
+title: "Subsidie Street art initiatieven in Zuid"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-street-art-initiatieven-zuid/
+filename: subsidies_subsidieregelingen_subsidie-street-art-initiatieven-zuid.html
+---
 
 # Subsidie Street art initiatieven in Zuid
 

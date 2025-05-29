@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie culturele evenementen zuidas](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-culturele-evenementen-zuidas/)
+---
+title: "Subsidie Culturele evenementen Zuidas"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-culturele-evenementen-zuidas/
+filename: subsidies_subsidieregelingen_subsidie-culturele-evenementen-zuidas.html
+---
 
 # Subsidie Culturele evenementen Zuidas
 

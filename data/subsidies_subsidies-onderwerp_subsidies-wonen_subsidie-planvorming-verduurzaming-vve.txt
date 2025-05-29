@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies wonen subsidie planvorming verduurzaming vve](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/subsidie-planvorming-verduurzaming-vve/)
+---
+title: "Subsidie Planvorming verduurzaming voor vve’s"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-wonen/subsidie-planvorming-verduurzaming-vve/
+filename: subsidies_subsidies-onderwerp_subsidies-wonen_subsidie-planvorming-verduurzaming-vve.html
+---
 
 # Subsidie Planvorming verduurzaming voor vve’s
 

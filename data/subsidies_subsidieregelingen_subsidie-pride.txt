@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie pride](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-pride/)
+---
+title: "Subsidie Pride"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-pride/
+filename: subsidies_subsidieregelingen_subsidie-pride.html
+---
 
 # Subsidie Pride
 

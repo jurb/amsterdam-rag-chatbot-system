@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen eenmalige gebied kunst nieuw west](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebied-kunst-nieuw-west/)
+---
+title: "Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Nieuw-West"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebied-kunst-nieuw-west/
+filename: subsidies_subsidieregelingen_eenmalige-gebied-kunst-nieuw-west.html
+---
 
 # Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Nieuw-West
 

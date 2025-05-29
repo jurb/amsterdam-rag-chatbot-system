@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen eenmalige gebiedsgebonden kunst zuidoost](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-zuidoost/)
+---
+title: "Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Zuidoost"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-zuidoost/
+filename: subsidies_subsidieregelingen_eenmalige-gebiedsgebonden-kunst-zuidoost.html
+---
 
 # Subsidie Eenmalige gebiedsgebonden kunst- en cultuuractiviteiten Zuidoost
 

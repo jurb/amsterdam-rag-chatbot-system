@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie pilot verwijderen rookkanalen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-pilot-verwijderen-rookkanalen/)
+---
+title: "Subsidie Pilot voor verwijderen rookkanalen houtstook"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-pilot-verwijderen-rookkanalen/
+filename: subsidies_subsidieregelingen_subsidie-pilot-verwijderen-rookkanalen.html
+---
 
 # Subsidie Pilot voor verwijderen rookkanalen houtstook
 

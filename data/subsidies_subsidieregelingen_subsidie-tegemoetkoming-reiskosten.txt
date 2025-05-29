@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie tegemoetkoming reiskosten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-tegemoetkoming-reiskosten/)
+---
+title: "Subsidie Tegemoetkoming reiskosten leraren, onderwijsondersteunend personeel en directie po, vo, vso"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-tegemoetkoming-reiskosten/
+filename: subsidies_subsidieregelingen_subsidie-tegemoetkoming-reiskosten.html
+---
 
 # Subsidie Tegemoetkoming reiskosten leraren, onderwijsondersteunend personeel en directie po, vo, vso
 

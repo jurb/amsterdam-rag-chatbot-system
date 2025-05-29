@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie opvang ondersteuning kwetsbare](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-opvang-ondersteuning-kwetsbare/)
+---
+title: "Subsidie Opvang en ondersteuning kwetsbare personen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-opvang-ondersteuning-kwetsbare/
+filename: subsidies_subsidieregelingen_subsidie-opvang-ondersteuning-kwetsbare.html
+---
 
 # Subsidie Opvang en ondersteuning kwetsbare personen
 

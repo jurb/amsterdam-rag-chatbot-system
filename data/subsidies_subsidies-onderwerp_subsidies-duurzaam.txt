@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies duurzaam](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-duurzaam/)
+---
+title: "Subsidies Duurzaam en groen"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-duurzaam/
+filename: subsidies_subsidies-onderwerp_subsidies-duurzaam.html
+---
 
 # Subsidies Duurzaam en groen
 

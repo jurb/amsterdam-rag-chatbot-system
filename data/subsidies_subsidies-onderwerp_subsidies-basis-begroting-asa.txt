@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies basis begroting asa](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-basis-begroting-asa/)
+---
+title: "Subsidies op basis van de begroting en de ASA"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-basis-begroting-asa/
+filename: subsidies_subsidies-onderwerp_subsidies-basis-begroting-asa.html
+---
 
 # Subsidies op basis van de begroting en de ASA
 

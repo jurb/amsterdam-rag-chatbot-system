@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie straatmanagement parkmanagement](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/)
+---
+title: "Subsidie Straatmanagement en parkmanagement"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/
+filename: subsidies_subsidieregelingen_subsidie-straatmanagement-parkmanagement.html
+---
 
 # Subsidie Straatmanagement en parkmanagement
 

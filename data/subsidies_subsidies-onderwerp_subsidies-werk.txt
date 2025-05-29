@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidies onderwerp subsidies werk](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-werk/)
+---
+title: "Subsidies Werk en inkomen"
+url: https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-werk/
+filename: subsidies_subsidies-onderwerp_subsidies-werk.html
+---
 
 # Subsidies Werk en inkomen
 

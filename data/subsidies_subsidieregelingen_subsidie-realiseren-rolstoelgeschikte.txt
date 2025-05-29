@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen subsidie realiseren rolstoelgeschikte](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-realiseren-rolstoelgeschikte/)
+---
+title: "Subsidie Realiseren van rolstoelgeschikte woningen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-realiseren-rolstoelgeschikte/
+filename: subsidies_subsidieregelingen_subsidie-realiseren-rolstoelgeschikte.html
+---
 
 # Subsidie Realiseren van rolstoelgeschikte woningen
 

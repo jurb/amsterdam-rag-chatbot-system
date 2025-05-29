@@ -1,4 +1,8 @@
-[PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie samenvoegen](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-samenvoegen/)
+---
+title: "Verantwoorden subsidie Samenvoegen van woningen"
+url: https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-samenvoegen/
+filename: subsidies_subsidieregelingen_verantwoorden-subsidie-samenvoegen.html
+---
 
 # Verantwoorden subsidie Samenvoegen van woningen
 
