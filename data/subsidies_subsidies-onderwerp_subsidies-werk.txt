@@ -1,20 +1,49 @@
 [PAGE LINK: subsidies subsidies onderwerp subsidies werk](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-werk/)
 
+# Subsidies Werk en inkomen
 
-Subsidies Werk en inkomen
+## Subsidies Werk en inkomen
+
+Zoeken binnen de index
+
+Zoekterm:
+
+Onderwerp subsidies
+
+\--- Werk en inkomen
+
+Voor wie?
+
+\--- Particulier Organisatie
+
+Stadsdeel/-gebied
+
+\--- Centrum Nieuw-West Noord Oost Weesp West Zuid Zuidoost Stadsbreed
+
+zoeken
+
 Resultaten 1 t/m 5 getoond - 5 resultaten
 
-[LINK: Buurtbaan](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/regelingen/buurtbaan/)
-Subsidie voor een [LINK: Buurtbaan](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/regelingen/buurtbaan/) : een tijdelijk dienstverband met een actieve bewoner, om zo de sociale basis van de buurt te versterken.
+## [Buurtbaan](<https://www.amsterdam.nl/subsidies/subsidies-onderwerp/regelingen/buurtbaan/>)
 
-[LINK: Buurtmedewerkers (Nieuw-West, Noord en Zuidoost)](https://www.amsterdam.nl/subsidies/subsidieregelingen/buurtmedewerkers-nwwest-noord-zuidoost/)
+Subsidie voor een Buurtbaan: een tijdelijk dienstverband met een actieve bewoner, om zo de sociale basis van de buurt te versterken.
+
+## [Buurtmedewerkers (Nieuw-West, Noord en Zuidoost)](<https://www.amsterdam.nl/subsidies/subsidieregelingen/buurtmedewerkers-nwwest-noord-zuidoost/>)
+
 Subsidie voor het creëren van één of meerdere banen als Buurtmedewerker in de stadsdelen Noord, Nieuw-West of Zuidoost.
 
-[LINK: Maatschappelijke Initiatieven Werk, Participatie en Inkomen](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijke-initiatieven)
+## [Maatschappelijke Initiatieven Werk, Participatie en Inkomen](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijke-initiatieven>)
+
 Organisaties kunnen subsidie aanvragen voor projecten die Amsterdammers zonder werk of opleiding helpen om aan het werk te gaan of om een ...
 
-[LINK: Ongedocumenteerden](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ongedocumenteerden/)
+## [Ongedocumenteerden](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ongedocumenteerden/>)
+
 Organisaties kunnen subsidie aanvragen voor het uitvoeren van activiteiten uit het Uitvoeringsplan 24-uursopvang ongedocumenteerden.
 
-[LINK: Sociale basis 2025: Sociaal weefsel](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/)
+## [Sociale basis 2025: Sociaal weefsel](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/>)
+
 U kunt een eenmalige of boekjaar subsidie aanvragen voor activiteiten gericht op het vergroten van gelijke kansen op het gebied van gezondheid en ...
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

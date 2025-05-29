@@ -1,35 +1,57 @@
 [PAGE LINK: subsidies subsidieregelingen subsidie brede brugklas bonus](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-brede-brugklas-bonus/)
 
-Subsidie Brede Brugklas Bonus
+# Subsidie Brede Brugklas Bonus
+
 U kunt deze subsidie niet meer aanvragen. Al subsidie ontvangen? Dan moet u de subsidie nog wel verantwoorden. Lees hier hoe het werkt.
 
-Verantwoorden
-De tussentijdse verantwoording moet u uiterlijk 31 oktober 2024 en de daarop volgende jaren tot en met 2027 indienen. Lever de bijlagen volledig aan, anders kunnen wij een subsidie geheel of gedeeltelijk terugvorderen.
-Een inhoudelijk verslag
-Zo dient u de tussentijdse verantwoording met eHerkenning in:
-Ga naar [LINK: Mijn Amsterdam](https://mijn.amsterdam.nl/) .
-Log in met eHerkenning.
-Kies Subsidies onder Mijn thema's.
-Kies de subsidie die u wilt verantwoorden.
-Kies Tussentijdse verantwoording indienen.
-Voeg de gevraagde bijlage(n) toe.
-In 2027 hoeft u geen tussentijdse verantwoording in te dienen, maar een eindverantwoording. De eindverantwoording moet u uiterlijk 31 oktober 2027 indienen. Lever de bijlagen volledig aan, anders kunnen wij een subsidie geheel of gedeeltelijk terugvorderen.
-U moet deze bijlagen meesturen:
-Een inhoudelijk verslag
-Een financieel verslag met daarin een overzicht van de besteding van de subsidie
-Zo dient u de eindverantwoording met eHerkenning in:
-Ga naar [LINK: Mijn Amsterdam](https://mijn.amsterdam.nl/) .
-Log in met eHerkenning.
-Kies Subsidies onder Mijn thema's.
-Kies de subsidie die u wilt verantwoorden.
-Kies eindverantwoording indienen.
-Voeg de gevraagde bijlage(n) toe.
-Verzend het formulier.
+### Verantwoorden
 
-Meer informatie
-Lees altijd de volledige [LINK: Verordening op het lokaal onderwijsbeleid Amsterdam 2019](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/verordening-lokaal-onderwijsbeleid/)(bijlage 3 Voorzieningen Kansengelijkheid en hoofdstuk 7 Voorziening Brede Brugklas Bonus).
-Bekijk ook de algemene informatie over subsidies op [LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) .
+De tussentijdse verantwoording moet u uiterlijk 31 oktober 2024 en de daarop volgende jaren tot en met 2027 indienen. Lever de bijlagen volledig aan, anders kunnen wij een subsidie geheel of gedeeltelijk terugvorderen.
+
+**U moet deze bijlagen meesturen:**
+
+  * Een inhoudelijk verslag
+  * Een financieel verslag met daarin een overzicht van de besteding van de subsidie
+
+**Zo dient u de tussentijdse verantwoording met eHerkenning in:**
+
+  1. Ga naar [Mijn Amsterdam](<https://mijn.amsterdam.nl/>).
+  2. Log in met eHerkenning.
+  3. Kies Subsidies onder Mijn thema's.
+  4. Kies de subsidie die u wilt verantwoorden.
+  5. Kies Tussentijdse verantwoording indienen.
+  6. Voeg de gevraagde bijlage(n) toe.
+  7. Verzend het formulier.
+
+In 2027 hoeft u geen tussentijdse verantwoording in te dienen, maar een eindverantwoording. De eindverantwoording moet u uiterlijk 31 oktober 2027 indienen. Lever de bijlagen volledig aan, anders kunnen wij een subsidie geheel of gedeeltelijk terugvorderen.
+
+**U moet deze bijlagen meesturen:**
+
+  * Een inhoudelijk verslag
+  * Een financieel verslag met daarin een overzicht van de besteding van de subsidie
+
+**Zo dient u de eindverantwoording met eHerkenning in:**
+
+  1. Ga naar [Mijn Amsterdam](<https://mijn.amsterdam.nl/>).
+  2. Log in met eHerkenning.
+  3. Kies Subsidies onder Mijn thema's.
+  4. Kies de subsidie die u wilt verantwoorden.
+  5. Kies eindverantwoording indienen.
+  6. Voeg de gevraagde bijlage(n) toe.
+  7. Verzend het formulier.
+
+### Meer informatie
+
+Lees altijd de volledige [Verordening op het lokaal onderwijsbeleid Amsterdam 2019](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/verordening-lokaal-onderwijsbeleid/>) (bijlage 3 Voorzieningen Kansengelijkheid en hoofdstuk 7 Voorziening Brede Brugklas Bonus).
+
+Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<https://www.amsterdam.nl/subsidies/>).
+
 Hebt u nog vragen? Mail dan naar subsidies@amsterdam.nl of bel 14 020.
 
-Hulp bij ontoegankelijke documenten
-Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [LINK: het contactformulier](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/) .
+#### Hulp bij ontoegankelijke documenten
+
+Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

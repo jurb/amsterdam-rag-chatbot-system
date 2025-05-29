@@ -1,78 +1,125 @@
 [PAGE LINK: subsidies subsidieregelingen subsidie tegemoetkoming reiskosten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-tegemoetkoming-reiskosten/)
 
-Subsidie Tegemoetkoming reiskosten leraren, onderwijsondersteunend personeel en directie po, vo, vso
+# Subsidie Tegemoetkoming reiskosten leraren, onderwijsondersteunend personeel en directie po, vo, vso
+
 Schoolbesturen kunnen een tegemoetkoming in de reiskosten aanvragen voor het werven en behouden van leraren, onderwijsondersteunend personeel (oop) en directieleden die buiten de regio Amsterdam wonen. Met deze subsidie wil de gemeente scholen helpen het lerarentekort in Amsterdam tegen te gaan. Lees hier hoe het werkt.
 
-Voorwaarden
+### Voorwaarden
+
 Schoolbestuurders kunnen de voorziening tegemoetkoming in aanvulling op cao vergoede reiskosten aanvragen. Zij dienen daarvoor een overzicht van de geraamde meerkosten in. In de webapplicatie onderwijssubsidies (WOS) kan het schoolbestuur een tabel invullen van het aantal fte in 3 (vo) of 4 (po) verschillende afstandscategorieën. Het schoolbestuur dient de gebundelde aanvragen na controle in via eHerkenning.
-U kunt subsidie aanvragen vooreen eenmalige bijdrage in de kosten van woon-werkverkeer voor nieuwe of zittende leraren, onderwijsondersteunend personeel (oop) of directieleden.
+
+**U kunt subsidie aanvragen voor** een eenmalige bijdrage in de kosten van woon-werkverkeer voor nieuwe of zittende leraren, onderwijsondersteunend personeel (oop) of directieleden.
+
 U moet aan deze voorwaarden voldoen:
-Het school­be­stuur moet aan­to­nen dat zij reis­kos­ten aan­vul­lend op de cao ver­goe­den.
-Het be­stuur be­taalt een be­drag dat net zo hoog is als de sub­si­die (50%-50%). Dit kan ook in­ge­zet wor­den voor duur­za­me mo­bi­li­teit.
-Het school­be­stuur gaat met zijn per­so­neels­le­den in ge­sprek over hun mo­bi­li­teits­be­hoef­ten en over al­ter­na­tie­ve en toe­komst­be­sten­di­ge vor­men van ver­voer. Be­kijk voor meer in­for­ma­tie de [LINK: Agen­da Au­to­luw](https://www.amsterdam.nl/verkeer-vervoer/agenda-amsterdam-autoluw/) van de ge­meen­te Am­ster­dam.
 
-Hoogte van het subsidiebedrag
+  * Het school­be­stuur moet aan­to­nen dat zij reis­kos­ten aan­vul­lend op de cao ver­goe­den.
+  * Het be­stuur be­taalt een be­drag dat net zo hoog is als de sub­si­die (50%-50%). Dit kan ook in­ge­zet wor­den voor duur­za­me mo­bi­li­teit.
+  * Het school­be­stuur gaat met zijn per­so­neels­le­den in ge­sprek over hun mo­bi­li­teits­be­hoef­ten en over al­ter­na­tie­ve en toe­komst­be­sten­di­ge vor­men van ver­voer. Be­kijk voor meer in­for­ma­tie de [Agen­da Au­to­luw](<https://www.amsterdam.nl/verkeer-vervoer/agenda-amsterdam-autoluw/>) van de ge­meen­te Am­ster­dam.
+
+### Hoogte van het subsidiebedrag
+
 De gemeente subsidieert de helft van de geraamde meerkosten, tenzij het subsidieplafond wordt overschreden. In dat geval worden alle aanvragen met een gelijk percentage gekort.
-Afstand woon-werk enkele reis
-Personeelsleden in het po en vso
-Maximale vergoeding gemeente per fte personeelslid per schooljaar
-Personeelsleden in het vo
-Lees altijd de volledige subsidieregeling Voorziening tegemoetkoming in aanvulling op cao vergoede reiskosten. Deze vindt u in de [LINK: Verordening op het lokaal onderwijsbeleid Amsterdam 2019](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/verordening-lokaal-onderwijsbeleid/), bijlage 4, hoofdstuk 3.
 
-Wanneer aanvragen
+Meerkosten Afstand woon-werk enkele reis |  Maximale vergoeding gemeente per fte personeelslid per schooljaar Personeelsleden in het po en vso |  Maximale vergoeding gemeente per fte personeelslid per schooljaar Personeelsleden in het vo
+---|---|---
+25 - 30 km | € 440,- | € 100,-
+30 - 40 km | € 598,- | € 200,-
+Meer dan 40 km | € 880,- | € 300,-
 
-Aanvragen
-U vraagt als schoolbestuur de tegemoetkoming aan door een pdf van de tabel uit de webapplicatie onderwijssubsidies (WOS) in te vullen. U dient de aanvraag in met eHerkenning. Bekijk voor meer informatie de [LINK: handleiding Aanvragen en voorwaarden eHerkenning subsidies](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /subsidie-aanvragen-bij-amsterdam/eherkenning/).
-U kunt alleen inloggen in de webapplicatie onderwijssubsidies (WOS) met het e-mailadres dat bij de gemeente bekend is. Lukt het niet om in te loggen of is er een ander technisch probleem, stuur dan een e-mail naar [LINK: ivdesk@amsterdam.nl](mailto:ivdesk@amsterdam.nl) of bel met 020 251 8008 (optie 3).
+Lees altijd de volledige subsidieregeling Voorziening tegemoetkoming in aanvulling op cao vergoede reiskosten. Deze vindt u in de [Verordening op het lokaal onderwijsbeleid Amsterdam 2019](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/verordening-lokaal-onderwijsbeleid/>), bijlage 4, hoofdstuk 3.
 
-Zo vraagt u subsidie aan:
+### Wanneer aanvragen
+
+Een schoolleider kan **vanaf 15 maart 2025** een aanvraag doen via een online aanvraagformulier in de webapplicatie onderwijssubsidies (WOS). Het schoolbestuur moet elke aanvraag controleren en uiterlijk **15 april 2025** vergrendelen. Vervolgens dient het schoolbestuur uiterlijk **15 mei 2025** alle aanvragen per school gebundeld in via eHerkenning.
+
+### Aanvragen
+
+U vraagt als schoolbestuur de tegemoetkoming aan door een pdf van de tabel uit de webapplicatie onderwijssubsidies (WOS) in te vullen. U dient de aanvraag in met eHerkenning. Bekijk voor meer informatie de [handleiding Aanvragen en voorwaarden eHerkenning subsidies](<https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/eherkenning/>).
+
+U kunt alleen inloggen in de webapplicatie onderwijssubsidies (WOS) met het e-mailadres dat bij de gemeente bekend is. Lukt het niet om in te loggen of is er een ander technisch probleem, stuur dan een e-mail naar [ivdesk@amsterdam.nl](<mailto:ivdesk@amsterdam.nl>) of bel met 020 251 8008 (optie 3).
+
+### Zo vraagt u subsidie aan:
+
 Stap 1:
-Log in op de [LINK: we­bap­pli­ca­tie On­der­wijs­sub­si­dies (WOS).](https://onderwijssubsidies.amsterdam.nl/inloggen)
-Vul uw e-mail­adres in en wachtwoord in.
-Klik op de knop Inloggen; het dashboard van WOS wordt getoond op het scherm.
-Klik op Te­ge­moet­ko­ming reis­kos­ten.
-Klik op In­die­nen.
-Klik op Te­rug naar over­zicht.
-Open de aan­vraag op­nieuw.
-Down­load als pdf.
-Sla de pdf op uw com­pu­ter op en ga ver­der met stap 2.
-Stap 2:
-Ga naar [LINK: Aan­vra­gen sub­si­die Te­ge­moet­ko­ming in aan­vul­ling op cao ver­goe­de reis­kos­ten](https://mijnsubsidies.amsterdam.nl/regeling/620dffe7ef3882025b9cf7c6) .
-Log in met eHer­ken­ning.
-Selecteer de activiteit.
-Vul alle ge­ge­vens in en voeg de ge­down­lo­a­de bij­la­ge uit stap 1 toe.
-Als alle documenten binnen zijn, hoort ubinnen 8 wekenof u de subsidie krijgt.
 
-Uitbetaling
+  1. Log in op de [we­bap­pli­ca­tie On­der­wijs­sub­si­dies (WOS).](<https://onderwijssubsidies.amsterdam.nl/inloggen>)
+  2. Vul uw e-mail­adres in en wachtwoord in.
+  3. Klik op de knop Inloggen; het dashboard van WOS wordt getoond op het scherm.
+  4. Klik op Te­ge­moet­ko­ming reis­kos­ten.
+  5. Klik op In­die­nen.
+  6. Klik op Te­rug naar over­zicht.
+  7. Open de aan­vraag op­nieuw.
+  8. Down­load als pdf.
+  9. Sla de pdf op uw com­pu­ter op en ga ver­der met stap 2.
+
+Stap 2:
+
+  1. Ga naar [Aan­vra­gen sub­si­die Te­ge­moet­ko­ming in aan­vul­ling op cao ver­goe­de reis­kos­ten](<https://mijnsubsidies.amsterdam.nl/regeling/620dffe7ef3882025b9cf7c6>).
+  2. Log in met eHer­ken­ning.
+  3. Selecteer de activiteit.
+  4. Vul alle ge­ge­vens in en voeg de ge­down­lo­a­de bij­la­ge uit stap 1 toe.
+  5. Ver­zend het for­mu­lier.
+
+Als alle documenten binnen zijn, hoort u **binnen 8 weken** of u de subsidie krijgt.
+
+### Uitbetaling
+
 Het schoolbestuur ontvangt de subsidie. Het schoolbestuur is er vervolgens verantwoordelijk voor dat de subsidie bij de juiste personen terechtkomt.
 
-Verantwoording
+### Verantwoording
+
 In het najaar van 2026 stelt de gemeente alle onderwijssubsidies voor het schooljaar 2025-2026 vast. Om de subsidies vast te kunnen stellen hebben wij uw verantwoordingen nodig. Deze bestaan uit een inhoudelijk en een financieel gedeelte. Lever beide gedeeltes volledig aan, anders kunnen wij een subsidie (gedeeltelijk) terugvorderen.
-Inhoudelijke verantwoordingVanaf 1 juni 2026 staan de inhoudelijke formulieren klaar in de webapplicatie onderwijssubsidies (WOS). De schoolleiders moeten deze formulieren invullen. Door alle ingediende verantwoordingen te vergrendelen accordeert het bestuur ze en kan de gemeente ze beoordelen.
-Financiële verantwoordingDeze formulieren staan ook in de webapplicatie onderwijssubsidies (WOS). Schoolbestuurders moeten deze formulieren invullen. Hebt u binnen één schooljaar voor verschillende regelingen subsidie ontvangen? En zijn die afzonderlijke subsidiebedragen opgeteld samen meer dan € 125.000,-? Dan moet u een controleverklaring van de accountant overleggen, waarbij het totale subsidiebedrag wordt uitgesplitst naar regeling en naar school. Bekijk de handreiking controle financiële verantwoording.
-U moet de reiskosten uitsplitsen in:• rijksvergoeding (conform cao)• gemeentelijke vergoeding (subsidie)• vergoeding door het bestuur (boven cao betaalde reiskostenvergoeding)
+
+**Inhoudelijke verantwoording**
+Vanaf 1 juni 2026 staan de inhoudelijke formulieren klaar in de webapplicatie onderwijssubsidies (WOS). De schoolleiders moeten deze formulieren invullen. Door alle ingediende verantwoordingen te vergrendelen accordeert het bestuur ze en kan de gemeente ze beoordelen.
+
+**Financiële verantwoording**
+Deze formulieren staan ook in de webapplicatie onderwijssubsidies (WOS). Schoolbestuurders moeten deze formulieren invullen. Hebt u binnen één schooljaar voor verschillende regelingen subsidie ontvangen? En zijn die afzonderlijke subsidiebedragen opgeteld samen meer dan € 125.000,-? Dan moet u een controleverklaring van de accountant overleggen, waarbij het totale subsidiebedrag wordt uitgesplitst naar regeling en naar school. Bekijk de handreiking controle financiële verantwoording.
+
+U moet de reiskosten uitsplitsen in:
+• rijksvergoeding (conform cao)
+• gemeentelijke vergoeding (subsidie)
+• vergoeding door het bestuur (boven cao betaalde reiskostenvergoeding)
+
 De persoonlijke link naar deze online formulieren ontvangt u per e-mail. De schoolbestuurder kan met deze link inloggen in de webapplicatie onderwijssubsidies (WOS).
+
 De inhoudelijke en financiële verantwoordingen van 2025-2026 moeten uiterlijk op 31 oktober 2026 binnen zijn bij de gemeente Amsterdam, tenzij anders is aangegeven in uw beschikking.
+
 Of u de subsidie moet verantwoorden (aanvraag tot vaststelling) hangt af van de hoogte van het subsidiebedrag:
-Sub­si­dies tot € 5.000,-: u hoeft geen ver­ant­woor­ding in te le­ve­ren met eHer­ken­ning. Wel een in­hou­de­lij­ke ver­ant­woor­ding via de we­bap­pli­ca­tie on­der­wijs­sub­si­dies (WOS).
-Sub­si­dies van € 5.000,- tot € 50.000,-: uw ver­ant­woor­ding moet ui­ter­lijk 8 we­ken na af­ron­ding van de ac­ti­vi­tei­ten waar­voor u sub­si­die hebt aan­ge­vraagd bij ons bin­nen zijn.
-Sub­si­dies bo­ven de € 50.000,-: uw ver­ant­woor­ding moet ui­ter­lijk 12 we­ken na af­ron­ding van de ac­ti­vi­tei­ten waar­voor u sub­si­die hebt aan­ge­vraagd bij ons bin­nen zijn.
-U kunt alleen inloggen in de webapplicatie onderwijssubsidies (WOS) met het e-mailadres dat bij de gemeente bekend is. Lukt het niet om in te loggen of is er een ander technisch probleem, stuur dan een e-mail naar [LINK: ivdesk@amsterdam.nl](mailto:ivdesk@amsterdam.nl) of bel 020 251 8008 (optie 3).
+
+  * Sub­si­dies tot € 5.000,-: u hoeft geen ver­ant­woor­ding in te le­ve­ren met eHer­ken­ning. Wel een in­hou­de­lij­ke ver­ant­woor­ding via de we­bap­pli­ca­tie on­der­wijs­sub­si­dies (WOS).
+  * Sub­si­dies van € 5.000,- tot € 50.000,-: uw ver­ant­woor­ding moet ui­ter­lijk 8 we­ken na af­ron­ding van de ac­ti­vi­tei­ten waar­voor u sub­si­die hebt aan­ge­vraagd bij ons bin­nen zijn.
+  * Sub­si­dies bo­ven de € 50.000,-: uw ver­ant­woor­ding moet ui­ter­lijk 12 we­ken na af­ron­ding van de ac­ti­vi­tei­ten waar­voor u sub­si­die hebt aan­ge­vraagd bij ons bin­nen zijn.
+
+U kunt alleen inloggen in de webapplicatie onderwijssubsidies (WOS) met het e-mailadres dat bij de gemeente bekend is. Lukt het niet om in te loggen of is er een ander technisch probleem, stuur dan een e-mail naar [ivdesk@amsterdam.nl](<mailto:ivdesk@amsterdam.nl>) of bel 020 251 8008 (optie 3).
+
 Zo vraagt u vaststelling van uw subsidie aan:
-Ga naar [LINK: Mijn Am­ster­dam](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/mijn-amsterdam/).
-Log in met eHer­ken­ning.
-Kies Sub­si­dies on­der Mijn the­ma's
-Kies de sub­si­die die u wilt ver­ant­woor­den.
-Kies Eind­ver­ant­woor­ding in­die­nen.
-Voeg de ge­vraag­de bij­la­ge(n) toe.
-Ver­zend het for­mu­lier.
-Als alle documenten binnen zijn, stellen wij de subsidiebinnen 8 wekenvast.
+
+  1. Ga naar [Mijn Am­ster­dam](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/mijn-amsterdam/>).
+  2. Log in met eHer­ken­ning.
+  3. Kies Sub­si­dies on­der Mijn the­ma's
+  4. Kies de sub­si­die die u wilt ver­ant­woor­den.
+  5. Kies Eind­ver­ant­woor­ding in­die­nen.
+  6. Voeg de ge­vraag­de bij­la­ge(n) toe.
+  7. Ver­zend het for­mu­lier.
+
+Als alle documenten binnen zijn, stellen wij de subsidie **binnen 8 weken** vast.
+
 Wij vergoeden maximaal de helft van de werkelijke kosten die aanvullend op de cao-vergoeding zijn gemaakt. U ontvangt maximaal het subsidiebedrag dat in uw beschikking staat aangegeven.
 
-Meer informatie
-Lees altijd de volledige subsidieregeling Voorziening tegemoetkoming in aanvulling op cao vergoede reiskosten. Deze vindt u in de [LINK: Verordening op het lokaal onderwijsbeleid Amsterdam 2019](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/verordening-lokaal-onderwijsbeleid/), bijlage 4, hoofdstuk 3. Of bekijk de [LINK: Amsterdamse Lerarenagenda](https://www.amsterdam.nl/sociaaldomein/onderwijs-leerplicht/aanpak-lerarentekort/) .
-Kijk voor algemene informatie over subsidies op [LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) .
+### Meer informatie
 
-Heeft u nog vragen?
-Mail naar [LINK: subsidies@amsterdam.nl](mailto:subsidies@amsterdam.nl) of bel 14 020.
-Hulp bij ontoegankelijke documentenWij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [LINK: het contactformulier](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/) .
+Lees altijd de volledige subsidieregeling Voorziening tegemoetkoming in aanvulling op cao vergoede reiskosten. Deze vindt u in de [Verordening op het lokaal onderwijsbeleid Amsterdam 2019](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/verordening-lokaal-onderwijsbeleid/>), bijlage 4, hoofdstuk 3. Of bekijk de [Amsterdamse Lerarenagenda](<https://www.amsterdam.nl/sociaaldomein/onderwijs-leerplicht/aanpak-lerarentekort/>).
+
+Kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https://www.amsterdam.nl/subsidies/>).
+
+### Heeft u nog vragen?
+
+Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
+
+**Hulp bij ontoegankelijke documenten
+** Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

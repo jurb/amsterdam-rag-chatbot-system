@@ -1,32 +1,52 @@
 [PAGE LINK: subsidies](https://www.amsterdam.nl/subsidies/)
 
-Subsidies
+# Subsidies
 
-Welke subsidies zijn er
-[LINK: Zoek het onderwerp waarvoor u subsidie wilt aanvragen](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/)
+## Welke subsidies zijn er
 
-Hoe vraagt u subsidie aan
-[LINK: Uitleg over het aanvragen en verantwoorden van subsidies](https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/)
+  * [Zoek het onderwerp waarvoor u subsidie wilt aanvragen](<https://www.amsterdam.nl/subsidies/subsidies-onderwerp/>)
 
-Uw aanvraag bekijken
+## Hoe vraagt u subsidie aan
+
+  * [Uitleg over het aanvragen en verantwoorden van subsidies](<https://www.amsterdam.nl/subsidies/subsidie-aanvragen-bij-amsterdam/>)
+
+## Uw aanvraag bekijken
+
 Op MijnAmsterdam kunt u de status van uw lopende aanvragen bekijken.
-[LINK: Log in op Mijn Amsterdam](https://mijn.amsterdam.nl/)
 
-Subsidiesregister
-[LINK: Overzicht subsidieaanvragen vanaf 2016](https://app.powerbi.com/view?r=eyJrIjoiYTJmYTZmM2MtMmE4Zi00YmUyLTkyM2ItOTNjODEwYjI4NWRiIiwidCI6IjcyZmNhMWIxLTJjMmUtNDM3Ni1hNDQ1LTI5NGQ4MDE5NjgwNCIsImMiOjl9)
+  * [Log in op Mijn Amsterdam](<https://mijn.amsterdam.nl/>)
 
-Regels, wetten en verordeningen
-[LINK: Wet Bibob](https://www.amsterdam.nl/subsidies/wet-bibob/)
-[LINK: Regelgeving subsidies](https://lokaleregelgeving.overheid.nl/ZoekResultaat?datumrange=op&gemeenten=Amsterdam)
-[LINK: Algemene wet bestuursrecht, titel 4.2 subsidies](https://wetten.overheid.nl/BWBR0005537/2018-09-19#Hoofdstuk4_Titeldeel4.2)
-[LINK: Subsidieverordening Amsterdam 2023](https://lokaleregelgeving.overheid.nl/CVDR699839/)
+## Subsidiesregister
 
-Andere organisaties
+  * [Overzicht subsidieaanvragen vanaf 2016](<https://app.powerbi.com/view?r=eyJrIjoiYTJmYTZmM2MtMmE4Zi00YmUyLTkyM2ItOTNjODEwYjI4NWRiIiwidCI6IjcyZmNhMWIxLTJjMmUtNDM3Ni1hNDQ1LTI5NGQ4MDE5NjgwNCIsImMiOjl9>)
+
+## Regels, wetten en verordeningen
+
+  * [Wet Bibob](<https://www.amsterdam.nl/subsidies/wet-bibob/>)
+  * [Regelgeving subsidies](<https://lokaleregelgeving.overheid.nl/ZoekResultaat?datumrange=op&gemeenten=Amsterdam>)
+  * [Algemene wet bestuursrecht, titel 4.2 subsidies](<https://wetten.overheid.nl/BWBR0005537/2018-09-19#Hoofdstuk4_Titeldeel4.2>)
+  * [Subsidieverordening Amsterdam 2023](<https://lokaleregelgeving.overheid.nl/CVDR699839/>)
+
+## Andere organisaties
+
 De gemeente werkt samen met onderstaande organisaties die ook subsidies verlenen of co-financieren.
-[LINK: VSB fonds](https://www.vsbfonds.nl/)
-[LINK: Europese subsidies: EFRO](https://www.rijksoverheid.nl/onderwerpen/europese-subsidies/europese-structuur--en-investeringsfondsen/europees-fonds-voor-regionale-ontwikkeling-efro)
 
-Contact
-Mailen [LINK: subsidies@amsterdam.nl](mailto:subsidies@amsterdam.nl)
-Bellen [LINK: 14-020](tel:14020)
-Post opsturenGemeente AmsterdamT.a.v. SubsidiebureauPostbus 580101040 HA Amsterdam
+  * [VSB fonds](<https://www.vsbfonds.nl/>)
+  * [Europese subsidies: EFRO](<https://www.rijksoverheid.nl/onderwerpen/europese-subsidies/europese-structuur--en-investeringsfondsen/europees-fonds-voor-regionale-ontwikkeling-efro>)
+
+## Contact
+
+**Mailen**
+[subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>)
+
+**Bellen
+**[14-020](<tel:14020>)
+
+**Post opsturen
+** Gemeente Amsterdam
+T.a.v. Subsidiebureau
+Postbus 58010
+1040 HA Amsterdam
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

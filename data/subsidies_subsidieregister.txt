@@ -1,2 +1,6 @@
 [PAGE LINK: subsidies subsidieregister](https://www.amsterdam.nl/subsidies/subsidieregister/)
 
+![Power BI loading](https://content.powerapps.com/resource/powerbiwfe/images/spinner-PBI-logo.6434e0fca135a582c323.svg)
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

@@ -1,39 +1,54 @@
 [PAGE LINK: subsidies subsidieregelingen verantwoorden subsidie monumenten weesp](https://www.amsterdam.nl/subsidies/subsidieregelingen/verantwoorden-subsidie-monumenten-weesp/)
 
-subsidie Monumenten Weesp
+# Verantwoorden subsidie Monumenten Weesp
+
 U kunt deze subsidie niet meer aanvragen. Al subsidie ontvangen? Dan moet u de subsidie nog wel verantwoorden. Lees hier hoe het werkt.
 
-Verantwoorden
-Deze informatie is voor de verantwoording (aanvraag tot vaststelling) van subsidieaanvragen die zijn ingediendvóór 1 augustus 2023. Binnenkort staat op deze pagina ook informatie over de verantwoording van subsidieaanvragen die zijn ingediendvanaf 1 augustus 2023.
+### Verantwoorden
+
+Deze informatie is voor de verantwoording (aanvraag tot vaststelling) van subsidieaanvragen die zijn ingediend **vóór 1 augustus 2023**. Binnenkort staat op deze pagina ook informatie over de verantwoording van subsidieaanvragen die zijn ingediend **vanaf 1 augustus 2023**.
+
 Of u de subsidie moet verantwoorden hangt af van de hoogte van de subsidie:
-Subsidies tot € 5.000,- hoeft u niet te verantwoorden.
-Subsidies van € 5.000,- tot € 50.000,- moet u verantwoorden binnen 8 weken nadat u uw activiteiten hebt afgerond.
 
-Hiervoor moet u deze bijlagen meesturen:
-een overzicht van de getroffen voorzieningen
-de daarop betrekking hebbende rekeningen en betalingsbewijzen
+  * Subsidies tot € 5.000,- hoeft u niet te verantwoorden.
+  * Subsidies van € 5.000,- tot € 50.000,- moet u verantwoorden binnen 8 weken nadat u uw activiteiten hebt afgerond.
 
-Zo vraagt u vaststelling van uw subsidie aan:
-Hebt u subsidie aangevraagd vóór 24 maart 2022? Stuur uw verantwoording dan per e-mail naar [LINK: subsidies@amsterdam.nl](mailto:subsidies@amsterdam.nl)
-Ga naar uw [LINK: Mijn Amsterdam](https://mijn.amsterdam.nl/) .
-Log in met DigiD of eHerkenning.
-Kies Subsidies onder Mijn thema's
-Kies de subsidie die u wilt verantwoorden.
-Kies Eindverantwoording indienen.
-Voeg de gevraagde bijlage(n) toe.
-Verzend het formulier.
-Als alle documenten binnen zijn, stellen wij de subsidiebinnen 8 wekenvast.
+#### Hiervoor moet u deze bijlagen meesturen:
 
-Meer informatie
+  * een overzicht van de getroffen voorzieningen
+  * de daarop betrekking hebbende rekeningen en betalingsbewijzen
 
-Lees voor meer informatie
-altijd de volledige regeling [LINK: Gemeentelijke monumenten](https://lokaleregelgeving.overheid.nl/CVDR73679/1) en
-voor aanvragenvanaf1 augustus 2023de [LINK: Algemene Subsidieverordening Amsterdam 2023](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/asa-2023/)
-voor aanvragen vanvóór 1 augustus 2023de [LINK: Algemene Subsidieverordening Amsterdam 2013](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/algemene-subsidieverordening-amsterdam/)
-kijk voor algemene informatie over subsidies op [LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) .
+#### Zo vraagt u vaststelling van uw subsidie aan:
 
-Hebt u nog vragen?
-Mail naar [LINK: subsidies@amsterdam.nl](mailto:subsidies@amsterdam.nl) of bel 14 020.
+Hebt u subsidie aangevraagd vóór 24 maart 2022? Stuur uw verantwoording dan per e-mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>)
 
-Hulp bij ontoegankelijke documenten
-Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [LINK: het contactformulier](https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/) .
+  1. Ga naar uw [Mijn Amsterdam](<https://mijn.amsterdam.nl/>).
+  2. Log in met DigiD of eHerkenning.
+  3. Kies Subsidies onder Mijn thema's
+  4. Kies de subsidie die u wilt verantwoorden.
+  5. Kies Eindverantwoording indienen.
+  6. Voeg de gevraagde bijlage(n) toe.
+  7. Verzend het formulier.
+
+Als alle documenten binnen zijn, stellen wij de subsidie **binnen 8 weken** vast.
+
+### Meer informatie
+
+#### Lees voor meer informatie
+
+  * altijd de volledige regeling [Gemeentelijke monumenten](<https://lokaleregelgeving.overheid.nl/CVDR73679/1>) en
+  * voor aanvragen **vanaf****1 augustus 2023** de [Algemene Subsidieverordening Amsterdam 2023](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/asa-2023/>)
+  * voor aanvragen van **vóór 1 augustus 2023** de [Algemene Subsidieverordening Amsterdam 2013](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/algemene-subsidieverordening-amsterdam/>)
+  * kijk voor algemene informatie over subsidies op [amsterdam.nl/subsidies](<https://www.amsterdam.nl/subsidies/>).
+
+#### Hebt u nog vragen?
+
+Mail naar [subsidies@amsterdam.nl](<mailto:subsidies@amsterdam.nl>) of bel 14 020.
+
+#### Hulp bij ontoegankelijke documenten
+
+Wij werken aan het toegankelijk maken van onze pdf-documenten. Hebt u problemen met een ontoegankelijke pdf of een ander bestand? Neem dan contact op via [het contactformulier](<https://formulieren.amsterdam.nl/TriplEforms/DirectRegelen/formulier/nl-NL/evAmsterdam/contactformulier.aspx/>).
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

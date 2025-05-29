@@ -1,28 +1,44 @@
 [PAGE LINK: subsidies subsidieregelingen subsidie amsterdamse familie school](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-amsterdamse-familie-school/)
 
-Subsidie Amsterdamse Familie School
+# Subsidie Amsterdamse Familie School
+
 U kunt deze subsidie niet meer aanvragen. Al subsidie ontvangen? Dan moet u de subsidie nog wel verantwoorden. Lees hier hoe het werkt
 
-Verantwoorden
+### Verantwoorden
+
 Of u de subsidie moet verantwoorden hangt af van de hoogte van de subsidie:
+
 Subsidies boven de € 50.000,- moet u verantwoorden binnen 12 weken nadat u uw activiteiten hebt afgerond.
 
-U moet deze bijlagen meesturen:
-een inhoudelijk verslag
-een financieel verslag
+#### U moet deze bijlagen meesturen:
 
-Zo dient u de verantwoording met eHerkenning in
-Ga naar [LINK: Mijn Amsterdam](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/mijn-amsterdam/).
-Log in met eHerkenning.
-Kies Subsidies onder Mijn thema's.
-Kies de subsidie die u wilt verantwoorden.
-Kies Eindverantwoording indienen.
-Voeg de gevraagde bijlage(n) toe.
-Verzend het formulier.
-Als alle documenten binnen zijn, stellen wij de subsidiebinnen 12 wekenvast. Wij vergoeden alleen de werkelijk gemaakte kosten. U ontvangt maximaal het subsidiebedrag dat in uw beschikking staat.
-Tussentijdse verantwoordingsgesprekkenU voert elk half jaar een tussentijds verantwoordingsgesprek over de ontwikkeling en uitvoer van de Amsterdamse Familie School. De afdeling Onderwijs neemt hiervoor contact op met de school. Het inhoudelijk verslag bestaat uit de verslagen van deze gesprekken en het verslag van het eindgesprek eind schooljaar 2026-2027.
+  * een inhoudelijk verslag
+  * een financieel verslag
 
-Meer informatie
-Lees altijd de volledige voorziening [LINK: Verordening op het lokaal onderwijsbeleid Amsterdam 2019](https://www.[LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) /externe-links-subsidies/verordening-lokaal-onderwijsbeleid/), (bijlage 3 Voorzieningen Kansengelijkheid en hoofdstuk 5 Amsterdamse Familie School).
-Bekijk ook de algemene informatie over subsidies op [LINK: amsterdam.nl/subsidies](https://www.amsterdam.nl/subsidies/) .
-Hebt u vragen over de Amsterdamse Familie School?Kijk op [LINK: www.amsterdam.nl/familieschool](https://www.amsterdam.nl/sociaaldomein/onderwijs/familiescholen/?vkurl=familieschool) of mail naar familieschool@amsterdam.nl.
+#### Zo dient u de verantwoording met eHerkenning in
+
+  1. Ga naar [Mijn Amsterdam](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/mijn-amsterdam/>).
+  2. Log in met eHerkenning.
+  3. Kies Subsidies onder Mijn thema's.
+  4. Kies de subsidie die u wilt verantwoorden.
+  5. Kies Eindverantwoording indienen.
+  6. Voeg de gevraagde bijlage(n) toe.
+  7. Verzend het formulier.
+
+Als alle documenten binnen zijn, stellen wij de subsidie**binnen 12 weken** vast. Wij vergoeden alleen de werkelijk gemaakte kosten. U ontvangt maximaal het subsidiebedrag dat in uw beschikking staat.
+
+**Tussentijdse verantwoordingsgesprekken
+** U voert elk half jaar een tussentijds verantwoordingsgesprek over de ontwikkeling en uitvoer van de Amsterdamse Familie School. De afdeling Onderwijs neemt hiervoor contact op met de school. Het inhoudelijk verslag bestaat uit de verslagen van deze gesprekken en het verslag van het eindgesprek eind schooljaar 2026-2027.
+
+### Meer informatie
+
+Lees altijd de volledige voorziening[ Verordening op het lokaal onderwijsbeleid Amsterdam 2019](<https://www.amsterdam.nl/subsidies/externe-links-subsidies/verordening-lokaal-onderwijsbeleid/>), (bijlage 3 Voorzieningen Kansengelijkheid en hoofdstuk 5 Amsterdamse Familie School).
+
+Bekijk ook de algemene informatie over subsidies op [amsterdam.nl/subsidies](<https://www.amsterdam.nl/subsidies/>).
+
+**Hebt u vragen over de Amsterdamse Familie School?**
+Kijk op [www.amsterdam.nl/familieschool](<https://www.amsterdam.nl/sociaaldomein/onderwijs/familiescholen/?vkurl=familieschool>) of mail naar familieschool@amsterdam.nl.
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

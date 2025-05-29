@@ -1,11 +1,33 @@
 [PAGE LINK: subsidies subsidies onderwerp subsidies basis begroting asa](https://www.amsterdam.nl/subsidies/subsidies-onderwerp/subsidies-basis-begroting-asa/)
 
+# Subsidies op basis van de begroting en de ASA
 
-Subsidies op basis van de begroting en de ASA
+## Subsidies op basis van de begroting en de ASA
+
+Zoeken binnen de index
+
+Zoekterm:
+
+Onderwerp subsidies
+
+\--- Subsidies op basis van de begroting
+
+Voor wie?
+
+\--- Particulier Organisatie
+
+zoeken
+
 Resultaten 1 t/m 2 getoond - 2 resultaten
 
-[LINK: Incidentele (eenmalige) initiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-eenmalige-initiatieven/)
+## [Incidentele (eenmalige) initiatieven](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-eenmalige-initiatieven/>)
+
 Bewoners en organisaties kunnen subsidie aanvragen voor activiteiten die bijdragen aan een van de beleidsdoelen van de gemeente.
 
-[LINK: Organisatiespecifieke subsidie](https://www.amsterdam.nl/subsidies/subsidieregelingen/organisatiespecifieke-subsidie/)
+## [Organisatiespecifieke subsidie](<https://www.amsterdam.nl/subsidies/subsidieregelingen/organisatiespecifieke-subsidie/>)
+
 In de begroting van de gemeente wordt jaarlijks een subsidiebedrag opgenomen voor een aantal (grotere) organisaties die een belangrijke bijdrage ...
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
