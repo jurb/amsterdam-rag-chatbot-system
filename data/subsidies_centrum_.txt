@@ -1,27 +1,51 @@
-[PAGE LINK: subsidies centrum](https://www.amsterdam.nl/subsidies/centrum/)
+# Subsidies stadsdeel Centrum
 
+## Subsidies stadsdeel Centrum
 
-Subsidies stadsdeel Centrum
-Deze subsidies geldenalléénvoor stadsdeel Centrum.
-Resultaten 1 t/m 7 getoond - 7 resultaten
+Deze subsidies gelden **alléén** voor stadsdeel Centrum.
 
-[LINK: Aanpak Binnenstad](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-binnenstad/)
+Zoeken binnen de index
+
+Zoekterm:
+
+zoeken
+
+![Hoftuin. Foto: Edwin van Eis](https://www.amsterdam.nl/publish/pages/1007478/hoftuin.jpg)
+
+Resultaten 1 t/m 8 getoond - 8 resultaten
+
+## [Aanpak Binnenstad](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-aanpak-binnenstad/>)
+
 Subsidie voor initiatieven die bijdragen aan de transformatie van de binnenstad waardoor Amsterdammers en nieuwe bezoekers worden aangetrokken.
 
-[LINK: Bewonersinitiatieven in Centrum](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-centrum/)
+## [Bewonersinitiatieven in Centrum](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-centrum/>)
+
 Bewoners en organisaties kunnen subsidie aanvragen voor bewonersinitiatieven die helpen de buurt te verbeteren.
 
-[LINK: Buurtbudgetten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbudgetten/)
+## [Buurtbudgetten](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbudgetten/>)
+
 Alleen personen en organisaties die succesvol een buurtbudgetronde hebben doorlopen kunnen deze subsidie krijgen. Elk stadsdeel bepaalt per ronde ...
 
-[LINK: Gebiedsgebonden kunst- en cultuuractiviteiten (eenmalig) - Centrum](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-centrum/)
+## [Gebiedsgebonden kunst- en cultuuractiviteiten (eenmalig) - Centrum](<https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-centrum/>)
+
 Particulieren en kunst- en cultuurinstellingen kunnen subsidie aanvragen voor activiteiten op het gebied van kunst en cultuur in Centrum.
 
-[LINK: Gebiedsgebonden ondernemersinitiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondernemersinitiatieven/)
+## [Gebiedsgebonden ondernemersinitiatieven](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondernemersinitiatieven/>)
+
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor initiatieven gericht op het verbeteren van het economisch ...
 
-[LINK: Sociale basis 2025: Sociaal weefsel](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/)
+## [Maatschappelijke Initiatieven Werk, Participatie en Inkomen](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijke-initiatieven>)
+
+Organisaties kunnen subsidie aanvragen voor projecten die Amsterdammers zonder werk of opleiding helpen om aan het werk te gaan of om een ...
+
+## [Sociale basis 2025: Sociaal weefsel](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/>)
+
 U kunt een eenmalige of boekjaar subsidie aanvragen voor activiteiten gericht op het vergroten van gelijke kansen op het gebied van gezondheid en ...
 
-[LINK: Straatmanagement en parkmanagement](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/?)
+## [Straatmanagement en parkmanagement](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/?>)
+
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor de inzet van straatmanagement en parkmanagement.
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten

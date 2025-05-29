@@ -1,33 +1,59 @@
-[PAGE LINK: subsidies noord](https://www.amsterdam.nl/subsidies/noord/)
+# Subsidies stadsdeel Noord
 
+## Subsidies stadsdeel Noord
 
-Subsidies stadsdeel Noord
-Deze subsidie geldtalléénvoor stadsdeel Noord.
-Resultaten 1 t/m 9 getoond - 9 resultaten
+Deze subsidie geldt **alléén** voor stadsdeel Noord.
 
-[LINK: Bewonersinitiatieven in Noord](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-noord/)
+Zoeken binnen de index
+
+Zoekterm:
+
+zoeken
+
+![](https://www.amsterdam.nl/publish/pages/688797/ijeneye_01_8apr2013_e_v_eis_940x250.jpg)
+
+Resultaten 1 t/m 10 getoond - 10 resultaten
+
+## [Bewonersinitiatieven in Noord](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-bewonersinitiatieven-noord/>)
+
 U kunt in stadsdeel Noord subsidie aanvragen voor een activiteit waarmee uw buurt prettiger en leefbaarder wordt.
 
-[LINK: Buurtbudgetten](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbudgetten/)
+## [Buurtbudgetten](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-buurtbudgetten/>)
+
 Alleen personen en organisaties die succesvol een buurtbudgetronde hebben doorlopen kunnen deze subsidie krijgen. Elk stadsdeel bepaalt per ronde ...
 
-[LINK: Buurtmedewerkers (Nieuw-West, Noord en Zuidoost)](https://www.amsterdam.nl/subsidies/subsidieregelingen/buurtmedewerkers-nwwest-noord-zuidoost/)
+## [Buurtmedewerkers (Nieuw-West, Noord en Zuidoost)](<https://www.amsterdam.nl/subsidies/subsidieregelingen/buurtmedewerkers-nwwest-noord-zuidoost/>)
+
 Subsidie voor het creëren van één of meerdere banen als Buurtmedewerker in de stadsdelen Noord, Nieuw-West of Zuidoost.
 
-[LINK: Gebiedsgebonden kunst- en cultuuractiviteiten (eenmalig) - Noord](https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-noord/)
+## [Gebiedsgebonden kunst- en cultuuractiviteiten (eenmalig) - Noord](<https://www.amsterdam.nl/subsidies/subsidieregelingen/eenmalige-gebiedsgebonden-kunst-noord/>)
+
 Kunst- en cultuurinstellingen en professionele kunstenaars, of particulieren die een creatief beroep uitoefenen, kunnen subsidie aanvragen.
 
-[LINK: Gebiedsgebonden kunst- en cultuuractiviteiten (periodiek) - Noord](https://www.amsterdam.nl/subsidies/subsidieregelingen/kunst-cultuur-periodiek-noord/)
+## [Gebiedsgebonden kunst- en cultuuractiviteiten (periodiek) - Noord](<https://www.amsterdam.nl/subsidies/subsidieregelingen/kunst-cultuur-periodiek-noord/>)
+
 Alleen kunst- en cultuurinstellingen die voor juli 2016 in aanmerking kwamen voor een periodieke (boekjaar) subsidie kunnen een periodieke ...
 
-[LINK: Gebiedsgebonden ondernemersinitiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondernemersinitiatieven/)
+## [Gebiedsgebonden ondernemersinitiatieven](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-ondernemersinitiatieven/>)
+
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor initiatieven gericht op het verbeteren van het economisch ...
 
-[LINK: Noordmakers voor maatschappelijke initiatieven](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noordmakers-maatschappelijke/)
+## [Maatschappelijke Initiatieven Werk, Participatie en Inkomen](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-maatschappelijke-initiatieven>)
+
+Organisaties kunnen subsidie aanvragen voor projecten die Amsterdammers zonder werk of opleiding helpen om aan het werk te gaan of om een ...
+
+## [Noordmakers voor maatschappelijke initiatieven](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-noordmakers-maatschappelijke/>)
+
 U kunt in stadsdeel Noord subsidie aanvragen voor maatschappelijke initiatieven.
 
-[LINK: Sociale basis 2025: Sociaal weefsel](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/)
+## [Sociale basis 2025: Sociaal weefsel](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-sociale-basis-2025-sociaal/>)
+
 U kunt een eenmalige of boekjaar subsidie aanvragen voor activiteiten gericht op het vergroten van gelijke kansen op het gebied van gezondheid en ...
 
-[LINK: Straatmanagement en parkmanagement](https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/?)
+## [Straatmanagement en parkmanagement](<https://www.amsterdam.nl/subsidies/subsidieregelingen/subsidie-straatmanagement-parkmanagement/?>)
+
 Ondernemersverenigingen (waaronder BIZ-verenigingen) kunnen subsidie aanvragen voor de inzet van straatmanagement en parkmanagement.
+
+  *[N (Noorderbreedte)]: Noorderbreedte
+  *[E (Oosterlengte)]: Oosterlengte
+  *[RD (Rijksdriehoeksco�rdinaten)]: Rijksdriehoeksco�rdinaten
