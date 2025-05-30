@@ -1,9 +1,25 @@
-# This is an ugly fork for subsidie info :)
+# Amsterdam Subsidies RAG Chatbot - Fork
 
-This version uses an azure openai resource and hides the other llm options. I checked in documents about subsidie, scraped with the tool mentioned below. That needs to be periodically refreshed.
+This is a fork of the [Amsterdam RAG Chatbot System](https://github.com/Amsterdam-AI-Team/amsterdam-rag-chatbot-system), customized for answering questions about subsidies from the amsterdam.nl website.
 
-1. checkout the 'subsidies' branch
-2. create an .env file with the following:
+## Key Modifications
+
+### 1. **Focused Data Source**
+- Uses a [fork of the scraper](https://github.com/jurb/amsterdam-nl-website-scraper/tree/feat-markdown-converter) to extract markdown files with YAML metadataheaders
+- Processes documents in markdown format with YAML metadata headers
+- Is made for files from the `subsidies` path from amsterdam.nl website
+
+### 2. **Azure OpenAI Integration**
+- Migrated from generic OpenAI to Azure OpenAI services
+- Hides other LLM options
+
+### 3. **Prompt**
+- Adjusted prompt slightly to use multiple documents to answer a question if applicable
+ 
+## Getting Started
+
+1. Checkout the 'subsidies' branch
+2. Create an .env file with the following:
 
 ```
 AZURE_RESOURCE_NAME=ai-openai-ont
@@ -18,13 +34,17 @@ AZURE_EMB_API_VERSION=2024-02-01
 ```
 
 3. `cd src`
-4. run the scripts with uv (or follow the instructions below):
+4. Populate the database:
 
-`uv run  --with flask --with openai --with google-generativeai --with groq --with sounddevice --with PyAudio --with tqdm --with langchain==0.2.1 --with langchain-cli==0.0.23 --with langchain-community==0.2.1 --with langchain-core==0.2.30 --with langchain-text-splitters==0.2.0 --with chromadb==0.4.24 --with dotenv populate_database.py`
+```bash
+uv run --with flask --with openai --with google-generativeai --with groq --with sounddevice --with PyAudio --with tqdm --with langchain==0.2.1 --with langchain-cli==0.0.23 --with langchain-community==0.2.1 --with langchain-core==0.2.30 --with langchain-text-splitters==0.2.0 --with chromadb==0.4.24 --with dotenv populate_database.py
+```
 
-(this will take a while the first time! like 20 mins... subsequent updates will be much faster)
+5. Start the chatbot:
 
-`uv run  --with flask --with openai --with google-generativeai --with groq --with sounddevice --with PyAudio --with tqdm --with langchain==0.2.1 --with langchain-cli==0.0.23 --with langchain-community==0.2.1 --with langchain-core==0.2.30 --with langchain-text-splitters==0.2.0 --with chromadb==0.4.24 --with dotenv app.py`
+```bash
+uv run --with flask --with openai --with google-generativeai --with groq --with sounddevice --with PyAudio --with tqdm --with langchain==0.2.1 --with langchain-cli==0.0.23 --with langchain-community==0.2.1 --with langchain-core==0.2.30 --with langchain-text-splitters==0.2.0 --with chromadb==0.4.24 --with dotenv app.py
+```
 
 # Amsterdam RAG Chatbot System
 
