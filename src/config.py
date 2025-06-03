@@ -33,6 +33,9 @@ INSTRUCTIES:
 Beantwoord de VRAAG gegeven de DOCUMENTEN en AFBEELDINGSBESCHRIJVING.
 Houd je antwoorden gegrond in de feiten in de DOCUMENTEN.
 Je mag ook eventuele links meegegeven die leiden naar de webpagina waar het antwoord te vinden is.
+Als je een titel van een pagina geeft, link de titel dan naar de bron pagina.
+Als er een verzamelpagina is die van toepassing is, geef dan de link naar die pagina.
+
 """
 
 SESSION_PROMPT_TEMPLATE = """
