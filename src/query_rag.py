@@ -250,11 +250,13 @@ class QueryProcessor:
         elif self.model_name == "ChatGPT 4o mini":
             # Check if we should use Azure OpenAI
             if os.getenv("AZURE_API_KEY"):
+                print('Using Azure OpenAI API. Current deployment:', os.getenv("AZURE_DEPLOYMENT"))
                 client = AzureOpenAI(
                     api_key=os.getenv("AZURE_API_KEY"),
                     api_version=os.getenv("AZURE_API_VERSION"),
                     azure_endpoint=os.getenv("AZURE_API_ENDPOINT")
                 )
+            
                 deployment_name = os.getenv("AZURE_DEPLOYMENT")
                 completion = client.chat.completions.create(
                     model=deployment_name,
@@ -265,6 +267,7 @@ class QueryProcessor:
                 )
             else:
                 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+                print('Using OpenAI API')
                 completion = client.chat.completions.create(
                     model="gpt-4o-mini",
                     messages=[
