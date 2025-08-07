@@ -15,6 +15,9 @@ This is a fork of the [Amsterdam RAG Chatbot System](https://github.com/Amsterda
 
 ### 3. **Prompt**
 - Adjusted prompt slightly to use multiple documents to answer a question if applicable
+
+### 4. **Interface**
+- Remove model selection and other functions
  
 ## Getting Started
 
